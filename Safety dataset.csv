@@ -1,0 +1,5001 @@
+Destination,Temperature_C,Condition,Wind_Speed_kmph,Safety
+Bengaluru,33.3,Clear,33.8,Safe
+Udaipur,20.1,Clear,31.8,Safe
+Jodhpur,27.6,Clear,66.3,Moderate
+Ooty,13.3,Cloudy,9.1,Safe
+Madurai,28.5,Rain,29.7,Safe
+Agra,14.6,Fog,39.6,Moderate
+Ayodhya,39.2,Clear,16.6,Safe
+Jaipur,30.0,Rain,44.3,Moderate
+Jaipur,23.9,Fog,22.8,Safe
+Mysuru,26.7,Fog,9.7,Safe
+Jaipur,27.6,Rain,7.3,Safe
+Prayagraj,10.1,Clear,28.8,Safe
+Kanyakumari,33.5,Rain,18.5,Safe
+Madurai,32.6,Rain,7.5,Safe
+Delhi,11.6,Heavy Rain,43.1,Moderate
+Kolkata,19.9,Clear,23.7,Safe
+Ooty,13.9,Clear,19.0,Safe
+Somnath,34.8,Clear,16.2,Safe
+Hampi,14.6,Cloudy,10.9,Safe
+Ooty,25.0,Clear,17.6,Safe
+Kanyakumari,28.5,Cloudy,58.0,Moderate
+Delhi,15.3,Cloudy,26.7,Safe
+Kodaikanal,23.3,Clear,10.7,Safe
+Chennai,32.1,Rain,26.8,Safe
+Amritsar,11.5,Heavy Rain,26.7,Moderate
+Ayodhya,28.2,Rain,6.4,Safe
+Thiruvananthapuram,22.8,Cloudy,24.7,Safe
+Lucknow,35.7,Clear,32.4,Safe
+Goa,34.4,Rain,40.9,Moderate
+Mathura & Vrindavan,32.6,Clear,19.3,Safe
+Mumbai,34.2,Fog,36.6,Moderate
+Lucknow,25.0,Rain,37.2,Moderate
+Srinagar,3.1,Cloudy,39.6,Safe
+Srinagar,-0.9,Cloudy,8.5,Safe
+Hampi,19.3,Cloudy,10.6,Safe
+Udaipur,15.9,Clear,17.1,Safe
+Kolkata,12.9,Cloudy,44.3,Safe
+Dharamshala,6.3,Clear,32.7,Safe
+Vaishno Devi (Katra),10.7,Cloudy,33.8,Safe
+Pune,26.2,Clear,21.1,Safe
+Kolkata,27.7,Fog,35.7,Moderate
+Shimla,-1.6,Clear,10.7,Safe
+Varanasi,25.3,Clear,6.9,Safe
+Varanasi,35.8,Cloudy,7.0,Safe
+Rameswaram,34.3,Clear,5.1,Safe
+Alleppey,31.4,Clear,28.2,Safe
+Kochi,23.7,Clear,45.7,Safe
+Goa,23.0,Clear,29.9,Safe
+Ahmedabad,23.6,Clear,25.2,Safe
+Jodhpur,21.7,Clear,23.4,Safe
+Goa,28.2,Clear,59.1,Moderate
+Goa,25.3,Clear,26.4,Safe
+Jaipur,28.0,Rain,5.4,Safe
+Pushkar,44.8,Clear,57.1,Moderate
+Kodaikanal,19.3,Clear,15.7,Safe
+Delhi,27.8,Clear,33.3,Safe
+Kodaikanal,16.3,Rain,10.3,Safe
+Agra,10.8,Cloudy,10.4,Safe
+Mysuru,10.7,Cloudy,9.7,Safe
+Udaipur,35.7,Clear,5.4,Safe
+Nashik,19.8,Clear,7.3,Safe
+Dharamshala,-1.2,Heavy Snow,9.0,Moderate
+Manali,8.0,Rain,8.1,Moderate
+Munnar,33.5,Cloudy,50.9,Moderate
+Varanasi,18.0,Clear,42.7,Safe
+Jodhpur,31.3,Clear,26.2,Safe
+Somnath,16.6,Rain,42.7,Moderate
+Shirdi,29.3,Clear,7.2,Safe
+Darjeeling,5.3,Fog,14.8,Moderate
+Amritsar,39.9,Clear,32.2,Safe
+Mumbai,28.0,Cloudy,48.9,Safe
+Varanasi,12.2,Clear,44.9,Safe
+Prayagraj,14.7,Clear,8.0,Safe
+Prayagraj,20.4,Cloudy,30.6,Safe
+Ooty,10.8,Clear,30.4,Safe
+Aurangabad,38.8,Clear,37.5,Safe
+Madurai,14.5,Clear,26.1,Safe
+Pushkar,38.3,Clear,23.0,Safe
+Udaipur,33.1,Rain,13.4,Safe
+Kochi,29.5,Cloudy,29.2,Safe
+Somnath,25.2,Rain,22.3,Safe
+Ahmedabad,18.0,Clear,36.4,Safe
+Shimla,2.6,Fog,20.2,Moderate
+Mysuru,37.8,Storm,39.7,Moderate
+Delhi,19.0,Rain,39.9,Moderate
+Vijayawada,25.0,Storm,39.0,Moderate
+Madurai,26.5,Fog,23.5,Safe
+Chennai,28.2,Cloudy,50.3,Moderate
+Amritsar,29.8,Clear,37.9,Safe
+Munnar,20.3,Rain,5.3,Safe
+Shimla,7.2,Rain,40.0,Moderate
+Mathura & Vrindavan,23.7,Clear,41.2,Safe
+Agra,26.3,Clear,13.3,Safe
+Tirupati,25.3,Clear,25.1,Safe
+Mathura & Vrindavan,20.6,Storm,16.0,Moderate
+Amritsar,30.0,Clear,37.9,Safe
+Ajmer,27.3,Rain,34.9,Moderate
+Statue of Unity (Kevadia),19.4,Fog,22.3,Safe
+Lucknow,34.2,Rain,44.0,Moderate
+Varanasi,17.4,Cloudy,29.8,Safe
+Bengaluru,21.8,Clear,8.3,Safe
+Mysuru,31.3,Storm,5.1,Moderate
+Aurangabad,38.5,Clear,22.0,Safe
+Rishikesh & Haridwar,11.9,Clear,26.9,Safe
+Mathura & Vrindavan,26.5,Rain,26.1,Safe
+Prayagraj,18.6,Fog,37.5,Moderate
+Kanyakumari,22.3,Clear,30.6,Safe
+Visakhapatnam,33.5,Rain,40.7,Moderate
+Nainital,-5.0,Cloudy,15.6,Safe
+Visakhapatnam,31.8,Cloudy,37.4,Safe
+Vijayawada,21.0,Clear,13.4,Safe
+Ooty,11.1,Clear,8.8,Safe
+Manali,0.0,Clear,7.5,Safe
+Madurai,15.6,Clear,27.2,Safe
+Nashik,17.2,Rain,34.1,Moderate
+Darjeeling,-3.4,Clear,38.5,Moderate
+Aurangabad,38.0,Cloudy,38.2,Safe
+Pune,16.8,Rain,8.7,Safe
+Prayagraj,12.7,Fog,38.4,Moderate
+Nashik,36.7,Clear,37.8,Safe
+Visakhapatnam,21.0,Clear,20.6,Safe
+Ooty,11.3,Rain,30.1,Moderate
+Srinagar,1.2,Clear,39.9,Safe
+Agra,18.3,Clear,42.9,Safe
+Shirdi,11.4,Clear,40.2,Safe
+Amritsar,35.3,Clear,8.4,Safe
+Shirdi,32.6,Rain,9.8,Safe
+Amritsar,24.7,Rain,10.6,Safe
+Pushkar,42.3,Clear,17.4,Safe
+Ahmedabad,39.0,Clear,22.9,Safe
+Manali,-4.8,Snow,6.0,Unsafe
+Ahmedabad,21.8,Cloudy,35.7,Safe
+Mumbai,33.6,Cloudy,13.1,Safe
+Visakhapatnam,21.1,Clear,57.1,Moderate
+Alleppey,32.6,Cloudy,33.5,Safe
+Thiruvananthapuram,33.8,Storm,56.1,Unsafe
+Rishikesh & Haridwar,6.1,Clear,13.8,Safe
+Kolkata,14.9,Heavy Rain,17.9,Moderate
+Kanyakumari,29.9,Clear,49.9,Safe
+Agra,28.2,Rain,9.6,Safe
+Darjeeling,14.7,Clear,16.7,Safe
+Munnar,21.5,Rain,20.2,Safe
+Srinagar,5.6,Cloudy,13.5,Safe
+Munnar,31.2,Heavy Rain,15.8,Moderate
+Rishikesh & Haridwar,7.8,Rain,7.7,Moderate
+Dwarka,28.5,Clear,14.7,Safe
+Ajmer,11.0,Clear,44.1,Safe
+Kolkata,36.2,Rain,37.3,Moderate
+Pushkar,37.6,Clear,30.3,Safe
+Udaipur,15.1,Clear,9.0,Safe
+Vijayawada,26.8,Fog,15.3,Safe
+Alleppey,29.9,Rain,56.4,Moderate
+Goa,20.9,Clear,41.7,Safe
+Vaishno Devi (Katra),6.2,Fog,14.1,Moderate
+Coorg,24.6,Cloudy,9.1,Safe
+Varanasi,38.7,Clear,8.7,Safe
+Pushkar,40.4,Clear,14.4,Safe
+Pushkar,22.3,Clear,19.3,Safe
+Darjeeling,-4.0,Snow,24.6,Unsafe
+Agra,15.3,Fog,25.7,Safe
+Aurangabad,38.1,Cloudy,29.6,Safe
+Ahmedabad,21.1,Fog,44.6,Moderate
+Rameswaram,20.9,Cloudy,17.0,Safe
+Kodaikanal,19.3,Clear,23.2,Safe
+Agra,17.8,Clear,30.5,Safe
+Kolkata,11.9,Rain,25.1,Safe
+Ooty,11.2,Clear,29.7,Safe
+Bengaluru,14.6,Heavy Rain,31.3,Moderate
+Delhi,34.6,Clear,39.1,Safe
+Pune,14.8,Cloudy,34.1,Safe
+Statue of Unity (Kevadia),13.8,Clear,22.3,Safe
+Coorg,17.3,Rain,30.0,Moderate
+Jodhpur,24.0,Clear,76.1,Moderate
+Delhi,23.5,Fog,8.9,Safe
+Mathura & Vrindavan,29.9,Clear,44.0,Safe
+Dwarka,37.7,Clear,32.9,Safe
+Thiruvananthapuram,26.5,Clear,6.3,Safe
+Statue of Unity (Kevadia),24.5,Clear,17.1,Safe
+Prayagraj,14.6,Clear,43.8,Safe
+Hampi,9.5,Rain,31.6,Moderate
+Goa,33.7,Rain,58.3,Moderate
+Pushkar,35.1,Clear,7.9,Safe
+Mumbai,26.7,Rain,21.0,Safe
+Agra,37.1,Cloudy,38.4,Safe
+Pushkar,37.6,Cloudy,13.5,Safe
+Kolkata,39.9,Fog,20.3,Safe
+Darjeeling,10.2,Cloudy,34.9,Safe
+Darjeeling,8.5,Clear,18.5,Safe
+Ayodhya,36.8,Rain,15.0,Safe
+Coorg,20.3,Cloudy,14.8,Safe
+Chennai,31.4,Rain,35.7,Moderate
+Kochi,27.1,Clear,8.6,Safe
+Alleppey,25.9,Clear,50.9,Moderate
+Goa,21.2,Clear,40.7,Safe
+Pune,16.7,Heavy Rain,10.7,Safe
+Ooty,16.0,Fog,22.5,Safe
+Rameswaram,34.8,Rain,10.2,Safe
+Pushkar,38.5,Clear,72.9,Moderate
+Munnar,21.0,Rain,44.1,Moderate
+Dharamshala,3.8,Clear,33.0,Safe
+Munnar,29.0,Cloudy,13.7,Safe
+Madurai,31.3,Clear,16.7,Safe
+Jaisalmer,40.8,Clear,64.1,Moderate
+Dharamshala,3.1,Cloudy,19.9,Safe
+Dwarka,16.1,Rain,40.7,Moderate
+Aurangabad,14.5,Heavy Rain,31.3,Moderate
+Nashik,23.5,Clear,39.7,Safe
+Statue of Unity (Kevadia),20.6,Clear,21.4,Safe
+Alleppey,33.8,Heavy Rain,45.1,Unsafe
+Kanyakumari,24.9,Rain,5.4,Safe
+Ahmedabad,33.5,Clear,42.9,Safe
+Kanyakumari,28.2,Clear,31.4,Safe
+Darjeeling,11.1,Clear,17.8,Safe
+Jaipur,37.3,Clear,32.1,Safe
+Thiruvananthapuram,24.6,Fog,47.4,Moderate
+Nashik,34.2,Cloudy,21.1,Safe
+Srinagar,12.6,Fog,33.9,Moderate
+Varanasi,35.8,Clear,33.8,Safe
+Kochi,27.6,Cloudy,57.3,Moderate
+Ooty,11.8,Clear,6.8,Safe
+Mysuru,24.3,Clear,8.2,Safe
+Madurai,21.9,Rain,6.2,Safe
+Nainital,12.7,Clear,29.2,Safe
+Dwarka,33.6,Clear,35.5,Safe
+Mysuru,25.8,Heavy Rain,36.5,Moderate
+Ahmedabad,18.2,Rain,21.0,Safe
+Jodhpur,23.6,Clear,25.0,Safe
+Jaisalmer,29.2,Clear,78.2,Moderate
+Prayagraj,22.7,Clear,38.8,Safe
+Nashik,17.9,Clear,21.9,Safe
+Chennai,30.9,Clear,5.2,Safe
+Kochi,30.3,Rain,18.5,Safe
+Tirupati,23.0,Clear,31.9,Safe
+Nainital,2.7,Clear,6.7,Safe
+Prayagraj,31.1,Clear,32.5,Safe
+Dwarka,29.4,Clear,23.9,Safe
+Dwarka,14.1,Cloudy,17.0,Safe
+Chennai,25.6,Cloudy,35.9,Safe
+Jaisalmer,23.1,Cloudy,38.8,Safe
+Srinagar,10.8,Clear,32.7,Safe
+Kanyakumari,30.5,Storm,6.6,Moderate
+Chennai,23.3,Clear,46.5,Safe
+Thiruvananthapuram,25.6,Heavy Rain,7.5,Moderate
+Thiruvananthapuram,31.6,Rain,34.0,Moderate
+Visakhapatnam,34.4,Rain,36.0,Moderate
+Coorg,24.0,Cloudy,18.1,Safe
+Aurangabad,31.4,Rain,34.4,Moderate
+Vijayawada,34.4,Clear,30.2,Safe
+Hampi,18.6,Clear,7.5,Safe
+Amritsar,32.9,Clear,37.2,Safe
+Amritsar,24.4,Clear,10.3,Safe
+Shimla,-3.6,Clear,27.3,Safe
+Mysuru,35.1,Clear,41.8,Safe
+Vijayawada,13.6,Rain,5.4,Safe
+Shirdi,33.9,Rain,38.8,Moderate
+Rameswaram,28.5,Cloudy,42.6,Safe
+Kolkata,25.4,Heavy Rain,44.7,Moderate
+Pune,27.9,Rain,18.7,Safe
+Mathura & Vrindavan,33.7,Cloudy,7.6,Safe
+Chennai,21.8,Clear,27.3,Safe
+Bengaluru,10.9,Cloudy,16.2,Safe
+Shirdi,30.0,Rain,25.5,Safe
+Shirdi,22.0,Clear,43.6,Safe
+Rishikesh & Haridwar,-4.6,Clear,10.4,Safe
+Vijayawada,27.9,Clear,8.6,Safe
+Hampi,9.8,Rain,28.1,Safe
+Jaipur,15.9,Clear,40.4,Safe
+Udaipur,37.9,Clear,14.5,Safe
+Pushkar,36.3,Clear,65.4,Moderate
+Agra,25.1,Rain,26.9,Safe
+Chennai,28.4,Clear,18.4,Safe
+Tirupati,29.8,Clear,26.3,Safe
+Vaishno Devi (Katra),11.9,Rain,20.9,Moderate
+Varanasi,34.9,Cloudy,39.5,Safe
+Coorg,17.2,Clear,33.6,Safe
+Dwarka,14.3,Rain,24.8,Safe
+Vijayawada,34.2,Clear,12.7,Safe
+Jaisalmer,24.9,Storm,55.8,Unsafe
+Darjeeling,7.1,Fog,32.1,Moderate
+Vijayawada,32.1,Heavy Rain,20.2,Moderate
+Goa,20.8,Fog,16.7,Safe
+Nainital,13.3,Rain,14.2,Moderate
+Madurai,11.6,Clear,38.5,Safe
+Tirupati,33.5,Clear,13.8,Safe
+Mysuru,37.2,Rain,33.7,Moderate
+Alleppey,24.4,Storm,58.5,Unsafe
+Tirupati,18.6,Clear,38.6,Safe
+Dwarka,37.2,Fog,23.7,Safe
+Mumbai,32.1,Storm,8.6,Moderate
+Ayodhya,25.2,Fog,13.6,Safe
+Mathura & Vrindavan,37.7,Cloudy,37.0,Safe
+Ajmer,31.3,Clear,11.3,Safe
+Nashik,27.0,Heavy Rain,30.1,Moderate
+Aurangabad,33.9,Clear,10.9,Safe
+Delhi,33.9,Clear,14.7,Safe
+Chennai,34.1,Rain,11.2,Safe
+Nashik,13.0,Clear,10.8,Safe
+Shirdi,26.9,Clear,35.3,Safe
+Manali,9.4,Cloudy,30.2,Safe
+Kodaikanal,15.6,Clear,19.9,Safe
+Agra,22.9,Cloudy,31.2,Safe
+Mathura & Vrindavan,28.4,Clear,21.7,Safe
+Dwarka,20.6,Rain,30.5,Moderate
+Vijayawada,17.1,Clear,29.5,Safe
+Pushkar,30.0,Clear,11.4,Safe
+Nainital,14.0,Fog,41.9,Moderate
+Goa,27.3,Storm,29.1,Moderate
+Pushkar,24.0,Clear,20.2,Safe
+Prayagraj,23.3,Rain,41.1,Moderate
+Coorg,15.1,Rain,28.2,Safe
+Ahmedabad,27.6,Clear,38.1,Safe
+Darjeeling,12.5,Rain,41.0,Moderate
+Nashik,32.3,Fog,5.3,Safe
+Vaishno Devi (Katra),14.6,Clear,13.1,Safe
+Mysuru,32.1,Clear,17.5,Safe
+Kanyakumari,29.6,Heavy Rain,29.6,Moderate
+Coorg,12.5,Clear,24.6,Safe
+Jodhpur,38.1,Clear,22.1,Safe
+Srinagar,7.5,Rain,42.5,Moderate
+Kolkata,14.2,Cloudy,13.2,Safe
+Srinagar,-0.8,Clear,38.1,Safe
+Alleppey,22.4,Clear,36.5,Safe
+Aurangabad,14.4,Clear,32.4,Safe
+Delhi,10.5,Heavy Rain,25.1,Safe
+Mathura & Vrindavan,35.7,Cloudy,25.3,Safe
+Kanyakumari,24.9,Clear,37.3,Safe
+Jaipur,17.0,Clear,19.5,Safe
+Ayodhya,32.9,Cloudy,26.2,Safe
+Shimla,13.6,Clear,42.3,Safe
+Manali,0.6,Cloudy,37.7,Safe
+Alleppey,26.2,Clear,50.2,Moderate
+Mathura & Vrindavan,19.3,Clear,7.3,Safe
+Shimla,8.3,Clear,34.8,Safe
+Kodaikanal,9.8,Rain,10.6,Safe
+Mathura & Vrindavan,39.7,Cloudy,15.1,Safe
+Rameswaram,31.7,Rain,14.2,Safe
+Rameswaram,29.5,Rain,40.5,Moderate
+Ayodhya,36.5,Rain,23.8,Safe
+Munnar,22.3,Clear,16.0,Safe
+Kodaikanal,10.3,Cloudy,26.0,Safe
+Manali,7.0,Clear,34.3,Safe
+Thiruvananthapuram,34.4,Storm,49.4,Unsafe
+Tirupati,21.0,Clear,35.9,Safe
+Shirdi,24.7,Clear,37.3,Safe
+Kolkata,15.8,Cloudy,17.5,Safe
+Darjeeling,6.5,Clear,23.2,Safe
+Amritsar,19.5,Cloudy,42.0,Safe
+Delhi,36.3,Rain,29.8,Safe
+Pune,11.4,Storm,21.1,Safe
+Aurangabad,14.0,Clear,26.2,Safe
+Delhi,35.9,Clear,43.8,Safe
+Alleppey,28.2,Rain,41.7,Moderate
+Tirupati,15.4,Rain,39.1,Moderate
+Prayagraj,27.0,Rain,11.8,Safe
+Srinagar,-1.4,Clear,43.9,Safe
+Prayagraj,26.3,Clear,12.5,Safe
+Dwarka,18.7,Clear,18.3,Safe
+Lucknow,33.5,Heavy Rain,25.9,Moderate
+Kodaikanal,18.0,Rain,18.5,Safe
+Mumbai,30.6,Cloudy,20.9,Safe
+Mathura & Vrindavan,25.1,Clear,14.9,Safe
+Varanasi,34.5,Clear,31.5,Safe
+Kochi,34.6,Cloudy,11.1,Safe
+Shirdi,27.1,Clear,15.2,Safe
+Chennai,27.4,Fog,56.8,Moderate
+Delhi,16.6,Storm,21.8,Safe
+Varanasi,17.9,Clear,27.5,Safe
+Mathura & Vrindavan,36.2,Clear,28.3,Safe
+Chennai,34.4,Clear,56.5,Moderate
+Rishikesh & Haridwar,-4.5,Clear,32.9,Moderate
+Alleppey,21.1,Fog,20.2,Safe
+Kolkata,33.8,Cloudy,17.5,Safe
+Bengaluru,34.8,Rain,28.0,Safe
+Pune,27.3,Clear,13.7,Safe
+Shirdi,13.8,Fog,38.7,Moderate
+Shimla,3.2,Cloudy,29.7,Safe
+Dwarka,24.1,Clear,21.8,Safe
+Prayagraj,32.8,Clear,27.0,Safe
+Ooty,10.0,Rain,10.2,Safe
+Dharamshala,-3.8,Clear,31.6,Moderate
+Munnar,29.1,Rain,13.5,Safe
+Dharamshala,13.3,Clear,30.5,Safe
+Udaipur,22.3,Rain,17.7,Safe
+Shirdi,28.9,Heavy Rain,41.4,Unsafe
+Visakhapatnam,24.3,Clear,29.7,Safe
+Bengaluru,16.6,Clear,34.3,Safe
+Goa,22.3,Clear,27.7,Safe
+Lucknow,13.5,Fog,10.6,Safe
+Tirupati,37.3,Rain,20.0,Safe
+Jaipur,12.9,Rain,14.3,Safe
+Bengaluru,29.8,Heavy Rain,5.8,Safe
+Goa,31.5,Fog,13.9,Safe
+Ahmedabad,10.9,Clear,17.9,Safe
+Varanasi,11.8,Clear,44.4,Safe
+Rameswaram,21.5,Clear,53.5,Moderate
+Jaisalmer,34.6,Cloudy,32.7,Safe
+Mysuru,27.7,Rain,13.1,Safe
+Mysuru,11.5,Clear,31.1,Safe
+Munnar,26.4,Clear,56.5,Moderate
+Ahmedabad,30.6,Heavy Rain,16.2,Safe
+Ooty,19.5,Rain,16.9,Safe
+Thiruvananthapuram,32.2,Heavy Rain,21.2,Moderate
+Madurai,29.4,Rain,11.6,Safe
+Jodhpur,25.8,Clear,39.6,Safe
+Darjeeling,14.4,Rain,10.2,Moderate
+Aurangabad,12.7,Fog,34.0,Moderate
+Coorg,21.3,Clear,5.1,Safe
+Rameswaram,26.2,Heavy Rain,31.9,Unsafe
+Lucknow,18.5,Rain,24.5,Safe
+Pushkar,21.0,Clear,35.9,Safe
+Kodaikanal,24.2,Clear,6.6,Safe
+Ahmedabad,20.9,Clear,19.1,Safe
+Jodhpur,38.1,Clear,30.3,Safe
+Visakhapatnam,24.6,Clear,43.8,Safe
+Mathura & Vrindavan,26.9,Cloudy,30.0,Safe
+Manali,9.9,Clear,28.5,Safe
+Agra,37.9,Rain,39.6,Moderate
+Vaishno Devi (Katra),14.3,Clear,30.1,Safe
+Statue of Unity (Kevadia),12.5,Heavy Rain,28.7,Moderate
+Pushkar,41.0,Clear,38.3,Moderate
+Udaipur,23.8,Clear,37.6,Safe
+Pushkar,32.5,Cloudy,13.3,Safe
+Nashik,23.1,Clear,39.4,Safe
+Tirupati,20.8,Clear,35.1,Safe
+Aurangabad,38.2,Clear,21.5,Safe
+Vaishno Devi (Katra),14.8,Fog,32.5,Moderate
+Ayodhya,27.6,Clear,31.8,Safe
+Vijayawada,38.2,Rain,8.2,Safe
+Vaishno Devi (Katra),14.5,Cloudy,26.3,Safe
+Ayodhya,22.5,Cloudy,24.9,Safe
+Madurai,16.3,Heavy Rain,40.5,Moderate
+Rishikesh & Haridwar,2.4,Clear,23.6,Safe
+Coorg,18.4,Clear,10.4,Safe
+Pushkar,25.7,Clear,6.3,Safe
+Pune,18.4,Rain,28.3,Safe
+Ajmer,12.5,Clear,30.1,Safe
+Shirdi,33.7,Clear,17.0,Safe
+Alleppey,27.3,Clear,39.6,Safe
+Agra,30.1,Cloudy,13.7,Safe
+Pushkar,25.5,Clear,47.1,Safe
+Darjeeling,11.5,Rain,34.3,Moderate
+Varanasi,22.6,Cloudy,25.9,Safe
+Udaipur,38.4,Clear,39.8,Safe
+Hampi,23.5,Clear,26.0,Safe
+Mysuru,17.4,Clear,6.7,Safe
+Mysuru,30.2,Cloudy,32.7,Safe
+Nashik,39.5,Rain,44.6,Moderate
+Goa,23.1,Clear,10.4,Safe
+Prayagraj,13.6,Rain,29.3,Safe
+Varanasi,28.1,Rain,13.1,Safe
+Jodhpur,27.4,Clear,12.2,Safe
+Somnath,11.8,Rain,15.4,Safe
+Rishikesh & Haridwar,13.5,Rain,31.4,Moderate
+Visakhapatnam,34.8,Storm,20.4,Moderate
+Goa,21.6,Clear,12.9,Safe
+Tirupati,40.0,Clear,36.0,Moderate
+Aurangabad,31.0,Clear,21.0,Safe
+Ajmer,21.5,Cloudy,21.9,Safe
+Darjeeling,-4.6,Clear,28.8,Safe
+Rameswaram,21.2,Clear,46.9,Safe
+Tirupati,12.2,Fog,9.2,Safe
+Rameswaram,26.5,Cloudy,38.5,Safe
+Vijayawada,20.3,Clear,5.3,Safe
+Somnath,38.4,Fog,33.1,Moderate
+Udaipur,32.0,Clear,41.4,Safe
+Kolkata,17.6,Fog,29.3,Safe
+Jodhpur,40.4,Clear,26.6,Safe
+Goa,33.0,Storm,38.2,Unsafe
+Srinagar,8.9,Rain,16.8,Moderate
+Goa,22.9,Clear,12.1,Safe
+Ajmer,13.8,Clear,29.8,Safe
+Jodhpur,35.1,Clear,70.5,Moderate
+Ayodhya,39.7,Rain,9.8,Safe
+Jaisalmer,22.7,Clear,7.3,Safe
+Ajmer,14.1,Fog,33.2,Moderate
+Pushkar,32.2,Clear,26.5,Safe
+Jaisalmer,24.0,Clear,34.8,Safe
+Hampi,14.5,Fog,30.2,Moderate
+Madurai,11.0,Fog,17.6,Safe
+Prayagraj,28.9,Clear,11.0,Safe
+Shimla,9.5,Clear,13.7,Safe
+Alleppey,31.4,Clear,10.7,Safe
+Bengaluru,36.4,Heavy Rain,37.6,Moderate
+Somnath,21.2,Rain,10.7,Safe
+Alleppey,28.9,Rain,57.5,Moderate
+Amritsar,11.9,Fog,9.3,Safe
+Varanasi,34.9,Clear,7.3,Safe
+Delhi,13.7,Cloudy,6.6,Safe
+Prayagraj,39.3,Cloudy,16.3,Safe
+Chennai,23.1,Rain,55.7,Moderate
+Lucknow,12.4,Cloudy,7.6,Safe
+Vijayawada,10.7,Rain,31.5,Moderate
+Kanyakumari,28.6,Heavy Rain,26.7,Moderate
+Pushkar,40.2,Cloudy,22.6,Safe
+Ayodhya,28.6,Rain,10.9,Safe
+Alleppey,25.3,Rain,13.3,Safe
+Ayodhya,32.0,Heavy Rain,44.0,Moderate
+Lucknow,13.7,Clear,31.6,Safe
+Mysuru,11.0,Rain,5.6,Safe
+Kolkata,31.9,Clear,15.5,Safe
+Kochi,25.8,Rain,58.6,Moderate
+Kochi,23.4,Rain,37.0,Moderate
+Agra,15.1,Clear,25.6,Safe
+Rishikesh & Haridwar,-2.5,Cloudy,33.9,Moderate
+Vijayawada,21.9,Rain,8.3,Safe
+Varanasi,26.5,Clear,39.9,Safe
+Visakhapatnam,25.8,Fog,38.8,Moderate
+Madurai,18.2,Storm,24.6,Moderate
+Bengaluru,34.7,Rain,16.0,Safe
+Pune,36.2,Rain,32.4,Moderate
+Kochi,26.5,Clear,55.9,Moderate
+Udaipur,10.3,Clear,37.9,Safe
+Mumbai,24.8,Rain,56.9,Moderate
+Kanyakumari,23.8,Clear,5.1,Safe
+Varanasi,13.0,Clear,18.6,Safe
+Kodaikanal,24.4,Clear,6.1,Safe
+Jaipur,10.1,Clear,41.1,Safe
+Varanasi,37.2,Rain,8.7,Safe
+Mathura & Vrindavan,33.1,Rain,18.3,Safe
+Dharamshala,5.8,Clear,32.5,Safe
+Shimla,-4.2,Rain,12.6,Moderate
+Kochi,26.0,Cloudy,46.3,Safe
+Kodaikanal,17.7,Fog,18.7,Safe
+Jaisalmer,34.3,Clear,31.1,Safe
+Aurangabad,33.5,Clear,24.8,Safe
+Lucknow,10.8,Heavy Rain,27.5,Moderate
+Manali,9.7,Clear,37.0,Safe
+Ahmedabad,15.1,Clear,41.1,Safe
+Kolkata,17.5,Clear,42.4,Safe
+Vaishno Devi (Katra),11.5,Clear,42.8,Safe
+Ajmer,28.0,Rain,11.0,Safe
+Kodaikanal,19.0,Rain,8.4,Safe
+Darjeeling,6.8,Clear,33.1,Safe
+Prayagraj,12.4,Heavy Rain,29.8,Moderate
+Kochi,31.4,Clear,20.9,Safe
+Kolkata,15.8,Cloudy,5.7,Safe
+Ayodhya,15.1,Fog,11.2,Safe
+Darjeeling,4.8,Cloudy,19.0,Safe
+Jodhpur,26.4,Clear,38.3,Safe
+Srinagar,-3.7,Snow,7.6,Unsafe
+Mumbai,21.3,Cloudy,55.3,Moderate
+Ajmer,27.3,Fog,16.1,Safe
+Bengaluru,14.6,Clear,19.2,Safe
+Nainital,13.8,Clear,43.9,Safe
+Shimla,-2.0,Rain,31.8,Unsafe
+Somnath,31.9,Rain,7.3,Safe
+Darjeeling,2.3,Fog,32.5,Moderate
+Thiruvananthapuram,32.5,Fog,18.5,Safe
+Darjeeling,5.1,Cloudy,36.0,Safe
+Ayodhya,33.2,Rain,30.7,Moderate
+Dwarka,39.5,Rain,38.7,Moderate
+Shirdi,20.2,Cloudy,8.4,Safe
+Alleppey,32.5,Clear,50.6,Moderate
+Ayodhya,25.8,Clear,11.9,Safe
+Jaipur,12.0,Clear,7.6,Safe
+Visakhapatnam,23.7,Rain,13.6,Safe
+Nainital,4.7,Clear,23.7,Safe
+Vaishno Devi (Katra),-1.7,Clear,31.7,Safe
+Srinagar,-0.8,Cloudy,27.3,Safe
+Dwarka,27.0,Clear,35.2,Safe
+Manali,4.8,Rain,32.9,Moderate
+Somnath,17.5,Cloudy,24.8,Safe
+Dwarka,17.5,Clear,16.3,Safe
+Aurangabad,17.7,Cloudy,21.2,Safe
+Kodaikanal,16.6,Clear,25.1,Safe
+Srinagar,1.7,Heavy Snow,22.4,Moderate
+Munnar,31.5,Clear,43.7,Safe
+Coorg,16.3,Clear,10.4,Safe
+Jodhpur,20.6,Storm,16.6,Moderate
+Munnar,32.2,Clear,14.6,Safe
+Srinagar,3.1,Cloudy,27.9,Safe
+Kochi,33.5,Cloudy,8.3,Safe
+Munnar,31.1,Rain,9.0,Safe
+Jaipur,28.4,Clear,33.7,Safe
+Varanasi,18.0,Rain,23.2,Safe
+Srinagar,-3.0,Clear,5.7,Safe
+Kodaikanal,16.1,Clear,25.9,Safe
+Thiruvananthapuram,28.4,Rain,8.2,Safe
+Dwarka,19.0,Clear,44.6,Safe
+Alleppey,23.4,Clear,10.2,Safe
+Ooty,12.4,Clear,30.5,Safe
+Nainital,14.2,Cloudy,21.2,Safe
+Tirupati,11.0,Rain,9.1,Safe
+Alleppey,21.9,Clear,30.2,Safe
+Vijayawada,18.6,Cloudy,10.8,Safe
+Delhi,14.6,Clear,37.7,Safe
+Nainital,0.3,Cloudy,8.7,Safe
+Aurangabad,28.7,Clear,35.5,Safe
+Rameswaram,22.1,Clear,29.8,Safe
+Amritsar,11.8,Clear,29.7,Safe
+Kochi,23.3,Cloudy,24.9,Safe
+Visakhapatnam,34.2,Heavy Rain,40.2,Unsafe
+Nashik,22.1,Clear,17.1,Safe
+Nainital,4.7,Fog,10.9,Moderate
+Amritsar,17.0,Clear,12.2,Safe
+Ooty,22.7,Cloudy,31.4,Safe
+Ahmedabad,24.6,Heavy Rain,21.9,Safe
+Aurangabad,22.4,Rain,30.8,Moderate
+Ooty,17.1,Clear,17.3,Safe
+Coorg,9.6,Clear,27.8,Safe
+Rameswaram,27.6,Rain,32.6,Moderate
+Manali,9.4,Cloudy,20.6,Safe
+Kodaikanal,17.8,Rain,8.9,Safe
+Nainital,-0.8,Clear,34.5,Safe
+Nainital,14.8,Clear,33.4,Safe
+Darjeeling,-0.0,Snow,34.1,Unsafe
+Chennai,24.5,Rain,5.6,Safe
+Jaisalmer,27.6,Clear,77.9,Moderate
+Manali,3.1,Clear,6.7,Safe
+Vaishno Devi (Katra),4.1,Rain,21.1,Moderate
+Prayagraj,26.3,Cloudy,41.3,Safe
+Nainital,-0.3,Clear,18.1,Safe
+Mysuru,13.3,Rain,30.2,Moderate
+Mathura & Vrindavan,35.0,Clear,39.6,Safe
+Manali,7.1,Fog,43.3,Moderate
+Aurangabad,22.5,Clear,10.8,Safe
+Vijayawada,14.9,Rain,20.6,Safe
+Madurai,12.5,Fog,41.2,Moderate
+Varanasi,16.3,Clear,42.5,Safe
+Tirupati,29.0,Clear,30.0,Safe
+Mysuru,14.0,Rain,23.4,Safe
+Dwarka,13.6,Clear,13.2,Safe
+Ayodhya,23.3,Clear,24.2,Safe
+Dwarka,22.7,Fog,8.9,Safe
+Rishikesh & Haridwar,-2.5,Rain,40.5,Unsafe
+Amritsar,19.7,Heavy Rain,19.3,Moderate
+Bengaluru,13.3,Cloudy,7.7,Safe
+Vijayawada,14.5,Rain,12.1,Safe
+Mumbai,33.5,Clear,35.3,Safe
+Lucknow,16.7,Clear,38.8,Safe
+Visakhapatnam,21.5,Clear,31.2,Safe
+Ayodhya,30.9,Clear,29.6,Safe
+Prayagraj,24.8,Clear,6.6,Safe
+Statue of Unity (Kevadia),22.5,Rain,38.9,Moderate
+Pune,37.4,Clear,17.6,Safe
+Rameswaram,27.6,Cloudy,42.7,Safe
+Ooty,13.2,Rain,14.9,Safe
+Dharamshala,9.9,Clear,8.5,Safe
+Amritsar,18.9,Rain,23.6,Safe
+Darjeeling,7.8,Fog,20.3,Moderate
+Statue of Unity (Kevadia),35.7,Rain,5.1,Safe
+Ahmedabad,20.5,Cloudy,16.8,Safe
+Jaisalmer,22.5,Clear,36.8,Safe
+Shirdi,29.4,Clear,10.5,Safe
+Shimla,10.6,Fog,5.4,Moderate
+Kochi,26.3,Rain,22.6,Safe
+Delhi,29.2,Clear,6.3,Safe
+Manali,11.5,Rain,43.3,Moderate
+Rameswaram,30.4,Cloudy,28.0,Safe
+Shimla,-2.7,Rain,9.3,Moderate
+Kochi,34.9,Rain,14.8,Safe
+Madurai,17.6,Clear,30.0,Safe
+Goa,32.3,Clear,52.2,Moderate
+Udaipur,20.2,Clear,32.4,Safe
+Chennai,30.0,Clear,12.7,Safe
+Shirdi,33.1,Clear,37.4,Safe
+Munnar,24.4,Clear,47.5,Safe
+Ayodhya,24.2,Clear,29.3,Safe
+Kodaikanal,13.6,Clear,25.1,Safe
+Tirupati,13.5,Clear,24.2,Safe
+Ooty,8.3,Rain,14.1,Safe
+Varanasi,25.5,Clear,14.0,Safe
+Darjeeling,8.6,Rain,23.6,Moderate
+Ooty,18.3,Rain,6.2,Safe
+Aurangabad,39.9,Fog,43.7,Moderate
+Jodhpur,38.4,Clear,11.8,Safe
+Ayodhya,29.8,Rain,29.2,Safe
+Ahmedabad,31.0,Clear,17.2,Safe
+Munnar,32.7,Rain,34.7,Moderate
+Mathura & Vrindavan,33.1,Rain,11.6,Safe
+Darjeeling,9.1,Clear,10.6,Safe
+Agra,17.3,Clear,29.4,Safe
+Kodaikanal,20.4,Cloudy,15.1,Safe
+Madurai,30.8,Rain,36.8,Moderate
+Mumbai,28.9,Rain,51.3,Moderate
+Dwarka,32.2,Clear,13.2,Safe
+Delhi,35.8,Clear,39.3,Safe
+Vijayawada,39.0,Clear,12.4,Safe
+Manali,-1.1,Rain,12.4,Moderate
+Delhi,10.9,Storm,44.7,Moderate
+Ajmer,37.7,Fog,40.8,Moderate
+Chennai,20.7,Clear,8.5,Safe
+Ooty,9.7,Fog,9.0,Safe
+Kochi,29.6,Clear,54.5,Moderate
+Thiruvananthapuram,22.1,Clear,41.8,Safe
+Rishikesh & Haridwar,8.4,Fog,20.6,Moderate
+Agra,31.9,Clear,29.2,Safe
+Pune,13.7,Rain,34.0,Moderate
+Manali,4.3,Fog,10.9,Moderate
+Srinagar,11.6,Rain,35.4,Moderate
+Dharamshala,12.8,Clear,41.7,Safe
+Goa,33.0,Heavy Rain,41.4,Unsafe
+Agra,24.2,Fog,36.8,Moderate
+Jaipur,19.4,Clear,43.4,Safe
+Mumbai,21.9,Clear,15.1,Safe
+Jaipur,20.3,Clear,5.3,Safe
+Agra,13.1,Rain,39.0,Moderate
+Visakhapatnam,21.6,Storm,42.2,Unsafe
+Shirdi,28.7,Clear,35.0,Safe
+Ayodhya,13.7,Heavy Rain,23.1,Moderate
+Amritsar,36.8,Clear,41.9,Safe
+Thiruvananthapuram,33.7,Rain,36.6,Moderate
+Ahmedabad,21.8,Rain,23.2,Safe
+Jodhpur,22.5,Clear,31.3,Safe
+Amritsar,14.4,Clear,21.9,Safe
+Srinagar,11.6,Rain,36.1,Moderate
+Aurangabad,35.6,Fog,24.4,Safe
+Prayagraj,25.4,Storm,31.3,Moderate
+Kolkata,12.4,Clear,33.0,Safe
+Kolkata,23.2,Rain,18.1,Safe
+Thiruvananthapuram,33.3,Fog,46.1,Moderate
+Bengaluru,16.1,Clear,9.0,Safe
+Agra,17.6,Rain,5.1,Safe
+Manali,7.5,Cloudy,28.8,Safe
+Somnath,10.4,Rain,37.5,Moderate
+Coorg,16.9,Cloudy,33.1,Safe
+Darjeeling,2.8,Fog,5.5,Moderate
+Ayodhya,25.5,Clear,29.5,Safe
+Visakhapatnam,32.4,Storm,24.1,Moderate
+Ahmedabad,37.2,Clear,17.6,Safe
+Alleppey,21.7,Cloudy,37.2,Safe
+Ooty,22.5,Fog,5.9,Safe
+Rameswaram,20.1,Rain,49.9,Moderate
+Munnar,20.5,Cloudy,48.9,Safe
+Pushkar,29.6,Clear,45.2,Safe
+Amritsar,25.8,Clear,15.4,Safe
+Madurai,39.0,Clear,5.4,Safe
+Madurai,12.9,Cloudy,6.7,Safe
+Jaisalmer,37.0,Cloudy,23.2,Safe
+Jodhpur,27.7,Clear,35.7,Safe
+Srinagar,12.3,Fog,34.5,Moderate
+Chennai,31.6,Clear,35.3,Safe
+Munnar,25.5,Storm,11.1,Moderate
+Tirupati,36.9,Clear,25.6,Safe
+Srinagar,-2.9,Clear,10.1,Safe
+Srinagar,2.8,Cloudy,25.0,Safe
+Lucknow,21.0,Rain,5.6,Safe
+Rameswaram,24.3,Clear,52.2,Moderate
+Dwarka,30.0,Clear,32.9,Safe
+Prayagraj,29.9,Rain,44.2,Moderate
+Jodhpur,39.0,Clear,36.6,Safe
+Ayodhya,36.0,Clear,18.1,Safe
+Darjeeling,13.0,Rain,34.2,Moderate
+Thiruvananthapuram,23.3,Clear,53.0,Moderate
+Srinagar,6.4,Clear,27.6,Safe
+Ajmer,21.6,Clear,22.0,Safe
+Chennai,34.5,Clear,40.5,Safe
+Rameswaram,32.1,Clear,8.5,Safe
+Ayodhya,37.3,Clear,10.0,Safe
+Goa,23.5,Fog,35.8,Moderate
+Nashik,27.2,Clear,11.1,Safe
+Statue of Unity (Kevadia),18.5,Clear,16.0,Safe
+Vaishno Devi (Katra),13.3,Cloudy,33.7,Safe
+Srinagar,2.4,Cloudy,25.0,Safe
+Alleppey,21.7,Rain,21.3,Safe
+Prayagraj,16.0,Clear,24.3,Safe
+Aurangabad,28.0,Heavy Rain,41.0,Moderate
+Udaipur,28.2,Heavy Rain,44.2,Moderate
+Manali,-2.1,Fog,33.0,Unsafe
+Dwarka,24.2,Rain,22.8,Safe
+Kochi,22.6,Storm,55.7,Unsafe
+Tirupati,33.0,Clear,20.8,Safe
+Bengaluru,28.5,Rain,14.8,Safe
+Dwarka,31.7,Clear,44.3,Safe
+Thiruvananthapuram,25.1,Rain,33.8,Moderate
+Madurai,39.2,Clear,17.8,Safe
+Ooty,12.5,Clear,12.1,Safe
+Jaisalmer,40.0,Clear,14.7,Safe
+Ajmer,10.6,Rain,35.5,Moderate
+Coorg,19.8,Clear,24.2,Safe
+Shirdi,14.7,Clear,30.2,Safe
+Kodaikanal,18.3,Rain,14.1,Safe
+Coorg,22.3,Rain,28.6,Safe
+Lucknow,18.0,Clear,33.1,Safe
+Munnar,30.0,Rain,36.6,Moderate
+Darjeeling,-2.2,Clear,20.1,Safe
+Madurai,27.9,Cloudy,28.5,Safe
+Lucknow,36.1,Cloudy,21.0,Safe
+Kodaikanal,21.0,Cloudy,22.0,Safe
+Munnar,30.3,Storm,31.8,Unsafe
+Jaisalmer,37.7,Clear,26.3,Safe
+Shirdi,18.9,Cloudy,23.2,Safe
+Thiruvananthapuram,21.8,Fog,38.8,Moderate
+Jodhpur,24.5,Clear,58.0,Moderate
+Thiruvananthapuram,30.6,Fog,49.2,Moderate
+Ajmer,30.9,Clear,11.2,Safe
+Alleppey,23.3,Clear,45.3,Safe
+Ooty,15.0,Clear,22.6,Safe
+Dwarka,29.1,Clear,37.7,Safe
+Visakhapatnam,21.8,Clear,41.0,Safe
+Udaipur,38.1,Clear,27.0,Safe
+Hampi,20.1,Cloudy,12.0,Safe
+Goa,21.6,Cloudy,30.8,Safe
+Agra,32.6,Fog,13.0,Safe
+Srinagar,0.9,Fog,27.8,Moderate
+Mumbai,28.4,Clear,45.2,Safe
+Varanasi,24.6,Clear,35.4,Safe
+Statue of Unity (Kevadia),23.5,Clear,27.8,Safe
+Goa,22.9,Cloudy,23.9,Safe
+Ooty,9.7,Cloudy,24.9,Safe
+Pushkar,42.5,Clear,12.0,Safe
+Bengaluru,28.4,Clear,30.6,Safe
+Nashik,28.9,Rain,31.4,Moderate
+Vijayawada,36.4,Cloudy,6.1,Safe
+Jaipur,18.4,Fog,33.3,Moderate
+Alleppey,32.2,Heavy Rain,52.1,Unsafe
+Delhi,15.8,Clear,5.9,Safe
+Nainital,5.1,Cloudy,40.6,Safe
+Prayagraj,32.8,Heavy Rain,6.4,Moderate
+Vaishno Devi (Katra),-2.0,Rain,39.0,Unsafe
+Rameswaram,26.4,Clear,19.8,Safe
+Bengaluru,11.8,Cloudy,42.5,Safe
+Kodaikanal,14.9,Clear,18.8,Safe
+Bengaluru,28.4,Cloudy,14.1,Safe
+Statue of Unity (Kevadia),14.1,Clear,42.7,Safe
+Ahmedabad,14.9,Clear,39.8,Safe
+Shirdi,16.7,Clear,18.6,Safe
+Kolkata,11.0,Clear,24.1,Safe
+Srinagar,2.1,Rain,25.4,Moderate
+Nashik,34.2,Fog,8.4,Safe
+Kanyakumari,33.3,Clear,39.1,Safe
+Vaishno Devi (Katra),-0.9,Cloudy,23.7,Safe
+Delhi,34.2,Clear,31.0,Safe
+Nainital,11.6,Clear,7.6,Safe
+Jodhpur,35.2,Clear,26.4,Safe
+Vijayawada,33.7,Clear,14.3,Safe
+Kanyakumari,23.6,Clear,22.3,Safe
+Tirupati,16.0,Rain,11.4,Safe
+Alleppey,26.3,Cloudy,45.9,Safe
+Kolkata,16.8,Cloudy,42.1,Safe
+Dharamshala,4.8,Clear,6.5,Safe
+Mumbai,20.8,Storm,42.1,Moderate
+Lucknow,23.7,Fog,7.4,Safe
+Srinagar,14.2,Clear,29.9,Safe
+Somnath,10.8,Cloudy,37.3,Safe
+Jaisalmer,37.5,Clear,35.3,Safe
+Vaishno Devi (Katra),3.6,Rain,16.6,Moderate
+Madurai,15.1,Clear,22.4,Safe
+Jaisalmer,37.9,Cloudy,18.4,Safe
+Jaisalmer,24.5,Clear,18.7,Safe
+Nainital,9.0,Clear,29.3,Safe
+Lucknow,29.4,Clear,22.6,Safe
+Mysuru,25.2,Clear,5.2,Safe
+Rameswaram,32.4,Rain,42.2,Moderate
+Lucknow,27.6,Cloudy,18.2,Safe
+Nainital,8.1,Cloudy,28.9,Safe
+Pune,32.3,Clear,40.7,Safe
+Thiruvananthapuram,22.7,Clear,40.7,Safe
+Srinagar,6.9,Fog,14.8,Moderate
+Rishikesh & Haridwar,-3.7,Cloudy,12.1,Safe
+Hampi,23.5,Clear,33.3,Safe
+Varanasi,31.9,Clear,20.2,Safe
+Visakhapatnam,20.3,Rain,41.4,Moderate
+Kolkata,23.1,Clear,6.0,Safe
+Udaipur,27.4,Rain,23.9,Safe
+Prayagraj,34.7,Clear,8.0,Safe
+Vijayawada,37.9,Storm,30.0,Moderate
+Mathura & Vrindavan,16.8,Clear,8.1,Safe
+Shimla,14.0,Clear,29.1,Safe
+Jaisalmer,39.9,Clear,33.5,Safe
+Dwarka,32.9,Cloudy,38.6,Safe
+Statue of Unity (Kevadia),20.2,Cloudy,40.9,Safe
+Udaipur,32.7,Rain,23.5,Safe
+Goa,34.7,Clear,44.1,Safe
+Darjeeling,-2.4,Clear,44.0,Moderate
+Jaisalmer,31.1,Clear,29.3,Safe
+Rameswaram,21.8,Clear,15.1,Safe
+Ajmer,14.8,Clear,19.5,Safe
+Shirdi,23.9,Clear,32.4,Safe
+Amritsar,25.1,Clear,16.7,Safe
+Pune,11.4,Rain,19.0,Safe
+Ayodhya,32.1,Clear,10.5,Safe
+Prayagraj,16.6,Rain,17.2,Safe
+Dharamshala,7.8,Cloudy,38.4,Safe
+Statue of Unity (Kevadia),17.0,Clear,25.3,Safe
+Ajmer,38.0,Clear,31.2,Safe
+Delhi,38.0,Cloudy,30.5,Safe
+Ooty,11.1,Fog,16.1,Safe
+Bengaluru,37.8,Clear,14.9,Safe
+Ooty,15.4,Rain,23.8,Safe
+Hampi,24.6,Rain,19.0,Safe
+Tirupati,22.8,Clear,14.8,Safe
+Jaipur,29.4,Cloudy,24.9,Safe
+Somnath,11.0,Clear,20.4,Safe
+Ayodhya,25.3,Clear,13.0,Safe
+Hampi,15.4,Rain,15.3,Safe
+Goa,32.8,Cloudy,10.2,Safe
+Kochi,20.1,Clear,42.2,Safe
+Chennai,20.9,Storm,53.4,Unsafe
+Thiruvananthapuram,24.7,Clear,24.2,Safe
+Delhi,34.9,Clear,41.1,Safe
+Vaishno Devi (Katra),-1.8,Cloudy,10.6,Safe
+Dwarka,22.6,Clear,29.5,Safe
+Jodhpur,36.1,Clear,55.9,Moderate
+Rishikesh & Haridwar,-0.7,Snow,33.5,Unsafe
+Ahmedabad,34.6,Cloudy,44.6,Safe
+Aurangabad,38.5,Fog,15.1,Safe
+Somnath,38.2,Clear,29.4,Safe
+Somnath,11.3,Fog,41.5,Moderate
+Statue of Unity (Kevadia),16.2,Cloudy,42.9,Safe
+Madurai,30.8,Clear,28.0,Safe
+Somnath,28.5,Clear,9.6,Safe
+Rishikesh & Haridwar,0.4,Fog,32.5,Moderate
+Udaipur,33.8,Clear,12.5,Safe
+Srinagar,1.7,Snow,42.4,Unsafe
+Kanyakumari,21.2,Cloudy,32.6,Safe
+Jodhpur,20.4,Clear,6.6,Safe
+Prayagraj,30.9,Clear,39.7,Safe
+Somnath,16.8,Rain,40.5,Moderate
+Rishikesh & Haridwar,7.3,Rain,29.3,Moderate
+Chennai,34.0,Rain,28.0,Safe
+Bengaluru,25.7,Clear,27.1,Safe
+Jaipur,16.6,Clear,16.2,Safe
+Aurangabad,10.6,Heavy Rain,8.4,Moderate
+Munnar,34.3,Clear,22.3,Safe
+Jaipur,33.3,Clear,17.3,Safe
+Darjeeling,-3.2,Clear,38.8,Moderate
+Shimla,0.7,Clear,9.8,Safe
+Rishikesh & Haridwar,-0.3,Clear,33.5,Safe
+Agra,21.4,Clear,39.0,Safe
+Goa,28.5,Heavy Rain,39.7,Unsafe
+Bengaluru,31.9,Cloudy,8.1,Safe
+Visakhapatnam,32.9,Cloudy,28.1,Safe
+Rameswaram,20.3,Clear,19.4,Safe
+Nainital,4.3,Cloudy,40.3,Safe
+Kolkata,31.7,Rain,21.6,Safe
+Munnar,34.8,Heavy Rain,34.5,Unsafe
+Vaishno Devi (Katra),11.2,Fog,32.8,Moderate
+Rameswaram,21.0,Rain,45.1,Moderate
+Visakhapatnam,30.3,Clear,24.9,Safe
+Varanasi,24.6,Clear,21.0,Safe
+Manali,1.9,Rain,37.7,Moderate
+Coorg,24.4,Fog,25.9,Safe
+Ayodhya,14.9,Storm,34.6,Moderate
+Aurangabad,31.6,Clear,41.8,Safe
+Varanasi,22.7,Clear,5.1,Safe
+Shimla,-3.4,Clear,44.1,Moderate
+Somnath,21.5,Clear,13.2,Safe
+Agra,24.3,Rain,7.9,Safe
+Vaishno Devi (Katra),11.6,Clear,26.4,Safe
+Jodhpur,42.1,Clear,34.8,Moderate
+Thiruvananthapuram,26.5,Fog,14.4,Safe
+Amritsar,33.7,Rain,8.6,Safe
+Mysuru,32.9,Cloudy,15.7,Safe
+Mysuru,31.7,Clear,36.1,Safe
+Bengaluru,22.0,Fog,34.4,Moderate
+Mysuru,37.4,Clear,6.0,Safe
+Pune,13.0,Clear,7.7,Safe
+Mathura & Vrindavan,31.2,Clear,5.2,Safe
+Nashik,26.0,Cloudy,19.0,Safe
+Delhi,27.3,Clear,37.6,Safe
+Amritsar,37.8,Clear,44.7,Safe
+Ayodhya,38.6,Rain,16.6,Safe
+Munnar,24.9,Rain,16.0,Safe
+Chennai,29.8,Rain,8.4,Safe
+Mathura & Vrindavan,21.5,Cloudy,43.7,Safe
+Vijayawada,10.0,Cloudy,20.2,Safe
+Jaipur,12.0,Rain,12.7,Safe
+Amritsar,13.1,Heavy Rain,14.3,Moderate
+Ajmer,23.9,Heavy Rain,8.7,Moderate
+Bengaluru,30.8,Clear,23.0,Safe
+Ooty,23.5,Clear,16.6,Safe
+Kolkata,24.2,Rain,27.7,Safe
+Bengaluru,24.6,Rain,12.8,Safe
+Darjeeling,1.8,Clear,43.8,Safe
+Goa,25.4,Cloudy,19.5,Safe
+Agra,36.9,Rain,24.0,Safe
+Vijayawada,10.6,Clear,39.7,Safe
+Pune,34.9,Cloudy,26.3,Safe
+Jodhpur,22.0,Clear,37.6,Safe
+Hampi,18.1,Clear,18.4,Safe
+Varanasi,35.0,Rain,29.5,Safe
+Mathura & Vrindavan,23.5,Clear,6.1,Safe
+Visakhapatnam,30.6,Cloudy,50.6,Moderate
+Ajmer,30.0,Clear,37.7,Safe
+Dwarka,20.7,Heavy Rain,25.1,Moderate
+Dwarka,17.8,Clear,17.4,Safe
+Mumbai,28.4,Cloudy,6.5,Safe
+Kochi,22.2,Clear,26.1,Safe
+Darjeeling,13.3,Rain,10.5,Moderate
+Rameswaram,34.9,Heavy Rain,12.0,Moderate
+Prayagraj,23.0,Clear,15.0,Safe
+Goa,30.1,Clear,7.2,Safe
+Delhi,30.5,Clear,30.4,Safe
+Ahmedabad,14.1,Clear,10.1,Safe
+Mumbai,26.7,Clear,12.3,Safe
+Jaisalmer,35.1,Clear,10.4,Safe
+Agra,26.1,Clear,22.4,Safe
+Srinagar,9.5,Cloudy,5.1,Safe
+Vaishno Devi (Katra),8.5,Clear,43.8,Safe
+Kanyakumari,29.7,Rain,19.2,Safe
+Tirupati,38.4,Clear,34.9,Safe
+Manali,4.5,Clear,14.4,Safe
+Nashik,11.8,Rain,31.4,Moderate
+Rishikesh & Haridwar,-2.2,Clear,32.5,Moderate
+Amritsar,28.8,Storm,5.1,Moderate
+Nashik,18.4,Cloudy,41.8,Safe
+Dwarka,30.6,Clear,11.0,Safe
+Jaisalmer,38.7,Cloudy,5.3,Safe
+Mumbai,21.7,Cloudy,56.7,Moderate
+Manali,14.1,Cloudy,14.1,Safe
+Goa,24.3,Clear,52.1,Moderate
+Rameswaram,32.2,Rain,21.4,Safe
+Darjeeling,7.7,Cloudy,16.0,Safe
+Shimla,-4.7,Fog,29.7,Moderate
+Ajmer,34.8,Clear,37.1,Safe
+Amritsar,20.4,Clear,19.5,Safe
+Dharamshala,12.3,Rain,42.4,Moderate
+Jaisalmer,44.8,Clear,5.9,Safe
+Ajmer,12.3,Cloudy,38.9,Safe
+Munnar,33.7,Rain,11.7,Safe
+Hampi,10.5,Clear,20.9,Safe
+Alleppey,30.1,Rain,5.6,Safe
+Munnar,32.8,Rain,13.6,Safe
+Pune,17.6,Clear,31.7,Safe
+Shirdi,35.0,Rain,34.4,Moderate
+Varanasi,10.3,Clear,40.3,Safe
+Vaishno Devi (Katra),5.3,Rain,41.3,Moderate
+Statue of Unity (Kevadia),20.9,Clear,25.2,Safe
+Manali,7.5,Clear,24.6,Safe
+Goa,26.8,Clear,47.1,Safe
+Vaishno Devi (Katra),1.3,Cloudy,9.8,Safe
+Agra,39.0,Clear,37.3,Safe
+Goa,24.3,Clear,14.7,Safe
+Hampi,10.3,Clear,30.7,Safe
+Bengaluru,39.8,Clear,17.0,Safe
+Pushkar,41.1,Clear,8.8,Safe
+Rishikesh & Haridwar,6.1,Rain,11.1,Moderate
+Vaishno Devi (Katra),12.6,Rain,37.3,Moderate
+Bengaluru,39.9,Storm,10.8,Safe
+Hampi,20.7,Rain,21.9,Safe
+Vaishno Devi (Katra),4.1,Cloudy,40.7,Safe
+Udaipur,14.2,Rain,38.7,Moderate
+Somnath,12.3,Fog,14.0,Safe
+Alleppey,28.6,Cloudy,56.7,Moderate
+Kochi,24.9,Clear,35.4,Safe
+Agra,24.0,Clear,29.9,Safe
+Hampi,20.0,Rain,15.8,Safe
+Vijayawada,25.6,Clear,30.5,Safe
+Ooty,21.9,Cloudy,21.1,Safe
+Hampi,16.2,Rain,30.9,Moderate
+Shirdi,30.4,Rain,24.5,Safe
+Jaipur,16.7,Clear,30.0,Safe
+Coorg,15.5,Cloudy,32.9,Safe
+Tirupati,34.9,Fog,33.2,Moderate
+Mysuru,39.9,Clear,10.2,Safe
+Ajmer,30.4,Heavy Rain,27.2,Moderate
+Agra,33.0,Cloudy,30.1,Safe
+Udaipur,37.7,Clear,43.1,Safe
+Goa,24.9,Cloudy,41.3,Safe
+Mumbai,24.3,Heavy Rain,58.4,Unsafe
+Vijayawada,33.7,Clear,38.7,Safe
+Pushkar,44.1,Clear,35.9,Moderate
+Udaipur,35.3,Cloudy,30.7,Safe
+Ajmer,38.7,Fog,7.4,Safe
+Ajmer,12.9,Clear,34.7,Safe
+Srinagar,13.2,Clear,8.4,Safe
+Delhi,11.1,Clear,23.8,Safe
+Bengaluru,32.7,Heavy Rain,9.5,Safe
+Varanasi,22.7,Clear,20.3,Safe
+Kanyakumari,23.7,Cloudy,33.2,Safe
+Tirupati,33.5,Rain,16.5,Safe
+Mumbai,21.6,Clear,43.3,Safe
+Kodaikanal,10.3,Rain,8.1,Safe
+Lucknow,27.4,Rain,8.6,Safe
+Vaishno Devi (Katra),7.8,Clear,13.6,Safe
+Aurangabad,23.6,Rain,9.7,Safe
+Ahmedabad,15.0,Clear,25.5,Safe
+Mathura & Vrindavan,28.1,Clear,32.6,Safe
+Prayagraj,22.8,Rain,18.2,Safe
+Jodhpur,31.8,Clear,20.0,Safe
+Somnath,37.7,Fog,37.4,Moderate
+Munnar,24.7,Heavy Rain,54.8,Unsafe
+Lucknow,20.6,Cloudy,29.8,Safe
+Kochi,27.3,Clear,58.6,Moderate
+Shirdi,12.8,Heavy Rain,12.2,Moderate
+Ooty,8.5,Clear,22.8,Safe
+Rameswaram,32.4,Clear,36.8,Safe
+Munnar,26.9,Clear,49.2,Safe
+Shirdi,13.4,Clear,43.8,Safe
+Prayagraj,13.0,Clear,14.1,Safe
+Alleppey,23.0,Clear,37.9,Safe
+Chennai,22.9,Clear,42.1,Safe
+Ayodhya,11.4,Clear,18.3,Safe
+Dwarka,21.3,Storm,28.0,Moderate
+Dharamshala,3.1,Rain,17.0,Moderate
+Chennai,29.0,Heavy Rain,15.3,Moderate
+Agra,34.6,Fog,9.3,Safe
+Manali,5.0,Clear,35.2,Safe
+Jaipur,39.1,Heavy Rain,13.4,Moderate
+Nashik,30.9,Heavy Rain,36.3,Moderate
+Manali,2.9,Clear,37.9,Safe
+Prayagraj,31.7,Clear,31.2,Safe
+Darjeeling,11.0,Clear,23.9,Safe
+Amritsar,13.8,Clear,34.5,Safe
+Mathura & Vrindavan,38.1,Clear,20.1,Safe
+Prayagraj,21.2,Clear,26.2,Safe
+Ooty,20.1,Cloudy,32.0,Safe
+Ayodhya,35.3,Cloudy,38.0,Safe
+Darjeeling,1.7,Fog,17.4,Moderate
+Agra,35.5,Rain,9.2,Safe
+Aurangabad,18.7,Clear,29.7,Safe
+Alleppey,21.8,Clear,47.3,Safe
+Coorg,18.1,Clear,8.6,Safe
+Prayagraj,23.7,Clear,12.5,Safe
+Hampi,9.7,Rain,28.9,Safe
+Thiruvananthapuram,21.6,Rain,38.5,Moderate
+Aurangabad,19.6,Clear,34.4,Safe
+Alleppey,28.0,Cloudy,10.5,Safe
+Agra,13.2,Heavy Rain,39.3,Moderate
+Nashik,22.2,Clear,40.4,Safe
+Prayagraj,26.9,Clear,44.8,Safe
+Chennai,27.5,Heavy Rain,43.7,Unsafe
+Kodaikanal,19.9,Clear,9.9,Safe
+Somnath,27.4,Clear,33.7,Safe
+Jaipur,27.0,Rain,27.6,Safe
+Madurai,17.0,Clear,12.4,Safe
+Manali,13.2,Clear,14.6,Safe
+Mathura & Vrindavan,33.7,Clear,16.5,Safe
+Rishikesh & Haridwar,12.4,Rain,6.1,Moderate
+Ayodhya,24.9,Cloudy,25.0,Safe
+Ahmedabad,21.5,Cloudy,16.4,Safe
+Vijayawada,23.3,Fog,32.9,Moderate
+Agra,20.2,Heavy Rain,33.0,Moderate
+Udaipur,22.5,Clear,18.1,Safe
+Mathura & Vrindavan,20.2,Clear,11.7,Safe
+Alleppey,25.4,Heavy Rain,41.6,Unsafe
+Shimla,8.3,Clear,25.4,Safe
+Amritsar,26.0,Heavy Rain,27.4,Moderate
+Pune,35.3,Clear,18.5,Safe
+Ajmer,14.9,Clear,20.8,Safe
+Rishikesh & Haridwar,0.8,Clear,23.8,Safe
+Chennai,25.6,Rain,41.4,Moderate
+Madurai,18.2,Storm,5.7,Moderate
+Vijayawada,16.0,Heavy Rain,39.5,Moderate
+Rishikesh & Haridwar,12.4,Rain,32.8,Moderate
+Delhi,37.0,Clear,5.6,Safe
+Nashik,20.5,Cloudy,28.4,Safe
+Hampi,19.7,Clear,26.9,Safe
+Lucknow,34.2,Rain,18.5,Safe
+Kochi,27.3,Clear,33.9,Safe
+Vaishno Devi (Katra),-4.4,Rain,21.2,Moderate
+Agra,19.2,Rain,14.1,Safe
+Kanyakumari,22.7,Clear,17.0,Safe
+Ajmer,31.2,Clear,24.2,Safe
+Statue of Unity (Kevadia),23.7,Rain,9.6,Safe
+Mysuru,21.9,Rain,27.3,Safe
+Somnath,19.1,Rain,43.9,Moderate
+Vaishno Devi (Katra),-1.9,Clear,28.1,Safe
+Coorg,15.3,Fog,28.1,Safe
+Ahmedabad,14.4,Clear,17.2,Safe
+Delhi,29.3,Rain,14.8,Safe
+Statue of Unity (Kevadia),39.5,Cloudy,30.3,Safe
+Nainital,14.6,Fog,43.2,Moderate
+Coorg,23.1,Rain,28.7,Safe
+Mumbai,26.4,Clear,57.0,Moderate
+Tirupati,29.4,Cloudy,11.4,Safe
+Shimla,3.4,Clear,39.1,Safe
+Vaishno Devi (Katra),3.5,Rain,40.0,Moderate
+Srinagar,6.5,Fog,33.6,Moderate
+Thiruvananthapuram,33.2,Cloudy,36.4,Safe
+Ahmedabad,16.3,Cloudy,26.1,Safe
+Coorg,10.0,Fog,8.9,Safe
+Jaipur,30.3,Storm,32.7,Moderate
+Alleppey,29.4,Cloudy,41.3,Safe
+Rishikesh & Haridwar,-0.9,Rain,12.3,Moderate
+Aurangabad,34.7,Clear,13.4,Safe
+Mysuru,34.8,Clear,21.9,Safe
+Madurai,14.8,Cloudy,43.3,Safe
+Kochi,22.9,Heavy Rain,38.8,Unsafe
+Coorg,17.4,Cloudy,32.8,Safe
+Pushkar,25.0,Cloudy,6.5,Safe
+Rameswaram,24.5,Cloudy,33.0,Safe
+Dwarka,20.5,Rain,20.6,Safe
+Munnar,30.2,Rain,19.0,Safe
+Varanasi,18.9,Fog,28.2,Safe
+Hampi,22.6,Fog,12.1,Safe
+Vijayawada,38.9,Clear,28.0,Safe
+Manali,-2.2,Cloudy,6.0,Safe
+Goa,23.8,Cloudy,13.7,Safe
+Dharamshala,3.9,Cloudy,23.5,Safe
+Nainital,-1.2,Snow,39.1,Unsafe
+Munnar,31.4,Cloudy,58.3,Moderate
+Shirdi,36.1,Clear,26.4,Safe
+Delhi,26.3,Cloudy,35.6,Safe
+Jaipur,11.8,Clear,17.5,Safe
+Mathura & Vrindavan,12.4,Rain,17.3,Safe
+Ahmedabad,29.3,Heavy Rain,44.5,Moderate
+Dharamshala,-1.2,Rain,44.8,Moderate
+Dharamshala,11.1,Clear,10.1,Safe
+Kodaikanal,18.9,Clear,30.5,Safe
+Kochi,21.1,Cloudy,19.3,Safe
+Hampi,17.1,Cloudy,17.4,Safe
+Srinagar,-1.6,Rain,34.2,Moderate
+Jaipur,23.6,Clear,44.3,Safe
+Statue of Unity (Kevadia),35.1,Clear,14.8,Safe
+Chennai,31.9,Rain,46.7,Moderate
+Mysuru,33.3,Clear,39.9,Safe
+Kolkata,18.3,Clear,25.2,Safe
+Mumbai,22.4,Clear,55.6,Moderate
+Tirupati,29.4,Rain,26.9,Safe
+Pune,27.2,Clear,39.2,Safe
+Statue of Unity (Kevadia),34.8,Clear,26.5,Safe
+Rameswaram,29.0,Rain,47.8,Moderate
+Jaisalmer,40.7,Clear,29.6,Safe
+Ooty,14.5,Cloudy,23.3,Safe
+Visakhapatnam,27.8,Rain,37.9,Moderate
+Lucknow,19.8,Storm,26.2,Moderate
+Kodaikanal,19.5,Clear,30.2,Safe
+Jaisalmer,25.2,Clear,33.7,Safe
+Dwarka,13.4,Clear,29.2,Safe
+Vijayawada,17.9,Clear,31.2,Safe
+Darjeeling,10.1,Clear,7.1,Safe
+Vaishno Devi (Katra),-1.0,Snow,10.3,Moderate
+Nainital,1.7,Clear,36.7,Safe
+Darjeeling,9.1,Rain,8.8,Moderate
+Tirupati,26.7,Cloudy,14.1,Safe
+Somnath,32.4,Fog,10.3,Safe
+Lucknow,21.1,Clear,43.0,Safe
+Darjeeling,9.9,Clear,32.9,Safe
+Kolkata,21.0,Clear,31.8,Safe
+Jaisalmer,38.8,Clear,33.2,Safe
+Darjeeling,5.9,Clear,19.3,Safe
+Mysuru,38.1,Rain,10.4,Safe
+Kodaikanal,23.1,Rain,15.3,Safe
+Coorg,19.3,Cloudy,25.3,Safe
+Kolkata,36.1,Rain,23.9,Safe
+Ahmedabad,31.9,Clear,15.6,Safe
+Dwarka,10.8,Clear,27.6,Safe
+Mysuru,28.3,Clear,26.0,Safe
+Mathura & Vrindavan,17.1,Clear,16.4,Safe
+Shirdi,10.2,Clear,11.9,Safe
+Mathura & Vrindavan,17.5,Cloudy,40.0,Safe
+Bengaluru,21.8,Clear,28.8,Safe
+Rishikesh & Haridwar,4.1,Fog,28.3,Moderate
+Ajmer,14.5,Clear,34.7,Safe
+Varanasi,16.8,Clear,8.2,Safe
+Darjeeling,5.2,Fog,40.5,Moderate
+Kanyakumari,32.2,Clear,8.5,Safe
+Prayagraj,35.7,Clear,32.7,Safe
+Goa,31.5,Cloudy,46.9,Safe
+Lucknow,23.5,Clear,18.6,Safe
+Goa,28.3,Cloudy,52.3,Moderate
+Mysuru,39.6,Rain,7.6,Safe
+Nashik,35.6,Rain,19.5,Safe
+Shimla,7.4,Fog,26.9,Moderate
+Ahmedabad,15.6,Clear,31.5,Safe
+Jaipur,18.7,Clear,28.4,Safe
+Manali,8.6,Clear,15.5,Safe
+Shimla,-4.2,Rain,23.3,Moderate
+Srinagar,4.1,Clear,37.3,Safe
+Ahmedabad,39.3,Heavy Rain,25.5,Safe
+Mathura & Vrindavan,39.2,Clear,24.9,Safe
+Rameswaram,28.0,Clear,40.8,Safe
+Hampi,14.4,Cloudy,24.8,Safe
+Thiruvananthapuram,27.3,Rain,39.5,Moderate
+Dharamshala,14.0,Clear,21.1,Safe
+Jaipur,37.6,Clear,17.1,Safe
+Manali,-3.8,Clear,17.9,Safe
+Ayodhya,21.9,Cloudy,15.0,Safe
+Jodhpur,22.5,Clear,29.4,Safe
+Ajmer,39.1,Rain,8.5,Safe
+Mumbai,20.9,Heavy Rain,17.8,Moderate
+Tirupati,28.1,Rain,43.6,Moderate
+Kodaikanal,14.5,Cloudy,10.0,Safe
+Mumbai,20.1,Fog,7.2,Safe
+Statue of Unity (Kevadia),37.0,Cloudy,29.7,Safe
+Coorg,17.2,Clear,28.1,Safe
+Goa,31.6,Clear,35.1,Safe
+Mathura & Vrindavan,33.7,Rain,31.8,Moderate
+Nashik,26.8,Clear,29.7,Safe
+Ahmedabad,18.9,Clear,27.3,Safe
+Pushkar,22.7,Clear,10.4,Safe
+Pune,35.2,Cloudy,16.5,Safe
+Delhi,12.2,Clear,23.5,Safe
+Ahmedabad,37.4,Clear,19.5,Safe
+Ajmer,34.6,Clear,10.8,Safe
+Alleppey,33.9,Clear,54.1,Moderate
+Ajmer,37.4,Clear,22.1,Safe
+Kodaikanal,13.4,Rain,28.4,Safe
+Vijayawada,26.2,Rain,22.7,Safe
+Hampi,16.0,Cloudy,25.5,Safe
+Nainital,8.2,Cloudy,33.9,Safe
+Munnar,32.0,Heavy Rain,9.8,Moderate
+Agra,31.2,Clear,21.3,Safe
+Ajmer,21.9,Clear,35.1,Safe
+Hampi,24.3,Clear,24.0,Safe
+Chennai,32.8,Cloudy,15.6,Safe
+Chennai,32.2,Rain,36.8,Moderate
+Mumbai,33.4,Cloudy,9.4,Safe
+Manali,11.9,Clear,6.7,Safe
+Ooty,8.3,Rain,28.0,Safe
+Rishikesh & Haridwar,3.9,Rain,20.4,Moderate
+Shimla,8.5,Rain,8.4,Moderate
+Manali,13.3,Fog,36.5,Moderate
+Srinagar,4.1,Clear,34.8,Safe
+Lucknow,22.4,Clear,24.6,Safe
+Pune,33.0,Clear,15.0,Safe
+Jodhpur,36.9,Clear,27.6,Safe
+Aurangabad,36.3,Cloudy,35.5,Safe
+Chennai,24.9,Clear,19.3,Safe
+Bengaluru,16.2,Clear,26.7,Safe
+Ajmer,25.3,Rain,10.7,Safe
+Srinagar,1.8,Clear,43.4,Safe
+Munnar,29.2,Rain,31.3,Moderate
+Mumbai,28.1,Rain,48.3,Moderate
+Shimla,14.2,Clear,33.5,Safe
+Rishikesh & Haridwar,6.0,Fog,40.8,Moderate
+Madurai,20.0,Rain,39.4,Moderate
+Ayodhya,14.2,Rain,6.1,Safe
+Munnar,34.4,Fog,40.9,Moderate
+Varanasi,39.9,Cloudy,43.8,Safe
+Ajmer,17.4,Clear,24.9,Safe
+Kodaikanal,13.3,Rain,25.3,Safe
+Madurai,12.8,Cloudy,18.0,Safe
+Vijayawada,26.6,Clear,11.2,Safe
+Statue of Unity (Kevadia),11.1,Cloudy,5.3,Safe
+Kochi,29.6,Clear,16.6,Safe
+Udaipur,26.3,Fog,9.8,Safe
+Madurai,19.4,Clear,13.3,Safe
+Statue of Unity (Kevadia),19.9,Clear,34.3,Safe
+Ajmer,21.3,Clear,43.6,Safe
+Prayagraj,18.7,Clear,33.3,Safe
+Rameswaram,34.8,Cloudy,12.3,Safe
+Shirdi,19.5,Clear,40.7,Safe
+Manali,11.3,Cloudy,9.6,Safe
+Mathura & Vrindavan,33.2,Clear,35.2,Safe
+Agra,16.3,Clear,35.4,Safe
+Ayodhya,24.5,Rain,32.4,Moderate
+Shirdi,29.8,Clear,43.2,Safe
+Nashik,10.9,Clear,5.4,Safe
+Udaipur,23.5,Clear,25.2,Safe
+Chennai,34.7,Clear,59.4,Moderate
+Aurangabad,15.4,Clear,33.1,Safe
+Coorg,8.2,Clear,8.1,Safe
+Statue of Unity (Kevadia),27.3,Cloudy,9.0,Safe
+Kodaikanal,19.2,Clear,15.4,Safe
+Manali,-1.3,Heavy Snow,11.0,Moderate
+Ahmedabad,13.7,Clear,5.4,Safe
+Darjeeling,-3.3,Clear,39.5,Moderate
+Mysuru,31.4,Clear,39.1,Safe
+Mumbai,30.2,Cloudy,21.1,Safe
+Delhi,20.3,Rain,11.6,Safe
+Ayodhya,16.0,Cloudy,25.0,Safe
+Kolkata,15.4,Rain,5.4,Safe
+Manali,0.3,Cloudy,36.7,Safe
+Nashik,29.1,Clear,43.7,Safe
+Vijayawada,12.1,Clear,12.7,Safe
+Jodhpur,20.5,Clear,34.9,Safe
+Coorg,23.9,Clear,25.5,Safe
+Vaishno Devi (Katra),-3.9,Snow,30.2,Unsafe
+Statue of Unity (Kevadia),19.6,Clear,32.9,Safe
+Bengaluru,16.7,Heavy Rain,5.9,Safe
+Dharamshala,5.8,Clear,30.6,Safe
+Jaipur,21.4,Rain,9.4,Safe
+Manali,0.7,Cloudy,34.4,Safe
+Kodaikanal,17.5,Clear,7.7,Safe
+Vijayawada,28.9,Cloudy,39.0,Safe
+Lucknow,22.2,Clear,42.9,Safe
+Ooty,12.6,Cloudy,24.4,Safe
+Somnath,12.4,Cloudy,42.9,Safe
+Amritsar,22.9,Cloudy,32.6,Safe
+Munnar,31.1,Cloudy,29.6,Safe
+Jodhpur,32.1,Clear,26.3,Safe
+Hampi,11.0,Rain,7.1,Safe
+Kodaikanal,24.4,Rain,18.6,Safe
+Chennai,32.4,Cloudy,9.8,Safe
+Visakhapatnam,23.9,Cloudy,10.9,Safe
+Pushkar,37.7,Clear,15.6,Safe
+Kodaikanal,16.5,Cloudy,6.5,Safe
+Lucknow,30.1,Rain,42.8,Moderate
+Chennai,29.7,Cloudy,59.6,Moderate
+Rameswaram,30.7,Rain,9.2,Safe
+Munnar,29.9,Cloudy,27.8,Safe
+Kodaikanal,8.8,Rain,24.9,Safe
+Coorg,23.1,Clear,32.8,Safe
+Goa,32.5,Clear,22.2,Safe
+Amritsar,23.0,Clear,29.0,Safe
+Nainital,0.2,Fog,37.6,Moderate
+Manali,8.7,Cloudy,9.9,Safe
+Bengaluru,17.2,Clear,43.8,Safe
+Somnath,20.1,Clear,18.4,Safe
+Udaipur,12.1,Fog,39.6,Moderate
+Bengaluru,34.5,Clear,39.7,Safe
+Dharamshala,7.7,Rain,39.0,Moderate
+Ooty,18.0,Cloudy,30.2,Safe
+Mumbai,21.3,Cloudy,15.7,Safe
+Vaishno Devi (Katra),5.2,Rain,30.9,Moderate
+Hampi,15.2,Clear,22.9,Safe
+Hampi,20.1,Rain,21.0,Safe
+Vijayawada,30.4,Clear,17.9,Safe
+Rameswaram,22.0,Heavy Rain,58.0,Unsafe
+Pushkar,36.1,Clear,14.4,Safe
+Kanyakumari,33.8,Rain,51.6,Moderate
+Goa,30.9,Rain,52.8,Moderate
+Srinagar,12.8,Clear,38.6,Safe
+Mysuru,26.1,Clear,32.4,Safe
+Goa,20.6,Storm,28.1,Moderate
+Bengaluru,22.5,Clear,33.3,Safe
+Jaipur,10.5,Rain,30.9,Moderate
+Pune,12.3,Rain,35.3,Moderate
+Nainital,11.5,Clear,27.9,Safe
+Hampi,14.2,Rain,22.0,Safe
+Agra,29.5,Rain,31.1,Moderate
+Bengaluru,27.1,Clear,21.0,Safe
+Manali,11.8,Cloudy,34.7,Safe
+Vijayawada,19.7,Clear,16.0,Safe
+Rishikesh & Haridwar,-0.9,Heavy Snow,15.0,Moderate
+Prayagraj,11.5,Fog,24.1,Safe
+Alleppey,23.2,Rain,35.0,Moderate
+Kochi,24.9,Clear,36.3,Safe
+Chennai,27.0,Heavy Rain,55.3,Unsafe
+Udaipur,12.3,Rain,32.1,Moderate
+Shirdi,25.7,Clear,6.9,Safe
+Shirdi,29.8,Clear,12.3,Safe
+Kodaikanal,16.3,Rain,7.6,Safe
+Hampi,13.8,Clear,9.4,Safe
+Ahmedabad,20.0,Clear,15.6,Safe
+Jaipur,39.3,Clear,8.0,Safe
+Chennai,34.4,Storm,53.2,Unsafe
+Darjeeling,14.6,Cloudy,20.3,Safe
+Kochi,28.0,Cloudy,52.2,Moderate
+Ayodhya,27.5,Clear,30.2,Safe
+Pune,33.0,Rain,13.1,Safe
+Rishikesh & Haridwar,0.5,Clear,7.0,Safe
+Kodaikanal,24.4,Clear,20.7,Safe
+Rameswaram,32.7,Clear,9.7,Safe
+Ahmedabad,13.7,Clear,18.1,Safe
+Hampi,14.5,Clear,29.4,Safe
+Jodhpur,24.6,Clear,11.4,Safe
+Rameswaram,25.5,Heavy Rain,7.3,Moderate
+Dwarka,29.8,Cloudy,42.1,Safe
+Coorg,24.7,Rain,14.7,Safe
+Prayagraj,26.1,Rain,12.4,Safe
+Prayagraj,23.8,Clear,15.2,Safe
+Kodaikanal,11.9,Rain,8.9,Safe
+Shirdi,31.9,Rain,43.3,Moderate
+Mysuru,24.3,Cloudy,29.2,Safe
+Tirupati,30.3,Fog,36.8,Moderate
+Kanyakumari,34.5,Clear,36.1,Safe
+Shimla,-3.4,Cloudy,5.2,Safe
+Mysuru,24.7,Clear,23.3,Safe
+Lucknow,24.7,Fog,7.9,Safe
+Nainital,2.8,Fog,9.3,Moderate
+Pune,11.3,Clear,36.7,Safe
+Darjeeling,-3.7,Clear,38.1,Moderate
+Udaipur,32.1,Clear,40.2,Safe
+Delhi,13.4,Clear,22.1,Safe
+Tirupati,14.6,Clear,7.0,Safe
+Prayagraj,37.4,Clear,9.7,Safe
+Bengaluru,17.5,Cloudy,12.2,Safe
+Hampi,15.2,Rain,28.9,Safe
+Amritsar,32.2,Storm,27.9,Moderate
+Hampi,24.7,Rain,28.4,Safe
+Dharamshala,0.1,Cloudy,19.3,Safe
+Varanasi,20.1,Cloudy,14.2,Safe
+Statue of Unity (Kevadia),18.6,Fog,18.0,Safe
+Goa,30.3,Clear,17.0,Safe
+Rishikesh & Haridwar,11.1,Fog,17.1,Moderate
+Jaipur,10.9,Rain,31.9,Moderate
+Jaisalmer,38.5,Clear,61.3,Moderate
+Nashik,16.4,Clear,34.9,Safe
+Ooty,22.2,Clear,32.3,Safe
+Ooty,24.1,Clear,31.7,Safe
+Ayodhya,28.2,Clear,33.7,Safe
+Ooty,20.7,Fog,31.9,Moderate
+Coorg,11.4,Clear,25.8,Safe
+Dharamshala,11.1,Fog,35.9,Moderate
+Varanasi,13.3,Cloudy,36.7,Safe
+Madurai,38.8,Cloudy,35.1,Safe
+Vaishno Devi (Katra),9.6,Rain,14.4,Moderate
+Amritsar,21.4,Cloudy,40.6,Safe
+Alleppey,23.4,Clear,41.3,Safe
+Vijayawada,15.0,Rain,18.5,Safe
+Jaipur,11.9,Cloudy,35.1,Safe
+Mathura & Vrindavan,20.9,Clear,12.2,Safe
+Jaipur,38.9,Cloudy,21.7,Safe
+Kanyakumari,23.0,Rain,21.7,Safe
+Manali,-2.2,Cloudy,30.3,Moderate
+Dharamshala,-2.6,Cloudy,7.9,Safe
+Nainital,-4.5,Cloudy,23.4,Safe
+Rishikesh & Haridwar,-0.4,Cloudy,15.7,Safe
+Shirdi,25.5,Rain,33.3,Moderate
+Nainital,8.0,Clear,14.2,Safe
+Tirupati,23.4,Fog,29.5,Safe
+Kanyakumari,25.7,Clear,56.2,Moderate
+Darjeeling,-3.0,Clear,23.7,Safe
+Dwarka,12.6,Cloudy,30.1,Safe
+Pushkar,29.3,Clear,12.4,Safe
+Ayodhya,13.4,Rain,25.0,Safe
+Dwarka,35.8,Rain,35.8,Moderate
+Agra,12.3,Rain,30.1,Moderate
+Bengaluru,23.3,Clear,6.8,Safe
+Jaisalmer,40.2,Clear,9.0,Safe
+Lucknow,38.2,Clear,14.4,Safe
+Kolkata,36.5,Rain,43.2,Moderate
+Bengaluru,17.0,Rain,8.7,Safe
+Coorg,9.5,Cloudy,33.8,Safe
+Nashik,13.6,Clear,35.1,Safe
+Mumbai,24.6,Rain,52.2,Moderate
+Coorg,14.5,Clear,25.9,Safe
+Aurangabad,14.8,Clear,15.3,Safe
+Rishikesh & Haridwar,4.5,Clear,9.8,Safe
+Kodaikanal,9.6,Rain,10.5,Safe
+Jaipur,34.3,Rain,42.6,Moderate
+Varanasi,36.3,Fog,8.4,Safe
+Aurangabad,12.5,Clear,25.7,Safe
+Bengaluru,19.7,Clear,35.6,Safe
+Srinagar,6.7,Rain,21.3,Moderate
+Visakhapatnam,34.5,Rain,47.3,Moderate
+Hampi,17.8,Rain,12.1,Safe
+Delhi,37.0,Clear,8.4,Safe
+Mathura & Vrindavan,18.2,Clear,25.3,Safe
+Manali,6.6,Clear,40.9,Safe
+Vijayawada,31.0,Clear,39.2,Safe
+Mysuru,21.4,Clear,22.1,Safe
+Rameswaram,29.2,Clear,12.4,Safe
+Tirupati,36.6,Clear,8.0,Safe
+Aurangabad,27.9,Rain,6.8,Safe
+Udaipur,34.9,Clear,11.7,Safe
+Jodhpur,26.1,Clear,36.7,Safe
+Nashik,11.1,Clear,34.0,Safe
+Prayagraj,13.6,Storm,29.4,Moderate
+Nainital,-1.8,Cloudy,7.7,Safe
+Hampi,13.5,Rain,28.8,Safe
+Kodaikanal,10.7,Cloudy,22.7,Safe
+Shimla,1.0,Rain,29.9,Moderate
+Chennai,31.5,Rain,58.8,Moderate
+Ajmer,10.4,Fog,43.3,Moderate
+Hampi,9.5,Cloudy,6.4,Safe
+Coorg,8.7,Rain,13.6,Safe
+Kochi,27.9,Clear,16.1,Safe
+Visakhapatnam,23.5,Heavy Rain,44.6,Unsafe
+Shirdi,10.6,Clear,12.7,Safe
+Mumbai,24.6,Cloudy,51.2,Moderate
+Jaipur,25.2,Rain,39.3,Moderate
+Munnar,22.3,Rain,16.3,Safe
+Visakhapatnam,25.6,Rain,19.0,Safe
+Dwarka,20.8,Clear,26.9,Safe
+Agra,16.7,Rain,23.4,Safe
+Ahmedabad,11.2,Cloudy,7.8,Safe
+Prayagraj,21.5,Fog,25.3,Safe
+Visakhapatnam,30.0,Rain,47.0,Moderate
+Coorg,19.2,Clear,10.8,Safe
+Kodaikanal,15.0,Fog,30.1,Moderate
+Delhi,13.9,Cloudy,44.1,Safe
+Varanasi,16.4,Clear,42.4,Safe
+Visakhapatnam,25.6,Storm,33.4,Unsafe
+Chennai,32.5,Cloudy,41.0,Safe
+Ajmer,10.9,Clear,8.2,Safe
+Hampi,14.0,Cloudy,10.1,Safe
+Pune,24.9,Rain,36.5,Moderate
+Munnar,29.1,Rain,22.4,Safe
+Lucknow,26.1,Clear,31.9,Safe
+Dharamshala,-0.9,Clear,43.5,Safe
+Chennai,27.2,Heavy Rain,23.3,Moderate
+Munnar,34.6,Rain,34.2,Moderate
+Dwarka,18.7,Fog,25.0,Safe
+Pune,25.4,Rain,12.3,Safe
+Amritsar,21.1,Rain,34.9,Moderate
+Shimla,10.6,Clear,21.5,Safe
+Prayagraj,13.0,Cloudy,39.9,Safe
+Coorg,21.2,Clear,7.9,Safe
+Nashik,23.4,Clear,26.1,Safe
+Udaipur,33.5,Clear,21.2,Safe
+Shirdi,30.0,Clear,13.0,Safe
+Aurangabad,21.7,Rain,14.4,Safe
+Statue of Unity (Kevadia),29.7,Clear,34.6,Safe
+Manali,-3.4,Rain,5.5,Moderate
+Pune,20.1,Clear,18.0,Safe
+Madurai,30.4,Rain,8.4,Safe
+Srinagar,7.4,Rain,5.7,Moderate
+Lucknow,35.4,Clear,31.5,Safe
+Udaipur,16.6,Clear,29.0,Safe
+Jaisalmer,26.4,Clear,29.3,Safe
+Kochi,32.7,Clear,17.0,Safe
+Rishikesh & Haridwar,7.1,Fog,34.9,Moderate
+Ooty,21.7,Clear,34.0,Safe
+Shirdi,28.3,Rain,42.9,Moderate
+Mysuru,22.4,Clear,27.4,Safe
+Thiruvananthapuram,33.1,Rain,33.8,Moderate
+Manali,4.7,Clear,15.9,Safe
+Shimla,-0.8,Clear,42.9,Safe
+Rishikesh & Haridwar,3.7,Clear,7.7,Safe
+Somnath,10.5,Rain,43.0,Moderate
+Vijayawada,11.8,Cloudy,33.1,Safe
+Mathura & Vrindavan,39.4,Fog,8.0,Safe
+Dharamshala,-4.6,Rain,30.4,Unsafe
+Statue of Unity (Kevadia),36.7,Rain,7.4,Safe
+Udaipur,29.2,Rain,40.9,Moderate
+Ahmedabad,18.3,Cloudy,40.3,Safe
+Ajmer,20.7,Cloudy,9.7,Safe
+Dharamshala,-4.1,Snow,32.3,Unsafe
+Jodhpur,43.2,Cloudy,13.5,Safe
+Manali,9.9,Clear,27.3,Safe
+Thiruvananthapuram,34.2,Rain,57.2,Moderate
+Pune,16.4,Cloudy,33.3,Safe
+Ooty,13.8,Cloudy,34.1,Safe
+Shirdi,36.8,Clear,7.5,Safe
+Srinagar,13.9,Cloudy,30.0,Safe
+Manali,13.5,Rain,43.9,Moderate
+Delhi,36.4,Clear,38.5,Safe
+Dharamshala,10.0,Clear,44.4,Safe
+Chennai,24.8,Rain,42.0,Moderate
+Alleppey,22.5,Rain,39.0,Moderate
+Jodhpur,32.2,Clear,25.6,Safe
+Ahmedabad,29.4,Fog,13.8,Safe
+Manali,7.9,Clear,18.1,Safe
+Ahmedabad,37.0,Cloudy,20.4,Safe
+Ooty,19.2,Clear,21.3,Safe
+Ayodhya,36.5,Rain,35.6,Moderate
+Nashik,18.4,Clear,29.4,Safe
+Tirupati,35.4,Rain,25.9,Safe
+Pune,19.0,Rain,32.5,Moderate
+Jodhpur,39.4,Clear,10.0,Safe
+Aurangabad,28.2,Rain,31.5,Moderate
+Bengaluru,21.0,Cloudy,7.8,Safe
+Hampi,17.8,Cloudy,22.8,Safe
+Prayagraj,29.0,Clear,8.6,Safe
+Kodaikanal,17.5,Rain,6.6,Safe
+Somnath,30.3,Heavy Rain,42.5,Moderate
+Prayagraj,25.2,Rain,16.3,Safe
+Nashik,15.7,Clear,40.9,Safe
+Kodaikanal,22.0,Clear,13.7,Safe
+Varanasi,23.5,Clear,16.1,Safe
+Udaipur,16.4,Clear,11.9,Safe
+Jaisalmer,41.2,Clear,9.5,Safe
+Jaisalmer,23.1,Clear,12.2,Safe
+Delhi,12.8,Clear,30.7,Safe
+Delhi,26.6,Fog,13.2,Safe
+Ajmer,12.7,Clear,35.9,Safe
+Pushkar,43.3,Clear,33.9,Moderate
+Shirdi,35.0,Clear,5.3,Safe
+Vaishno Devi (Katra),12.9,Cloudy,38.1,Safe
+Dwarka,20.8,Rain,12.8,Safe
+Tirupati,39.4,Clear,31.8,Safe
+Agra,35.8,Heavy Rain,13.4,Moderate
+Jodhpur,37.2,Clear,27.8,Safe
+Prayagraj,33.3,Clear,34.8,Safe
+Ayodhya,21.6,Cloudy,15.5,Safe
+Shirdi,34.3,Cloudy,22.4,Safe
+Vaishno Devi (Katra),3.1,Fog,31.9,Moderate
+Jaipur,17.2,Clear,7.2,Safe
+Rameswaram,32.9,Clear,10.5,Safe
+Somnath,11.6,Rain,32.8,Moderate
+Kanyakumari,33.5,Clear,49.2,Safe
+Aurangabad,23.1,Cloudy,6.5,Safe
+Munnar,24.7,Cloudy,54.7,Moderate
+Mysuru,28.4,Clear,25.7,Safe
+Pushkar,37.3,Cloudy,18.9,Safe
+Bengaluru,30.0,Heavy Rain,11.7,Safe
+Rameswaram,26.2,Cloudy,39.8,Safe
+Lucknow,31.1,Heavy Rain,31.0,Moderate
+Agra,16.0,Clear,14.8,Safe
+Prayagraj,17.1,Cloudy,28.0,Safe
+Bengaluru,13.9,Clear,27.4,Safe
+Ooty,9.3,Clear,16.3,Safe
+Lucknow,33.3,Cloudy,8.4,Safe
+Kanyakumari,32.1,Clear,5.7,Safe
+Rishikesh & Haridwar,11.1,Rain,13.1,Moderate
+Srinagar,-0.5,Heavy Snow,38.5,Unsafe
+Madurai,21.8,Clear,27.6,Safe
+Hampi,13.5,Clear,13.3,Safe
+Coorg,16.5,Rain,23.8,Safe
+Udaipur,38.2,Cloudy,25.1,Safe
+Pune,27.6,Storm,20.1,Safe
+Aurangabad,31.2,Clear,44.8,Safe
+Rameswaram,26.8,Cloudy,32.5,Safe
+Alleppey,30.7,Cloudy,26.8,Safe
+Darjeeling,-4.4,Clear,12.5,Safe
+Vijayawada,23.8,Rain,5.5,Safe
+Munnar,26.0,Heavy Rain,24.5,Moderate
+Kochi,21.7,Heavy Rain,47.8,Unsafe
+Dharamshala,13.4,Fog,40.0,Moderate
+Ajmer,32.4,Rain,17.0,Safe
+Bengaluru,36.7,Clear,37.0,Safe
+Kodaikanal,19.2,Rain,9.0,Safe
+Ajmer,33.6,Clear,19.4,Safe
+Pune,20.7,Clear,31.4,Safe
+Vaishno Devi (Katra),12.8,Clear,18.2,Safe
+Statue of Unity (Kevadia),39.7,Clear,25.8,Safe
+Agra,10.7,Rain,18.3,Safe
+Goa,21.0,Cloudy,21.7,Safe
+Pushkar,29.0,Storm,47.9,Moderate
+Amritsar,35.0,Clear,20.1,Safe
+Varanasi,34.2,Clear,8.9,Safe
+Varanasi,14.7,Fog,8.2,Safe
+Madurai,19.8,Clear,15.5,Safe
+Lucknow,32.5,Heavy Rain,33.8,Moderate
+Vaishno Devi (Katra),5.4,Rain,27.4,Moderate
+Madurai,30.9,Clear,17.0,Safe
+Pune,13.0,Rain,18.4,Safe
+Nashik,31.0,Clear,13.2,Safe
+Somnath,20.6,Rain,29.0,Safe
+Darjeeling,1.3,Snow,40.3,Unsafe
+Shimla,3.8,Clear,28.9,Safe
+Mumbai,31.0,Rain,18.6,Safe
+Hampi,16.8,Rain,14.4,Safe
+Agra,25.3,Clear,28.1,Safe
+Coorg,18.1,Cloudy,6.9,Safe
+Nashik,31.2,Heavy Rain,22.8,Moderate
+Kochi,29.0,Fog,48.8,Moderate
+Kanyakumari,27.0,Clear,51.5,Moderate
+Agra,32.3,Rain,19.6,Safe
+Udaipur,32.5,Clear,7.7,Safe
+Bengaluru,28.8,Clear,44.1,Safe
+Tirupati,32.7,Cloudy,33.0,Safe
+Statue of Unity (Kevadia),37.5,Storm,35.1,Moderate
+Statue of Unity (Kevadia),33.2,Clear,17.7,Safe
+Shimla,14.9,Cloudy,9.4,Safe
+Kodaikanal,20.2,Clear,27.8,Safe
+Statue of Unity (Kevadia),16.0,Heavy Rain,43.0,Moderate
+Statue of Unity (Kevadia),19.0,Clear,16.7,Safe
+Statue of Unity (Kevadia),21.4,Cloudy,30.5,Safe
+Aurangabad,38.9,Rain,23.7,Safe
+Mathura & Vrindavan,21.3,Clear,38.3,Safe
+Shirdi,22.8,Clear,18.7,Safe
+Rishikesh & Haridwar,6.5,Cloudy,8.6,Safe
+Kanyakumari,22.0,Heavy Rain,9.1,Moderate
+Thiruvananthapuram,30.8,Rain,35.5,Moderate
+Aurangabad,11.0,Heavy Rain,37.9,Moderate
+Amritsar,26.5,Rain,6.8,Safe
+Vijayawada,21.4,Clear,43.4,Safe
+Statue of Unity (Kevadia),15.3,Clear,15.5,Safe
+Pune,30.3,Rain,32.4,Moderate
+Bengaluru,25.8,Rain,15.2,Safe
+Tirupati,19.9,Rain,11.2,Safe
+Thiruvananthapuram,23.0,Clear,29.6,Safe
+Udaipur,12.7,Clear,44.6,Safe
+Rishikesh & Haridwar,-0.6,Snow,11.9,Moderate
+Ajmer,12.2,Rain,39.8,Moderate
+Munnar,22.7,Heavy Rain,11.0,Moderate
+Lucknow,34.7,Fog,17.1,Safe
+Alleppey,30.0,Clear,36.2,Safe
+Kolkata,11.3,Rain,15.1,Safe
+Shirdi,27.8,Clear,43.8,Safe
+Dwarka,37.3,Cloudy,24.8,Safe
+Delhi,14.5,Clear,10.9,Safe
+Vijayawada,18.9,Clear,19.7,Safe
+Bengaluru,29.7,Cloudy,20.5,Safe
+Ooty,16.2,Clear,33.3,Safe
+Shimla,-0.2,Heavy Snow,22.3,Moderate
+Delhi,32.0,Fog,41.9,Moderate
+Kolkata,15.1,Heavy Rain,24.6,Moderate
+Vijayawada,24.8,Clear,17.5,Safe
+Tirupati,21.3,Clear,27.3,Safe
+Ahmedabad,32.4,Clear,40.8,Safe
+Shirdi,22.5,Clear,24.8,Safe
+Munnar,26.4,Cloudy,27.9,Safe
+Tirupati,29.9,Fog,20.5,Safe
+Alleppey,32.2,Rain,47.8,Moderate
+Nainital,3.4,Rain,30.3,Moderate
+Mathura & Vrindavan,14.5,Clear,9.1,Safe
+Statue of Unity (Kevadia),31.4,Clear,40.9,Safe
+Varanasi,34.3,Clear,37.2,Safe
+Kanyakumari,26.1,Cloudy,58.1,Moderate
+Mysuru,24.9,Clear,23.1,Safe
+Mathura & Vrindavan,35.3,Clear,35.8,Safe
+Visakhapatnam,29.7,Clear,15.3,Safe
+Chennai,32.7,Clear,44.9,Safe
+Mumbai,34.2,Rain,27.6,Safe
+Goa,34.2,Clear,12.1,Safe
+Somnath,33.5,Clear,9.7,Safe
+Shirdi,38.2,Clear,32.9,Safe
+Goa,29.9,Storm,32.2,Unsafe
+Thiruvananthapuram,29.6,Rain,34.4,Moderate
+Udaipur,32.6,Rain,41.5,Moderate
+Jaipur,34.2,Cloudy,30.1,Safe
+Thiruvananthapuram,23.7,Rain,46.7,Moderate
+Coorg,20.2,Rain,34.3,Moderate
+Manali,-4.6,Clear,35.0,Moderate
+Srinagar,8.8,Clear,32.5,Safe
+Jodhpur,29.6,Clear,11.8,Safe
+Agra,34.9,Clear,40.3,Safe
+Vijayawada,33.1,Clear,34.5,Safe
+Goa,33.1,Heavy Rain,5.2,Moderate
+Tirupati,30.7,Clear,35.1,Safe
+Jaipur,28.8,Clear,24.2,Safe
+Mysuru,12.8,Clear,19.7,Safe
+Jaisalmer,37.3,Clear,77.3,Moderate
+Delhi,36.9,Clear,26.4,Safe
+Jaisalmer,22.2,Clear,30.9,Safe
+Manali,1.7,Heavy Snow,17.1,Moderate
+Pushkar,40.5,Clear,29.7,Safe
+Nashik,22.4,Clear,23.4,Safe
+Kodaikanal,20.2,Clear,8.4,Safe
+Vijayawada,35.6,Clear,16.6,Safe
+Prayagraj,27.7,Heavy Rain,40.0,Moderate
+Shirdi,19.3,Rain,10.3,Safe
+Nashik,18.5,Rain,33.6,Moderate
+Dharamshala,-4.1,Fog,27.4,Moderate
+Visakhapatnam,20.6,Clear,54.9,Moderate
+Udaipur,31.2,Storm,44.9,Moderate
+Prayagraj,33.7,Clear,25.9,Safe
+Pune,38.7,Clear,19.2,Safe
+Mumbai,28.4,Clear,44.0,Safe
+Ayodhya,31.8,Rain,6.1,Safe
+Tirupati,25.9,Storm,37.9,Unsafe
+Kolkata,14.7,Clear,27.4,Safe
+Aurangabad,38.1,Clear,33.6,Safe
+Visakhapatnam,22.0,Rain,50.5,Moderate
+Jaipur,27.2,Cloudy,15.3,Safe
+Mathura & Vrindavan,36.9,Clear,37.4,Safe
+Vaishno Devi (Katra),11.2,Clear,38.2,Safe
+Kodaikanal,18.8,Clear,13.2,Safe
+Prayagraj,17.2,Clear,27.0,Safe
+Prayagraj,30.3,Clear,22.7,Safe
+Nashik,32.1,Cloudy,39.6,Safe
+Lucknow,32.6,Clear,22.2,Safe
+Somnath,27.3,Heavy Rain,42.3,Moderate
+Thiruvananthapuram,24.0,Cloudy,54.5,Moderate
+Shirdi,37.2,Clear,10.9,Safe
+Udaipur,36.4,Clear,28.0,Safe
+Dharamshala,14.7,Clear,18.7,Safe
+Kolkata,34.3,Storm,8.8,Moderate
+Coorg,19.0,Clear,6.2,Safe
+Dharamshala,3.4,Clear,15.5,Safe
+Bengaluru,39.6,Cloudy,44.6,Safe
+Pune,20.9,Rain,40.6,Moderate
+Vijayawada,25.1,Clear,32.5,Safe
+Madurai,34.5,Clear,20.9,Safe
+Jaipur,21.9,Heavy Rain,27.8,Moderate
+Jodhpur,41.7,Clear,11.7,Safe
+Prayagraj,16.5,Clear,34.0,Safe
+Vaishno Devi (Katra),14.9,Fog,32.1,Moderate
+Tirupati,10.6,Cloudy,6.2,Safe
+Mathura & Vrindavan,39.5,Clear,16.3,Safe
+Thiruvananthapuram,34.8,Fog,50.5,Moderate
+Udaipur,32.5,Clear,34.8,Safe
+Coorg,21.2,Clear,15.0,Safe
+Kanyakumari,25.4,Cloudy,31.7,Safe
+Hampi,20.5,Clear,24.3,Safe
+Amritsar,14.8,Cloudy,10.9,Safe
+Chennai,20.3,Clear,42.0,Safe
+Jaipur,31.1,Rain,26.5,Safe
+Munnar,30.1,Clear,30.2,Safe
+Mumbai,33.0,Rain,31.2,Moderate
+Hampi,24.8,Clear,24.3,Safe
+Nashik,27.0,Fog,36.3,Moderate
+Jaisalmer,37.3,Cloudy,28.0,Safe
+Jodhpur,38.0,Clear,18.4,Safe
+Mathura & Vrindavan,35.9,Cloudy,11.0,Safe
+Hampi,21.6,Clear,6.6,Safe
+Alleppey,20.4,Storm,10.4,Moderate
+Aurangabad,25.1,Fog,40.1,Moderate
+Nashik,19.7,Clear,38.1,Safe
+Alleppey,27.6,Cloudy,51.0,Moderate
+Dharamshala,14.0,Rain,40.2,Moderate
+Amritsar,29.0,Clear,35.4,Safe
+Kochi,28.3,Cloudy,17.9,Safe
+Alleppey,25.4,Rain,54.7,Moderate
+Amritsar,34.5,Clear,12.2,Safe
+Kolkata,36.9,Clear,25.5,Safe
+Shimla,11.1,Clear,29.6,Safe
+Statue of Unity (Kevadia),16.9,Rain,14.9,Safe
+Kochi,31.8,Rain,24.6,Safe
+Mathura & Vrindavan,14.2,Clear,43.7,Safe
+Rishikesh & Haridwar,-4.0,Snow,39.5,Unsafe
+Nashik,25.6,Rain,11.4,Safe
+Visakhapatnam,22.5,Clear,18.2,Safe
+Mumbai,30.3,Clear,11.6,Safe
+Pushkar,27.0,Clear,19.6,Safe
+Kodaikanal,11.8,Cloudy,21.8,Safe
+Kolkata,32.4,Clear,22.5,Safe
+Vijayawada,25.6,Storm,23.9,Moderate
+Kochi,29.7,Cloudy,11.8,Safe
+Pune,35.2,Clear,32.2,Safe
+Agra,19.2,Heavy Rain,36.8,Moderate
+Dharamshala,3.2,Fog,8.5,Moderate
+Ajmer,28.3,Clear,11.1,Safe
+Tirupati,26.4,Fog,10.8,Safe
+Pushkar,24.3,Clear,13.3,Safe
+Ahmedabad,35.5,Fog,9.9,Safe
+Darjeeling,6.5,Cloudy,21.0,Safe
+Dwarka,17.3,Rain,43.9,Moderate
+Manali,-0.6,Snow,39.8,Unsafe
+Dwarka,35.0,Cloudy,23.9,Safe
+Vaishno Devi (Katra),-1.1,Rain,6.0,Moderate
+Darjeeling,-1.7,Snow,40.3,Unsafe
+Mysuru,13.5,Clear,13.1,Safe
+Nainital,0.9,Heavy Snow,20.5,Moderate
+Varanasi,29.2,Clear,16.0,Safe
+Bengaluru,21.4,Storm,9.0,Safe
+Rishikesh & Haridwar,3.2,Clear,22.0,Safe
+Shimla,0.8,Snow,12.8,Moderate
+Visakhapatnam,30.6,Clear,58.1,Moderate
+Manali,0.8,Fog,7.5,Moderate
+Nainital,4.5,Clear,11.3,Safe
+Kochi,33.0,Fog,52.4,Moderate
+Pune,32.6,Rain,41.8,Moderate
+Shirdi,36.0,Clear,39.1,Safe
+Lucknow,27.3,Cloudy,33.4,Safe
+Vaishno Devi (Katra),13.6,Clear,42.2,Safe
+Ooty,20.7,Rain,13.6,Safe
+Delhi,32.3,Clear,23.1,Safe
+Aurangabad,22.0,Cloudy,17.5,Safe
+Rameswaram,30.8,Cloudy,59.4,Moderate
+Coorg,24.2,Rain,26.2,Safe
+Udaipur,14.3,Clear,21.0,Safe
+Bengaluru,25.1,Clear,16.6,Safe
+Thiruvananthapuram,20.3,Rain,59.0,Moderate
+Rameswaram,21.7,Rain,50.3,Moderate
+Bengaluru,24.5,Rain,10.7,Safe
+Nainital,-2.3,Clear,32.4,Moderate
+Coorg,19.6,Clear,32.5,Safe
+Manali,5.2,Clear,13.1,Safe
+Lucknow,20.2,Clear,33.9,Safe
+Pushkar,37.1,Storm,78.9,Unsafe
+Dharamshala,12.9,Clear,5.0,Safe
+Goa,25.1,Cloudy,42.9,Safe
+Kolkata,14.6,Rain,36.7,Moderate
+Nashik,30.4,Cloudy,17.2,Safe
+Hampi,9.0,Cloudy,10.1,Safe
+Jaisalmer,33.2,Clear,29.4,Safe
+Jaipur,17.5,Clear,17.4,Safe
+Nashik,17.4,Clear,28.3,Safe
+Rameswaram,22.3,Cloudy,42.8,Safe
+Darjeeling,13.3,Rain,38.3,Moderate
+Ahmedabad,33.4,Clear,16.1,Safe
+Ayodhya,20.6,Clear,24.8,Safe
+Kodaikanal,24.6,Rain,15.1,Safe
+Tirupati,36.0,Rain,39.6,Moderate
+Kochi,24.7,Cloudy,52.6,Moderate
+Manali,13.3,Clear,32.2,Safe
+Varanasi,22.7,Clear,26.6,Safe
+Nashik,13.6,Fog,12.2,Safe
+Madurai,26.3,Cloudy,7.3,Safe
+Chennai,22.7,Cloudy,34.1,Safe
+Alleppey,32.6,Rain,13.4,Safe
+Rishikesh & Haridwar,-3.3,Clear,30.7,Moderate
+Somnath,37.5,Clear,6.2,Safe
+Madurai,21.4,Clear,17.0,Safe
+Vijayawada,22.4,Cloudy,20.8,Safe
+Shimla,12.5,Rain,9.2,Moderate
+Nashik,21.2,Storm,36.3,Moderate
+Statue of Unity (Kevadia),38.2,Clear,5.8,Safe
+Rameswaram,31.3,Rain,26.1,Safe
+Madurai,27.8,Clear,9.3,Safe
+Mysuru,28.7,Clear,23.3,Safe
+Varanasi,13.2,Cloudy,15.9,Safe
+Srinagar,0.8,Rain,25.2,Moderate
+Ahmedabad,16.6,Rain,42.6,Moderate
+Jaipur,32.8,Heavy Rain,14.0,Moderate
+Jodhpur,39.0,Storm,32.8,Moderate
+Vijayawada,39.5,Rain,35.3,Moderate
+Pushkar,34.5,Storm,31.4,Moderate
+Aurangabad,19.7,Rain,32.5,Moderate
+Madurai,32.7,Clear,44.5,Safe
+Amritsar,33.9,Rain,12.9,Safe
+Jaipur,14.9,Clear,36.6,Safe
+Shirdi,39.0,Heavy Rain,12.5,Moderate
+Mumbai,33.5,Clear,57.6,Moderate
+Hampi,19.6,Clear,22.1,Safe
+Amritsar,35.0,Clear,32.5,Safe
+Dharamshala,0.9,Snow,18.3,Moderate
+Statue of Unity (Kevadia),14.7,Cloudy,39.4,Safe
+Kodaikanal,13.5,Rain,10.7,Safe
+Somnath,24.4,Clear,8.1,Safe
+Thiruvananthapuram,34.2,Clear,34.7,Safe
+Rishikesh & Haridwar,13.3,Clear,32.8,Safe
+Shimla,-0.7,Clear,41.4,Safe
+Lucknow,15.2,Clear,34.7,Safe
+Kodaikanal,21.3,Rain,8.2,Safe
+Thiruvananthapuram,23.4,Rain,16.9,Safe
+Bengaluru,34.7,Clear,6.6,Safe
+Goa,22.5,Fog,52.5,Moderate
+Ayodhya,30.4,Clear,42.9,Safe
+Mumbai,26.6,Rain,45.2,Moderate
+Varanasi,27.5,Cloudy,39.1,Safe
+Vijayawada,19.5,Clear,15.7,Safe
+Kochi,27.4,Cloudy,50.4,Moderate
+Rishikesh & Haridwar,4.7,Clear,27.7,Safe
+Jaisalmer,20.5,Clear,23.8,Safe
+Vaishno Devi (Katra),0.9,Cloudy,22.2,Safe
+Coorg,22.2,Cloudy,34.9,Safe
+Agra,26.4,Clear,16.5,Safe
+Agra,31.0,Rain,11.7,Safe
+Pushkar,38.2,Clear,5.7,Safe
+Rishikesh & Haridwar,13.2,Clear,15.2,Safe
+Shimla,-1.9,Fog,23.4,Moderate
+Udaipur,25.4,Rain,11.0,Safe
+Coorg,9.4,Rain,27.1,Safe
+Pune,19.1,Rain,22.3,Safe
+Alleppey,21.8,Clear,10.6,Safe
+Nashik,19.5,Clear,9.6,Safe
+Chennai,33.2,Cloudy,16.0,Safe
+Jodhpur,44.3,Clear,10.9,Safe
+Varanasi,21.9,Fog,23.4,Safe
+Chennai,32.1,Cloudy,47.1,Safe
+Vaishno Devi (Katra),8.0,Fog,7.9,Moderate
+Somnath,33.0,Clear,44.2,Safe
+Munnar,31.3,Clear,31.9,Safe
+Agra,26.2,Storm,19.0,Moderate
+Mysuru,24.7,Clear,12.7,Safe
+Mathura & Vrindavan,16.4,Fog,24.5,Safe
+Lucknow,22.2,Fog,6.3,Safe
+Ahmedabad,13.4,Clear,18.1,Safe
+Vijayawada,16.9,Clear,19.9,Safe
+Lucknow,10.1,Heavy Rain,10.8,Moderate
+Dwarka,21.7,Clear,44.8,Safe
+Nainital,0.0,Heavy Snow,31.3,Unsafe
+Ooty,23.4,Rain,20.2,Safe
+Mathura & Vrindavan,11.3,Cloudy,37.5,Safe
+Madurai,14.9,Clear,38.4,Safe
+Kochi,28.1,Clear,31.8,Safe
+Kanyakumari,30.8,Storm,51.4,Unsafe
+Kochi,28.5,Rain,52.4,Moderate
+Ajmer,10.3,Clear,16.3,Safe
+Mumbai,31.2,Clear,24.4,Safe
+Vijayawada,34.0,Storm,23.5,Moderate
+Tirupati,15.6,Clear,25.6,Safe
+Pushkar,22.4,Clear,24.3,Safe
+Mumbai,30.4,Rain,13.4,Safe
+Srinagar,-3.8,Clear,41.7,Moderate
+Nainital,8.0,Clear,14.8,Safe
+Coorg,15.7,Clear,9.1,Safe
+Tirupati,29.8,Fog,34.4,Moderate
+Ajmer,35.7,Clear,40.6,Safe
+Nainital,5.6,Clear,43.1,Safe
+Chennai,21.5,Clear,37.9,Safe
+Nainital,2.9,Rain,17.9,Moderate
+Thiruvananthapuram,23.0,Storm,28.4,Moderate
+Jaisalmer,33.2,Cloudy,35.3,Safe
+Vaishno Devi (Katra),6.3,Fog,7.7,Moderate
+Munnar,31.4,Clear,34.2,Safe
+Jaisalmer,31.4,Clear,10.1,Safe
+Goa,32.2,Cloudy,36.8,Safe
+Prayagraj,19.0,Cloudy,45.0,Safe
+Rishikesh & Haridwar,1.8,Clear,22.2,Safe
+Vaishno Devi (Katra),-3.0,Clear,43.9,Moderate
+Somnath,15.4,Clear,22.6,Safe
+Kolkata,10.1,Clear,19.0,Safe
+Dharamshala,-0.7,Heavy Snow,6.5,Moderate
+Kochi,31.1,Heavy Rain,41.0,Unsafe
+Statue of Unity (Kevadia),17.2,Rain,40.2,Moderate
+Tirupati,37.0,Clear,23.0,Safe
+Goa,28.4,Clear,12.5,Safe
+Alleppey,23.8,Heavy Rain,31.8,Unsafe
+Jodhpur,38.1,Clear,45.6,Safe
+Mysuru,25.6,Clear,38.1,Safe
+Shimla,1.5,Clear,32.2,Safe
+Pushkar,41.5,Clear,30.9,Moderate
+Coorg,15.8,Clear,15.3,Safe
+Alleppey,34.8,Clear,52.7,Moderate
+Delhi,33.0,Clear,18.1,Safe
+Rishikesh & Haridwar,-1.4,Cloudy,7.2,Safe
+Varanasi,37.8,Rain,11.7,Safe
+Pune,28.0,Clear,44.0,Safe
+Udaipur,30.9,Rain,37.5,Moderate
+Kochi,21.7,Clear,15.9,Safe
+Kochi,24.5,Heavy Rain,18.7,Moderate
+Rameswaram,24.5,Fog,29.7,Safe
+Tirupati,13.9,Cloudy,15.2,Safe
+Ajmer,33.2,Clear,13.4,Safe
+Ahmedabad,22.1,Heavy Rain,41.7,Moderate
+Jaisalmer,36.3,Clear,9.2,Safe
+Rishikesh & Haridwar,5.5,Clear,25.0,Safe
+Manali,-3.6,Clear,42.6,Moderate
+Somnath,23.6,Clear,25.0,Safe
+Kodaikanal,20.9,Clear,30.6,Safe
+Lucknow,22.5,Clear,5.8,Safe
+Ajmer,29.3,Clear,14.9,Safe
+Dharamshala,6.9,Rain,31.7,Moderate
+Jaisalmer,20.9,Clear,60.2,Moderate
+Visakhapatnam,23.3,Rain,8.0,Safe
+Mysuru,26.5,Clear,10.4,Safe
+Kanyakumari,32.9,Fog,25.5,Safe
+Tirupati,23.4,Clear,42.9,Safe
+Kolkata,15.0,Rain,44.6,Moderate
+Varanasi,17.2,Clear,31.9,Safe
+Nainital,2.1,Cloudy,24.1,Safe
+Jaipur,22.6,Rain,22.8,Safe
+Kochi,25.5,Rain,33.1,Moderate
+Kochi,24.8,Rain,15.8,Safe
+Shirdi,37.8,Clear,23.3,Safe
+Mathura & Vrindavan,23.1,Clear,25.9,Safe
+Dharamshala,12.6,Fog,26.8,Moderate
+Mumbai,28.9,Clear,36.6,Safe
+Nainital,14.1,Cloudy,11.1,Safe
+Somnath,28.3,Clear,39.5,Safe
+Ahmedabad,18.0,Clear,43.1,Safe
+Bengaluru,34.5,Clear,20.0,Safe
+Somnath,19.2,Cloudy,18.9,Safe
+Rameswaram,31.6,Rain,45.2,Moderate
+Ayodhya,30.4,Fog,10.7,Safe
+Agra,30.9,Clear,14.8,Safe
+Visakhapatnam,32.2,Rain,43.2,Moderate
+Darjeeling,6.2,Clear,13.3,Safe
+Aurangabad,36.4,Rain,21.3,Safe
+Kodaikanal,20.3,Clear,12.7,Safe
+Ajmer,29.9,Fog,37.4,Moderate
+Hampi,21.7,Clear,26.0,Safe
+Statue of Unity (Kevadia),22.3,Cloudy,11.7,Safe
+Ayodhya,27.3,Clear,35.5,Safe
+Vaishno Devi (Katra),-4.7,Clear,5.1,Safe
+Pune,16.8,Clear,10.2,Safe
+Kanyakumari,20.6,Cloudy,14.2,Safe
+Jodhpur,37.4,Clear,39.0,Safe
+Ayodhya,19.1,Cloudy,25.1,Safe
+Coorg,19.3,Clear,26.0,Safe
+Ajmer,14.4,Rain,14.0,Safe
+Rishikesh & Haridwar,7.6,Clear,15.7,Safe
+Munnar,25.4,Clear,11.2,Safe
+Mysuru,33.0,Heavy Rain,21.6,Moderate
+Chennai,28.7,Clear,33.1,Safe
+Srinagar,0.2,Clear,20.8,Safe
+Kanyakumari,25.3,Heavy Rain,51.5,Unsafe
+Manali,-3.7,Heavy Snow,13.4,Unsafe
+Jodhpur,25.5,Clear,21.7,Safe
+Mysuru,19.0,Rain,17.6,Safe
+Rishikesh & Haridwar,2.3,Rain,8.6,Moderate
+Nashik,13.8,Rain,10.2,Safe
+Agra,14.2,Clear,32.8,Safe
+Jaipur,39.3,Storm,40.3,Moderate
+Goa,27.4,Fog,44.9,Moderate
+Ooty,22.4,Rain,31.3,Moderate
+Jodhpur,38.2,Clear,27.3,Safe
+Manali,6.1,Cloudy,18.2,Safe
+Prayagraj,11.4,Rain,16.7,Safe
+Kanyakumari,23.0,Rain,37.2,Moderate
+Udaipur,19.9,Cloudy,29.1,Safe
+Thiruvananthapuram,30.7,Cloudy,43.7,Safe
+Somnath,27.1,Clear,15.6,Safe
+Goa,30.0,Clear,9.6,Safe
+Dwarka,16.0,Clear,22.5,Safe
+Kanyakumari,32.5,Fog,12.2,Safe
+Munnar,23.5,Clear,21.7,Safe
+Goa,21.0,Storm,37.4,Unsafe
+Mysuru,34.7,Fog,32.1,Moderate
+Amritsar,37.0,Clear,14.8,Safe
+Dwarka,13.4,Rain,34.1,Moderate
+Goa,34.4,Heavy Rain,20.0,Moderate
+Goa,24.9,Cloudy,16.0,Safe
+Kanyakumari,23.3,Rain,14.6,Safe
+Somnath,38.5,Cloudy,29.5,Safe
+Pushkar,41.9,Clear,76.3,Unsafe
+Thiruvananthapuram,22.7,Clear,50.0,Moderate
+Amritsar,10.8,Rain,6.0,Safe
+Kanyakumari,24.5,Clear,13.7,Safe
+Jaipur,28.5,Clear,26.4,Safe
+Kochi,26.6,Fog,57.0,Moderate
+Kolkata,22.1,Clear,26.6,Safe
+Ajmer,39.8,Clear,27.3,Safe
+Kolkata,21.3,Rain,11.5,Safe
+Munnar,24.2,Cloudy,53.4,Moderate
+Vijayawada,21.4,Clear,21.9,Safe
+Visakhapatnam,29.3,Cloudy,59.2,Moderate
+Prayagraj,36.4,Heavy Rain,16.0,Moderate
+Thiruvananthapuram,33.0,Rain,16.3,Safe
+Kanyakumari,24.8,Clear,9.1,Safe
+Srinagar,-1.3,Cloudy,38.9,Safe
+Jodhpur,33.7,Clear,46.7,Safe
+Prayagraj,20.4,Clear,31.8,Safe
+Kolkata,38.3,Cloudy,42.6,Safe
+Hampi,10.3,Clear,5.5,Safe
+Srinagar,-4.2,Cloudy,25.8,Safe
+Pushkar,30.6,Clear,18.1,Safe
+Kanyakumari,27.8,Rain,25.5,Safe
+Pushkar,25.5,Cloudy,24.3,Safe
+Prayagraj,24.7,Clear,26.5,Safe
+Chennai,33.7,Rain,28.5,Safe
+Rishikesh & Haridwar,-3.2,Clear,36.4,Moderate
+Mumbai,34.2,Clear,21.3,Safe
+Ajmer,31.6,Heavy Rain,37.3,Moderate
+Kodaikanal,21.6,Rain,10.4,Safe
+Srinagar,11.4,Clear,44.3,Safe
+Statue of Unity (Kevadia),25.4,Rain,33.3,Moderate
+Manali,-1.1,Snow,30.3,Unsafe
+Nainital,5.8,Cloudy,8.7,Safe
+Aurangabad,39.9,Clear,32.1,Safe
+Nainital,4.8,Rain,6.4,Moderate
+Mumbai,31.8,Cloudy,30.5,Safe
+Chennai,20.1,Rain,10.9,Safe
+Jaipur,30.2,Clear,40.8,Safe
+Manali,1.4,Clear,30.4,Safe
+Coorg,18.8,Rain,10.1,Safe
+Mysuru,28.6,Cloudy,38.0,Safe
+Jodhpur,27.7,Cloudy,31.5,Safe
+Prayagraj,26.6,Clear,44.7,Safe
+Rameswaram,32.9,Cloudy,5.0,Safe
+Manali,1.4,Rain,26.5,Moderate
+Tirupati,22.5,Cloudy,8.7,Safe
+Kodaikanal,18.7,Clear,24.8,Safe
+Mumbai,26.7,Clear,8.0,Safe
+Ayodhya,21.0,Clear,27.8,Safe
+Alleppey,27.8,Rain,53.6,Moderate
+Mathura & Vrindavan,11.3,Fog,25.6,Safe
+Visakhapatnam,20.8,Clear,14.9,Safe
+Statue of Unity (Kevadia),17.3,Rain,19.5,Safe
+Varanasi,30.9,Clear,11.2,Safe
+Dwarka,19.7,Fog,18.9,Safe
+Ahmedabad,12.3,Rain,39.1,Moderate
+Vijayawada,10.0,Rain,38.9,Moderate
+Alleppey,32.7,Clear,50.0,Moderate
+Coorg,19.2,Fog,22.0,Safe
+Madurai,33.1,Rain,19.2,Safe
+Ooty,8.8,Cloudy,30.2,Safe
+Pushkar,28.2,Clear,5.2,Safe
+Dwarka,19.1,Clear,41.6,Safe
+Mumbai,33.4,Cloudy,32.1,Safe
+Tirupati,29.7,Clear,29.8,Safe
+Hampi,16.6,Fog,13.3,Safe
+Ahmedabad,22.0,Clear,11.9,Safe
+Mathura & Vrindavan,32.5,Clear,26.4,Safe
+Rameswaram,20.6,Clear,48.4,Safe
+Rishikesh & Haridwar,2.5,Rain,29.0,Moderate
+Madurai,13.1,Clear,43.5,Safe
+Hampi,14.9,Clear,13.8,Safe
+Somnath,29.3,Heavy Rain,10.7,Moderate
+Srinagar,11.4,Cloudy,44.7,Safe
+Rameswaram,28.0,Rain,20.3,Safe
+Ajmer,20.5,Rain,39.7,Moderate
+Ooty,12.4,Rain,27.9,Safe
+Amritsar,28.1,Rain,44.5,Moderate
+Ayodhya,29.1,Cloudy,10.0,Safe
+Thiruvananthapuram,20.8,Rain,32.3,Moderate
+Rishikesh & Haridwar,2.0,Cloudy,25.7,Safe
+Thiruvananthapuram,24.2,Storm,49.9,Unsafe
+Hampi,21.1,Rain,8.8,Safe
+Chennai,26.0,Cloudy,56.5,Moderate
+Ayodhya,26.0,Rain,17.0,Safe
+Jodhpur,22.4,Clear,5.3,Safe
+Kochi,22.1,Rain,59.9,Moderate
+Lucknow,13.9,Clear,12.0,Safe
+Delhi,36.3,Rain,10.6,Safe
+Ahmedabad,21.2,Cloudy,6.2,Safe
+Mathura & Vrindavan,34.9,Rain,32.4,Moderate
+Mumbai,24.9,Rain,54.1,Moderate
+Munnar,31.8,Rain,19.8,Safe
+Amritsar,20.1,Clear,5.5,Safe
+Pune,26.7,Heavy Rain,17.1,Safe
+Bengaluru,14.2,Clear,28.3,Safe
+Shirdi,35.8,Clear,30.9,Safe
+Nashik,28.0,Clear,9.8,Safe
+Bengaluru,38.8,Clear,34.0,Safe
+Kanyakumari,33.8,Clear,59.8,Moderate
+Rishikesh & Haridwar,7.9,Rain,11.3,Moderate
+Ayodhya,14.6,Clear,17.9,Safe
+Agra,10.6,Clear,10.0,Safe
+Statue of Unity (Kevadia),37.4,Clear,34.1,Safe
+Udaipur,17.0,Rain,7.8,Safe
+Vaishno Devi (Katra),-3.2,Rain,38.0,Unsafe
+Ayodhya,39.4,Cloudy,36.9,Safe
+Shirdi,21.2,Rain,19.4,Safe
+Kolkata,12.8,Fog,27.4,Safe
+Jaipur,17.3,Rain,7.4,Safe
+Darjeeling,11.6,Clear,38.4,Safe
+Nainital,-4.2,Clear,6.6,Safe
+Shirdi,27.7,Fog,38.5,Moderate
+Amritsar,32.8,Cloudy,24.7,Safe
+Jaisalmer,42.4,Clear,26.0,Safe
+Lucknow,11.6,Clear,29.7,Safe
+Rameswaram,22.5,Cloudy,21.8,Safe
+Coorg,16.1,Clear,25.1,Safe
+Lucknow,27.3,Clear,31.3,Safe
+Nashik,21.7,Clear,21.5,Safe
+Dharamshala,9.1,Rain,33.6,Moderate
+Kodaikanal,20.9,Clear,27.9,Safe
+Statue of Unity (Kevadia),19.4,Clear,21.8,Safe
+Alleppey,33.4,Clear,45.7,Safe
+Visakhapatnam,27.8,Cloudy,7.4,Safe
+Aurangabad,13.8,Heavy Rain,38.4,Moderate
+Nainital,4.5,Fog,42.2,Moderate
+Nashik,32.2,Clear,44.7,Safe
+Amritsar,17.6,Clear,39.5,Safe
+Kochi,34.4,Rain,22.5,Safe
+Srinagar,0.3,Cloudy,9.8,Safe
+Kodaikanal,19.1,Clear,17.4,Safe
+Dharamshala,2.3,Rain,26.8,Moderate
+Jodhpur,25.3,Cloudy,28.1,Safe
+Vijayawada,29.5,Clear,36.2,Safe
+Nashik,39.2,Rain,10.8,Safe
+Jodhpur,42.5,Clear,11.6,Safe
+Shimla,-4.8,Clear,39.1,Moderate
+Vijayawada,11.5,Cloudy,12.4,Safe
+Rameswaram,21.7,Cloudy,37.7,Safe
+Somnath,32.1,Clear,41.6,Safe
+Dharamshala,5.4,Cloudy,15.2,Safe
+Tirupati,14.6,Clear,18.3,Safe
+Nashik,21.1,Storm,17.1,Moderate
+Rameswaram,26.9,Rain,24.7,Safe
+Nainital,6.8,Clear,9.3,Safe
+Ayodhya,33.2,Fog,39.9,Moderate
+Prayagraj,27.4,Clear,26.2,Safe
+Mysuru,31.4,Clear,17.4,Safe
+Pune,37.7,Clear,17.5,Safe
+Kanyakumari,31.1,Cloudy,22.7,Safe
+Chennai,29.1,Cloudy,35.2,Safe
+Somnath,25.6,Clear,20.3,Safe
+Mumbai,32.8,Cloudy,25.5,Safe
+Agra,22.6,Rain,26.8,Safe
+Ahmedabad,18.2,Clear,30.9,Safe
+Darjeeling,10.9,Clear,33.0,Safe
+Goa,26.1,Rain,55.1,Moderate
+Chennai,23.9,Clear,45.5,Safe
+Thiruvananthapuram,33.6,Rain,51.1,Moderate
+Vijayawada,35.9,Clear,28.5,Safe
+Ayodhya,17.4,Clear,16.6,Safe
+Somnath,12.3,Clear,12.2,Safe
+Nainital,12.0,Clear,29.4,Safe
+Manali,3.0,Clear,36.7,Safe
+Nashik,19.1,Clear,8.4,Safe
+Manali,-0.3,Cloudy,23.8,Safe
+Alleppey,30.5,Rain,46.6,Moderate
+Thiruvananthapuram,25.5,Clear,50.0,Moderate
+Coorg,22.2,Rain,27.9,Safe
+Chennai,32.1,Cloudy,33.2,Safe
+Alleppey,26.1,Heavy Rain,10.8,Moderate
+Chennai,28.6,Clear,23.0,Safe
+Manali,-2.4,Clear,39.7,Moderate
+Alleppey,22.1,Clear,48.7,Safe
+Ajmer,29.6,Rain,11.4,Safe
+Pune,12.0,Rain,24.0,Safe
+Goa,31.2,Clear,41.2,Safe
+Delhi,35.3,Cloudy,15.4,Safe
+Darjeeling,5.5,Cloudy,8.1,Safe
+Pushkar,39.2,Clear,79.8,Moderate
+Kanyakumari,20.9,Fog,44.1,Moderate
+Ayodhya,19.6,Clear,15.7,Safe
+Darjeeling,0.0,Snow,37.8,Unsafe
+Mumbai,32.9,Cloudy,59.8,Moderate
+Pune,38.3,Fog,18.9,Safe
+Nashik,22.7,Clear,37.1,Safe
+Coorg,16.2,Clear,31.9,Safe
+Mysuru,33.1,Clear,30.1,Safe
+Kolkata,24.5,Fog,26.3,Safe
+Srinagar,2.6,Rain,26.1,Moderate
+Pune,16.3,Rain,31.1,Moderate
+Dharamshala,-4.2,Snow,17.8,Unsafe
+Kochi,29.0,Cloudy,14.7,Safe
+Rishikesh & Haridwar,5.1,Cloudy,37.2,Safe
+Vaishno Devi (Katra),3.6,Rain,44.8,Moderate
+Rameswaram,33.2,Clear,33.4,Safe
+Chennai,26.2,Rain,10.5,Safe
+Aurangabad,21.8,Clear,43.7,Safe
+Munnar,26.0,Clear,25.9,Safe
+Jaipur,31.6,Clear,27.2,Safe
+Dharamshala,2.5,Clear,31.1,Safe
+Bengaluru,15.6,Cloudy,23.3,Safe
+Manali,11.7,Clear,16.3,Safe
+Udaipur,19.8,Clear,36.4,Safe
+Jaisalmer,36.9,Clear,70.3,Moderate
+Ooty,18.2,Clear,12.6,Safe
+Hampi,13.8,Rain,19.1,Safe
+Srinagar,5.0,Fog,25.6,Moderate
+Tirupati,35.2,Clear,34.3,Safe
+Delhi,21.4,Rain,32.5,Moderate
+Amritsar,25.9,Fog,28.7,Safe
+Coorg,14.8,Rain,33.8,Moderate
+Manali,14.4,Clear,28.7,Safe
+Ooty,15.6,Clear,19.0,Safe
+Shimla,-4.6,Clear,23.4,Safe
+Visakhapatnam,32.3,Clear,41.3,Safe
+Mathura & Vrindavan,24.1,Cloudy,44.2,Safe
+Manali,3.3,Rain,24.7,Moderate
+Mysuru,11.1,Heavy Rain,31.7,Moderate
+Alleppey,33.2,Cloudy,19.5,Safe
+Rishikesh & Haridwar,-0.4,Cloudy,24.1,Safe
+Jodhpur,20.9,Clear,63.9,Moderate
+Jaipur,15.5,Storm,19.5,Moderate
+Udaipur,10.1,Rain,35.7,Moderate
+Visakhapatnam,22.9,Storm,36.6,Unsafe
+Madurai,29.0,Rain,17.7,Safe
+Darjeeling,7.6,Fog,5.3,Moderate
+Jaipur,20.0,Clear,9.3,Safe
+Rameswaram,34.4,Clear,12.7,Safe
+Kodaikanal,15.9,Clear,10.2,Safe
+Kanyakumari,25.8,Rain,58.3,Moderate
+Visakhapatnam,27.9,Clear,49.1,Safe
+Ayodhya,18.9,Clear,7.4,Safe
+Ooty,13.1,Clear,30.6,Safe
+Kodaikanal,12.5,Cloudy,11.1,Safe
+Thiruvananthapuram,21.7,Rain,23.6,Safe
+Jaisalmer,36.6,Storm,29.6,Moderate
+Shirdi,27.6,Clear,27.8,Safe
+Amritsar,14.7,Clear,21.6,Safe
+Varanasi,22.9,Clear,23.7,Safe
+Pushkar,43.2,Clear,32.7,Moderate
+Mumbai,27.4,Heavy Rain,33.6,Moderate
+Udaipur,18.8,Cloudy,20.6,Safe
+Vaishno Devi (Katra),13.5,Fog,44.3,Moderate
+Ooty,9.1,Rain,24.2,Safe
+Dwarka,16.7,Rain,39.1,Moderate
+Ahmedabad,25.0,Storm,21.8,Safe
+Jaipur,36.4,Clear,10.8,Safe
+Kanyakumari,31.2,Clear,30.4,Safe
+Ooty,23.2,Clear,9.5,Safe
+Agra,21.1,Cloudy,18.6,Safe
+Jodhpur,21.8,Clear,21.4,Safe
+Pune,37.0,Clear,32.8,Safe
+Shirdi,30.2,Rain,20.8,Safe
+Srinagar,12.1,Clear,25.9,Safe
+Pune,25.4,Clear,9.8,Safe
+Kolkata,14.1,Cloudy,38.2,Safe
+Thiruvananthapuram,20.9,Cloudy,14.3,Safe
+Darjeeling,-1.5,Clear,15.6,Safe
+Prayagraj,16.2,Clear,31.4,Safe
+Srinagar,2.5,Cloudy,33.1,Safe
+Mumbai,24.0,Rain,20.2,Safe
+Delhi,32.6,Fog,9.0,Safe
+Rishikesh & Haridwar,11.0,Rain,20.8,Moderate
+Vijayawada,28.4,Clear,26.9,Safe
+Aurangabad,17.7,Clear,7.4,Safe
+Chennai,34.5,Rain,32.0,Moderate
+Kodaikanal,19.1,Clear,25.7,Safe
+Somnath,13.3,Clear,33.9,Safe
+Shimla,3.0,Rain,19.1,Moderate
+Hampi,12.9,Clear,32.7,Safe
+Pushkar,29.0,Cloudy,23.5,Safe
+Ooty,18.6,Cloudy,17.6,Safe
+Rishikesh & Haridwar,0.4,Cloudy,36.6,Safe
+Shirdi,15.0,Clear,33.1,Safe
+Lucknow,17.7,Rain,24.3,Safe
+Shirdi,20.7,Clear,38.1,Safe
+Vijayawada,22.0,Rain,7.4,Safe
+Ooty,15.8,Fog,28.6,Safe
+Aurangabad,34.0,Clear,21.6,Safe
+Shimla,8.8,Fog,44.0,Moderate
+Hampi,14.5,Clear,21.4,Safe
+Ahmedabad,21.2,Cloudy,7.6,Safe
+Pushkar,27.3,Clear,30.8,Safe
+Jodhpur,42.4,Clear,9.8,Safe
+Dwarka,23.5,Fog,26.1,Safe
+Dharamshala,3.1,Rain,26.7,Moderate
+Statue of Unity (Kevadia),23.2,Cloudy,28.5,Safe
+Bengaluru,35.1,Clear,39.9,Safe
+Mumbai,29.3,Cloudy,14.6,Safe
+Mathura & Vrindavan,35.1,Clear,42.9,Safe
+Shimla,7.3,Clear,44.5,Safe
+Udaipur,23.5,Cloudy,20.0,Safe
+Vaishno Devi (Katra),13.8,Clear,21.2,Safe
+Jaisalmer,20.2,Clear,10.4,Safe
+Lucknow,23.6,Clear,8.8,Safe
+Aurangabad,17.6,Cloudy,17.1,Safe
+Kodaikanal,16.4,Clear,33.0,Safe
+Munnar,22.3,Rain,46.9,Moderate
+Aurangabad,39.1,Rain,35.5,Moderate
+Coorg,23.4,Cloudy,20.5,Safe
+Ooty,20.6,Rain,31.0,Moderate
+Varanasi,16.9,Clear,17.6,Safe
+Pune,38.6,Clear,22.2,Safe
+Mysuru,11.5,Clear,12.1,Safe
+Udaipur,16.6,Heavy Rain,36.9,Moderate
+Dwarka,19.3,Clear,25.8,Safe
+Dharamshala,13.8,Clear,9.3,Safe
+Thiruvananthapuram,27.9,Rain,45.3,Moderate
+Nashik,21.2,Cloudy,19.2,Safe
+Mathura & Vrindavan,37.9,Rain,31.0,Moderate
+Ooty,19.5,Clear,17.3,Safe
+Varanasi,36.4,Clear,11.3,Safe
+Vijayawada,29.3,Clear,22.8,Safe
+Jodhpur,26.5,Clear,28.8,Safe
+Prayagraj,21.4,Clear,33.7,Safe
+Mathura & Vrindavan,34.9,Rain,10.6,Safe
+Prayagraj,15.4,Clear,26.4,Safe
+Jaipur,23.9,Clear,20.0,Safe
+Visakhapatnam,31.7,Cloudy,26.7,Safe
+Prayagraj,34.8,Clear,11.6,Safe
+Jaisalmer,42.6,Clear,7.9,Safe
+Ayodhya,16.1,Cloudy,42.3,Safe
+Rishikesh & Haridwar,13.1,Fog,27.6,Moderate
+Shirdi,19.1,Clear,5.6,Safe
+Thiruvananthapuram,25.0,Rain,53.2,Moderate
+Shirdi,22.9,Cloudy,9.8,Safe
+Chennai,26.0,Clear,16.9,Safe
+Vaishno Devi (Katra),5.8,Fog,38.9,Moderate
+Shirdi,20.7,Clear,40.1,Safe
+Amritsar,27.6,Cloudy,31.8,Safe
+Ahmedabad,35.1,Cloudy,11.7,Safe
+Udaipur,16.1,Heavy Rain,20.8,Moderate
+Thiruvananthapuram,25.3,Rain,53.3,Moderate
+Madurai,21.7,Rain,28.5,Safe
+Thiruvananthapuram,32.1,Rain,44.6,Moderate
+Statue of Unity (Kevadia),23.5,Rain,16.6,Safe
+Dharamshala,7.9,Fog,34.7,Moderate
+Ahmedabad,39.7,Clear,24.5,Safe
+Srinagar,10.7,Cloudy,29.3,Safe
+Chennai,27.2,Clear,38.2,Safe
+Ahmedabad,23.6,Clear,42.1,Safe
+Alleppey,35.0,Clear,51.2,Moderate
+Statue of Unity (Kevadia),27.4,Rain,22.1,Safe
+Aurangabad,13.9,Heavy Rain,29.0,Moderate
+Darjeeling,1.4,Snow,18.0,Moderate
+Coorg,22.9,Clear,22.4,Safe
+Mathura & Vrindavan,33.4,Heavy Rain,18.3,Moderate
+Mysuru,27.1,Clear,28.8,Safe
+Shirdi,25.7,Clear,22.5,Safe
+Dwarka,13.2,Clear,22.0,Safe
+Nashik,18.5,Clear,27.1,Safe
+Madurai,13.5,Fog,10.7,Safe
+Ayodhya,19.3,Storm,33.8,Moderate
+Ayodhya,25.8,Rain,37.9,Moderate
+Pushkar,37.0,Clear,39.2,Safe
+Nainital,-3.0,Clear,34.7,Moderate
+Nashik,13.7,Clear,27.3,Safe
+Shirdi,30.4,Rain,20.8,Safe
+Statue of Unity (Kevadia),34.1,Clear,21.5,Safe
+Kolkata,33.0,Clear,35.9,Safe
+Thiruvananthapuram,23.1,Clear,40.2,Safe
+Pushkar,32.2,Clear,28.0,Safe
+Bengaluru,37.9,Clear,24.7,Safe
+Coorg,15.4,Clear,29.2,Safe
+Chennai,28.1,Rain,24.1,Safe
+Vaishno Devi (Katra),-2.1,Clear,16.2,Safe
+Delhi,20.8,Rain,20.6,Safe
+Lucknow,39.1,Cloudy,19.1,Safe
+Vaishno Devi (Katra),2.7,Clear,29.9,Safe
+Agra,39.1,Clear,43.5,Safe
+Somnath,18.1,Clear,6.4,Safe
+Delhi,32.3,Rain,17.7,Safe
+Shirdi,12.1,Fog,20.3,Safe
+Kolkata,15.6,Rain,26.5,Safe
+Mysuru,18.1,Clear,34.7,Safe
+Ahmedabad,13.7,Cloudy,28.1,Safe
+Kanyakumari,34.9,Cloudy,47.2,Safe
+Udaipur,21.5,Clear,14.4,Safe
+Munnar,26.7,Heavy Rain,15.1,Moderate
+Pushkar,25.7,Clear,15.5,Safe
+Dharamshala,1.5,Clear,42.5,Safe
+Delhi,12.3,Rain,29.7,Safe
+Jaipur,37.6,Clear,8.6,Safe
+Goa,22.7,Clear,49.0,Safe
+Manali,12.3,Clear,43.8,Safe
+Aurangabad,26.8,Cloudy,15.4,Safe
+Darjeeling,2.1,Clear,34.5,Safe
+Pune,21.4,Clear,14.1,Safe
+Dharamshala,4.7,Fog,24.0,Moderate
+Madurai,26.1,Cloudy,8.4,Safe
+Tirupati,36.3,Clear,19.3,Safe
+Goa,27.5,Fog,48.7,Moderate
+Amritsar,25.5,Cloudy,21.2,Safe
+Vijayawada,25.5,Rain,36.4,Moderate
+Tirupati,16.6,Clear,18.3,Safe
+Jodhpur,33.4,Cloudy,8.2,Safe
+Mathura & Vrindavan,25.8,Cloudy,21.9,Safe
+Mysuru,18.4,Rain,17.3,Safe
+Lucknow,32.2,Rain,27.3,Safe
+Jodhpur,41.0,Clear,32.0,Moderate
+Prayagraj,37.7,Rain,30.0,Moderate
+Manali,6.3,Cloudy,40.3,Safe
+Thiruvananthapuram,25.8,Cloudy,43.3,Safe
+Dharamshala,5.3,Fog,27.6,Moderate
+Mathura & Vrindavan,32.8,Rain,12.1,Safe
+Pune,28.4,Clear,22.4,Safe
+Varanasi,18.0,Fog,40.2,Moderate
+Rameswaram,28.5,Cloudy,23.9,Safe
+Ooty,10.1,Cloudy,34.6,Safe
+Pushkar,43.7,Clear,15.7,Safe
+Shimla,-0.4,Clear,35.5,Safe
+Dharamshala,2.8,Rain,26.7,Moderate
+Munnar,34.8,Clear,31.2,Safe
+Jodhpur,44.7,Storm,5.1,Moderate
+Rameswaram,22.0,Clear,42.4,Safe
+Varanasi,17.1,Clear,40.6,Safe
+Shirdi,39.0,Cloudy,24.5,Safe
+Nainital,10.4,Rain,28.2,Moderate
+Darjeeling,10.4,Clear,15.3,Safe
+Shimla,4.4,Fog,10.2,Moderate
+Somnath,13.8,Cloudy,10.9,Safe
+Shirdi,39.8,Clear,13.4,Safe
+Udaipur,39.7,Heavy Rain,11.9,Moderate
+Shimla,9.1,Clear,9.1,Safe
+Munnar,22.9,Fog,49.0,Moderate
+Statue of Unity (Kevadia),33.0,Fog,42.5,Moderate
+Aurangabad,23.7,Clear,10.3,Safe
+Mathura & Vrindavan,14.8,Clear,16.3,Safe
+Lucknow,15.3,Clear,33.1,Safe
+Amritsar,32.1,Clear,8.9,Safe
+Darjeeling,1.8,Heavy Snow,23.5,Moderate
+Agra,17.5,Clear,36.2,Safe
+Alleppey,21.7,Rain,55.0,Moderate
+Rishikesh & Haridwar,5.7,Clear,17.3,Safe
+Mumbai,27.3,Fog,47.3,Moderate
+Vijayawada,34.2,Rain,16.4,Safe
+Dwarka,26.4,Rain,32.3,Moderate
+Pushkar,35.4,Clear,69.8,Moderate
+Jaisalmer,43.4,Cloudy,9.1,Safe
+Amritsar,34.7,Clear,29.9,Safe
+Bengaluru,25.0,Rain,30.0,Moderate
+Darjeeling,1.7,Clear,36.4,Safe
+Hampi,18.6,Cloudy,34.2,Safe
+Amritsar,21.8,Cloudy,33.5,Safe
+Manali,8.2,Clear,28.7,Safe
+Darjeeling,-2.7,Snow,17.1,Unsafe
+Hampi,24.9,Rain,12.1,Safe
+Nashik,24.3,Rain,29.2,Safe
+Mumbai,28.1,Clear,24.1,Safe
+Madurai,30.0,Rain,21.5,Safe
+Jaipur,20.0,Rain,42.7,Moderate
+Dharamshala,4.7,Clear,36.0,Safe
+Mathura & Vrindavan,20.5,Clear,39.8,Safe
+Mathura & Vrindavan,12.4,Clear,38.4,Safe
+Thiruvananthapuram,28.0,Cloudy,35.1,Safe
+Dharamshala,4.0,Cloudy,32.2,Safe
+Agra,17.6,Clear,5.8,Safe
+Vaishno Devi (Katra),13.5,Cloudy,13.2,Safe
+Amritsar,18.1,Clear,17.9,Safe
+Udaipur,13.1,Cloudy,6.3,Safe
+Dwarka,30.0,Fog,24.7,Safe
+Goa,22.8,Rain,11.6,Safe
+Shirdi,28.9,Rain,44.2,Moderate
+Aurangabad,13.4,Clear,14.8,Safe
+Kanyakumari,21.5,Rain,44.8,Moderate
+Vijayawada,29.1,Cloudy,25.9,Safe
+Kolkata,19.3,Clear,19.8,Safe
+Madurai,20.8,Clear,10.3,Safe
+Shirdi,14.7,Clear,22.7,Safe
+Jaipur,21.5,Rain,40.2,Moderate
+Jodhpur,43.3,Clear,7.7,Safe
+Thiruvananthapuram,20.6,Storm,21.9,Moderate
+Tirupati,32.4,Rain,16.4,Safe
+Ayodhya,17.8,Clear,44.9,Safe
+Jodhpur,35.9,Clear,12.1,Safe
+Pushkar,44.9,Clear,67.9,Moderate
+Somnath,32.9,Clear,26.9,Safe
+Bengaluru,26.2,Clear,25.1,Safe
+Nainital,8.3,Rain,37.4,Moderate
+Shirdi,15.0,Cloudy,15.9,Safe
+Udaipur,13.2,Rain,18.0,Safe
+Munnar,20.2,Heavy Rain,10.1,Moderate
+Pune,35.7,Clear,7.8,Safe
+Madurai,17.3,Rain,33.6,Moderate
+Srinagar,3.5,Cloudy,41.1,Safe
+Kochi,26.0,Heavy Rain,47.3,Unsafe
+Mathura & Vrindavan,37.0,Clear,33.6,Safe
+Agra,37.8,Cloudy,33.8,Safe
+Shimla,-1.8,Cloudy,44.3,Safe
+Jodhpur,31.0,Clear,30.7,Safe
+Rameswaram,21.5,Heavy Rain,46.3,Unsafe
+Vijayawada,16.3,Cloudy,18.0,Safe
+Visakhapatnam,34.9,Rain,17.6,Safe
+Aurangabad,34.6,Rain,32.9,Moderate
+Bengaluru,18.5,Rain,29.7,Safe
+Mysuru,21.4,Clear,35.7,Safe
+Hampi,14.8,Clear,27.4,Safe
+Srinagar,9.5,Cloudy,13.6,Safe
+Lucknow,35.0,Fog,8.5,Safe
+Nashik,25.6,Clear,21.1,Safe
+Rameswaram,26.2,Rain,9.5,Safe
+Vaishno Devi (Katra),1.6,Cloudy,32.1,Safe
+Pushkar,29.2,Storm,43.7,Moderate
+Visakhapatnam,31.0,Heavy Rain,41.3,Unsafe
+Jaisalmer,39.4,Clear,66.0,Moderate
+Nainital,14.4,Rain,30.9,Moderate
+Aurangabad,27.7,Clear,20.0,Safe
+Kanyakumari,34.2,Rain,57.8,Moderate
+Mathura & Vrindavan,23.1,Fog,13.9,Safe
+Shimla,-2.1,Clear,32.4,Moderate
+Ooty,22.6,Clear,26.3,Safe
+Mumbai,22.5,Storm,44.1,Moderate
+Dharamshala,8.9,Clear,5.9,Safe
+Chennai,27.5,Clear,59.0,Moderate
+Jaipur,38.3,Clear,42.6,Safe
+Chennai,26.9,Clear,30.4,Safe
+Nashik,34.9,Clear,43.9,Safe
+Mumbai,23.6,Clear,22.4,Safe
+Jaisalmer,36.1,Clear,25.0,Safe
+Dharamshala,9.5,Cloudy,40.5,Safe
+Statue of Unity (Kevadia),19.7,Clear,12.1,Safe
+Somnath,17.3,Clear,29.2,Safe
+Amritsar,36.3,Rain,14.6,Safe
+Somnath,34.3,Cloudy,10.0,Safe
+Coorg,23.7,Clear,28.6,Safe
+Lucknow,28.0,Clear,17.1,Safe
+Jaipur,33.9,Heavy Rain,39.1,Moderate
+Munnar,29.7,Clear,12.7,Safe
+Munnar,22.7,Clear,38.1,Safe
+Rameswaram,30.2,Clear,10.5,Safe
+Ayodhya,23.2,Clear,13.2,Safe
+Varanasi,38.2,Clear,9.6,Safe
+Munnar,33.3,Clear,53.0,Moderate
+Mumbai,26.4,Heavy Rain,12.7,Moderate
+Pushkar,39.2,Clear,15.5,Safe
+Thiruvananthapuram,34.5,Clear,50.4,Moderate
+Ajmer,17.4,Fog,43.8,Moderate
+Udaipur,27.3,Clear,42.7,Safe
+Mysuru,30.6,Clear,34.0,Safe
+Ooty,12.8,Cloudy,25.9,Safe
+Mumbai,31.1,Fog,23.2,Safe
+Udaipur,10.3,Rain,38.4,Moderate
+Alleppey,25.3,Heavy Rain,54.3,Unsafe
+Prayagraj,31.0,Fog,25.0,Safe
+Delhi,14.8,Rain,42.1,Moderate
+Statue of Unity (Kevadia),12.7,Rain,41.5,Moderate
+Kodaikanal,20.0,Clear,6.2,Safe
+Coorg,20.5,Cloudy,10.8,Safe
+Dharamshala,3.6,Cloudy,12.0,Safe
+Agra,28.1,Clear,13.8,Safe
+Statue of Unity (Kevadia),16.9,Rain,41.4,Moderate
+Amritsar,38.7,Fog,39.2,Moderate
+Goa,32.2,Clear,15.5,Safe
+Statue of Unity (Kevadia),33.8,Rain,18.1,Safe
+Ahmedabad,35.7,Fog,28.8,Safe
+Darjeeling,1.0,Snow,13.1,Moderate
+Alleppey,28.3,Clear,55.8,Moderate
+Coorg,24.0,Rain,30.1,Moderate
+Darjeeling,2.7,Rain,6.4,Moderate
+Thiruvananthapuram,34.5,Cloudy,5.3,Safe
+Vijayawada,12.1,Clear,14.1,Safe
+Darjeeling,5.1,Rain,36.8,Moderate
+Ahmedabad,37.3,Clear,38.7,Safe
+Somnath,34.9,Clear,34.1,Safe
+Rishikesh & Haridwar,9.0,Clear,36.5,Safe
+Goa,24.6,Clear,6.3,Safe
+Pushkar,22.5,Clear,8.0,Safe
+Vijayawada,37.7,Fog,24.1,Safe
+Ayodhya,21.4,Storm,37.7,Moderate
+Varanasi,25.9,Clear,18.0,Safe
+Ayodhya,25.1,Rain,16.2,Safe
+Dwarka,31.6,Clear,33.6,Safe
+Dwarka,29.5,Clear,8.9,Safe
+Prayagraj,32.7,Clear,31.1,Safe
+Visakhapatnam,31.1,Rain,43.3,Moderate
+Jaisalmer,26.8,Storm,49.0,Moderate
+Ahmedabad,14.3,Clear,24.0,Safe
+Kochi,28.0,Clear,21.5,Safe
+Vijayawada,35.8,Clear,24.0,Safe
+Prayagraj,25.3,Clear,38.4,Safe
+Jaisalmer,33.1,Clear,54.1,Moderate
+Mysuru,35.9,Rain,33.2,Moderate
+Hampi,15.7,Clear,19.3,Safe
+Amritsar,10.1,Clear,14.8,Safe
+Rameswaram,27.3,Rain,19.8,Safe
+Coorg,18.4,Rain,5.5,Safe
+Jaipur,12.4,Clear,31.5,Safe
+Pune,15.7,Heavy Rain,29.5,Safe
+Lucknow,16.2,Clear,39.8,Safe
+Ajmer,29.5,Fog,18.7,Safe
+Mysuru,19.5,Heavy Rain,34.1,Moderate
+Munnar,32.7,Clear,60.0,Moderate
+Goa,31.7,Heavy Rain,46.2,Unsafe
+Mathura & Vrindavan,15.3,Rain,23.6,Safe
+Pushkar,22.7,Clear,34.4,Safe
+Dharamshala,14.7,Rain,10.9,Moderate
+Kolkata,10.3,Clear,11.0,Safe
+Goa,32.6,Fog,52.4,Moderate
+Delhi,23.7,Clear,19.1,Safe
+Alleppey,24.7,Cloudy,15.2,Safe
+Hampi,16.5,Cloudy,21.4,Safe
+Rishikesh & Haridwar,0.9,Clear,41.6,Safe
+Jaipur,28.6,Clear,42.5,Safe
+Pushkar,24.0,Clear,29.4,Safe
+Munnar,23.2,Cloudy,52.1,Moderate
+Thiruvananthapuram,34.8,Clear,34.6,Safe
+Goa,21.9,Cloudy,40.7,Safe
+Darjeeling,14.0,Clear,31.1,Safe
+Tirupati,16.6,Rain,12.8,Safe
+Delhi,12.8,Clear,30.2,Safe
+Nainital,-4.7,Heavy Snow,24.5,Unsafe
+Delhi,15.4,Cloudy,29.3,Safe
+Goa,24.0,Clear,53.9,Moderate
+Lucknow,25.8,Rain,24.0,Safe
+Munnar,20.9,Heavy Rain,52.6,Unsafe
+Goa,22.8,Storm,44.9,Unsafe
+Udaipur,18.2,Cloudy,16.7,Safe
+Nainital,3.7,Fog,37.0,Moderate
+Vijayawada,20.7,Rain,24.5,Safe
+Chennai,23.7,Clear,20.2,Safe
+Aurangabad,35.9,Cloudy,13.5,Safe
+Chennai,27.1,Cloudy,41.5,Safe
+Pushkar,22.7,Cloudy,18.4,Safe
+Jaipur,33.7,Clear,7.1,Safe
+Jodhpur,30.2,Clear,26.9,Safe
+Thiruvananthapuram,34.4,Clear,52.3,Moderate
+Darjeeling,13.7,Cloudy,12.9,Safe
+Somnath,36.1,Fog,8.0,Safe
+Delhi,24.5,Cloudy,26.9,Safe
+Alleppey,25.1,Cloudy,8.5,Safe
+Udaipur,30.8,Rain,24.8,Safe
+Vijayawada,13.1,Clear,33.6,Safe
+Pushkar,42.0,Clear,37.3,Moderate
+Agra,35.9,Fog,16.2,Safe
+Coorg,9.0,Rain,12.9,Safe
+Vijayawada,18.8,Rain,12.6,Safe
+Jaipur,20.3,Clear,35.1,Safe
+Tirupati,15.5,Clear,25.2,Safe
+Jodhpur,29.4,Cloudy,11.9,Safe
+Shimla,2.9,Rain,23.0,Moderate
+Nainital,6.8,Fog,13.4,Moderate
+Kodaikanal,14.5,Clear,5.9,Safe
+Munnar,30.4,Heavy Rain,28.8,Moderate
+Varanasi,27.1,Clear,36.4,Safe
+Shimla,13.6,Clear,26.5,Safe
+Manali,7.2,Clear,18.1,Safe
+Vaishno Devi (Katra),-3.4,Heavy Snow,13.8,Unsafe
+Hampi,19.3,Clear,32.9,Safe
+Aurangabad,16.9,Clear,15.4,Safe
+Kolkata,27.8,Clear,37.3,Safe
+Jaipur,19.9,Rain,13.2,Safe
+Udaipur,16.5,Clear,44.7,Safe
+Ahmedabad,34.6,Clear,9.2,Safe
+Thiruvananthapuram,29.1,Rain,24.7,Safe
+Darjeeling,4.7,Fog,21.1,Moderate
+Madurai,26.5,Clear,26.2,Safe
+Manali,8.4,Clear,35.6,Safe
+Ooty,9.5,Clear,27.3,Safe
+Srinagar,14.1,Fog,29.5,Moderate
+Visakhapatnam,32.0,Fog,53.2,Moderate
+Vaishno Devi (Katra),13.5,Clear,27.5,Safe
+Varanasi,26.7,Rain,11.2,Safe
+Mumbai,33.3,Clear,25.1,Safe
+Ahmedabad,32.0,Clear,16.8,Safe
+Hampi,14.0,Clear,23.1,Safe
+Madurai,22.2,Clear,19.2,Safe
+Dharamshala,-4.7,Rain,43.4,Unsafe
+Ooty,9.6,Cloudy,23.4,Safe
+Jodhpur,34.6,Clear,28.5,Safe
+Kodaikanal,23.9,Rain,19.5,Safe
+Goa,29.6,Rain,46.1,Moderate
+Jodhpur,37.3,Clear,27.2,Safe
+Kodaikanal,15.1,Clear,21.4,Safe
+Tirupati,21.6,Cloudy,16.3,Safe
+Goa,29.9,Clear,11.4,Safe
+Shimla,5.7,Clear,10.8,Safe
+Statue of Unity (Kevadia),37.7,Rain,10.6,Safe
+Kanyakumari,33.3,Cloudy,25.8,Safe
+Somnath,25.3,Clear,18.0,Safe
+Jodhpur,40.2,Clear,20.6,Safe
+Bengaluru,21.7,Clear,39.1,Safe
+Amritsar,11.3,Clear,6.6,Safe
+Coorg,9.8,Clear,22.1,Safe
+Dwarka,18.6,Clear,11.5,Safe
+Vaishno Devi (Katra),0.7,Clear,23.3,Safe
+Kolkata,28.4,Rain,25.8,Safe
+Mathura & Vrindavan,35.1,Heavy Rain,6.5,Moderate
+Vaishno Devi (Katra),6.6,Clear,39.6,Safe
+Kodaikanal,10.3,Clear,17.3,Safe
+Thiruvananthapuram,32.7,Rain,39.5,Moderate
+Delhi,23.6,Clear,12.8,Safe
+Chennai,25.7,Heavy Rain,54.9,Unsafe
+Bengaluru,36.1,Clear,31.1,Safe
+Amritsar,29.8,Clear,23.0,Safe
+Kolkata,25.0,Clear,27.4,Safe
+Munnar,22.4,Cloudy,21.8,Safe
+Kochi,22.2,Clear,50.4,Moderate
+Chennai,22.0,Clear,46.1,Safe
+Chennai,26.2,Clear,25.7,Safe
+Tirupati,31.1,Storm,36.0,Unsafe
+Mathura & Vrindavan,11.9,Rain,23.3,Safe
+Bengaluru,25.9,Clear,20.7,Safe
+Delhi,25.1,Cloudy,36.4,Safe
+Goa,22.9,Fog,46.7,Moderate
+Delhi,23.5,Rain,10.0,Safe
+Vijayawada,29.1,Cloudy,15.9,Safe
+Alleppey,32.9,Cloudy,49.0,Safe
+Darjeeling,-1.3,Cloudy,23.3,Safe
+Udaipur,14.6,Clear,13.7,Safe
+Munnar,22.3,Rain,48.2,Moderate
+Varanasi,31.9,Clear,17.5,Safe
+Manali,0.2,Snow,6.2,Moderate
+Somnath,31.2,Cloudy,16.2,Safe
+Rameswaram,21.1,Cloudy,45.2,Safe
+Ooty,18.9,Cloudy,16.3,Safe
+Madurai,33.5,Cloudy,39.3,Safe
+Kochi,26.2,Rain,39.0,Moderate
+Jodhpur,39.0,Storm,63.8,Unsafe
+Srinagar,7.4,Fog,38.3,Moderate
+Mysuru,30.8,Clear,26.1,Safe
+Mysuru,23.7,Cloudy,42.3,Safe
+Jaipur,25.7,Rain,12.7,Safe
+Kolkata,29.6,Clear,33.4,Safe
+Manali,13.9,Clear,43.8,Safe
+Vaishno Devi (Katra),8.2,Clear,18.4,Safe
+Somnath,25.0,Clear,7.3,Safe
+Rishikesh & Haridwar,14.1,Fog,12.0,Moderate
+Somnath,16.7,Fog,41.9,Moderate
+Amritsar,23.0,Rain,11.6,Safe
+Shimla,7.9,Clear,29.6,Safe
+Jodhpur,25.8,Clear,36.4,Safe
+Visakhapatnam,21.4,Rain,50.2,Moderate
+Munnar,26.2,Cloudy,31.7,Safe
+Visakhapatnam,32.0,Cloudy,34.7,Safe
+Kodaikanal,23.6,Rain,13.2,Safe
+Vijayawada,18.4,Clear,10.2,Safe
+Munnar,31.6,Cloudy,13.3,Safe
+Hampi,22.8,Clear,32.8,Safe
+Vijayawada,11.0,Clear,35.8,Safe
+Vaishno Devi (Katra),-0.4,Fog,5.9,Moderate
+Varanasi,29.2,Clear,22.4,Safe
+Kolkata,12.0,Storm,17.5,Moderate
+Nashik,38.3,Clear,43.1,Safe
+Goa,27.5,Fog,27.3,Safe
+Nashik,22.3,Clear,20.8,Safe
+Shirdi,30.3,Heavy Rain,6.0,Moderate
+Kochi,32.6,Heavy Rain,48.1,Unsafe
+Tirupati,28.2,Rain,39.3,Moderate
+Lucknow,25.1,Fog,6.7,Safe
+Aurangabad,17.2,Cloudy,17.4,Safe
+Jodhpur,39.9,Clear,28.6,Safe
+Nainital,7.1,Clear,30.7,Safe
+Alleppey,31.7,Rain,35.8,Moderate
+Mysuru,26.1,Clear,36.4,Safe
+Srinagar,7.0,Cloudy,33.9,Safe
+Vijayawada,39.2,Cloudy,15.9,Safe
+Dwarka,11.6,Clear,38.2,Safe
+Mysuru,35.4,Rain,45.0,Moderate
+Munnar,20.7,Cloudy,55.2,Moderate
+Kodaikanal,11.8,Clear,29.9,Safe
+Jaisalmer,38.2,Storm,46.6,Moderate
+Mysuru,38.5,Clear,17.1,Safe
+Alleppey,33.1,Rain,48.7,Moderate
+Lucknow,21.0,Rain,28.0,Safe
+Darjeeling,2.7,Cloudy,13.4,Safe
+Mumbai,29.5,Heavy Rain,8.9,Moderate
+Visakhapatnam,20.1,Clear,13.0,Safe
+Coorg,18.9,Fog,26.5,Safe
+Madurai,34.3,Clear,39.0,Safe
+Mathura & Vrindavan,27.9,Clear,25.6,Safe
+Agra,22.4,Cloudy,12.8,Safe
+Madurai,39.5,Clear,12.0,Safe
+Lucknow,37.5,Clear,7.5,Safe
+Varanasi,39.9,Cloudy,22.5,Safe
+Madurai,39.7,Clear,32.4,Safe
+Srinagar,9.9,Rain,35.4,Moderate
+Pushkar,23.8,Clear,13.7,Safe
+Jaipur,35.4,Clear,10.1,Safe
+Srinagar,3.2,Clear,14.7,Safe
+Rishikesh & Haridwar,0.4,Clear,17.5,Safe
+Nainital,1.3,Cloudy,17.0,Safe
+Delhi,19.5,Storm,24.5,Safe
+Jodhpur,41.7,Clear,15.3,Safe
+Mathura & Vrindavan,14.4,Clear,29.1,Safe
+Kochi,22.4,Cloudy,53.1,Moderate
+Ooty,20.4,Cloudy,31.9,Safe
+Kochi,26.8,Clear,46.5,Safe
+Rameswaram,24.6,Rain,45.7,Moderate
+Jaipur,34.8,Clear,12.1,Safe
+Udaipur,35.8,Clear,11.3,Safe
+Srinagar,-0.6,Snow,8.8,Moderate
+Nashik,26.1,Clear,41.5,Safe
+Alleppey,29.2,Fog,8.3,Safe
+Varanasi,10.6,Fog,40.1,Moderate
+Pushkar,32.0,Clear,14.3,Safe
+Alleppey,32.1,Clear,32.2,Safe
+Lucknow,28.2,Clear,41.2,Safe
+Nainital,7.4,Clear,7.0,Safe
+Kochi,24.4,Cloudy,48.3,Safe
+Chennai,24.3,Heavy Rain,45.2,Unsafe
+Kodaikanal,18.5,Cloudy,24.7,Safe
+Jodhpur,21.4,Clear,16.6,Safe
+Mumbai,31.8,Clear,19.3,Safe
+Udaipur,18.1,Clear,41.8,Safe
+Vijayawada,13.7,Rain,15.0,Safe
+Statue of Unity (Kevadia),20.2,Rain,17.3,Safe
+Kolkata,19.3,Clear,11.0,Safe
+Aurangabad,30.5,Fog,40.2,Moderate
+Ooty,16.1,Clear,32.1,Safe
+Kanyakumari,33.4,Rain,8.2,Safe
+Pushkar,21.4,Storm,33.8,Moderate
+Ahmedabad,12.9,Rain,33.9,Moderate
+Pune,13.1,Clear,13.8,Safe
+Aurangabad,25.2,Clear,29.1,Safe
+Somnath,10.6,Clear,35.9,Safe
+Nashik,27.6,Cloudy,20.8,Safe
+Munnar,24.8,Rain,23.2,Safe
+Lucknow,18.6,Rain,29.3,Safe
+Vijayawada,18.5,Cloudy,10.3,Safe
+Vijayawada,18.3,Rain,41.6,Moderate
+Jodhpur,30.6,Storm,13.9,Moderate
+Pushkar,38.8,Clear,32.3,Safe
+Kanyakumari,20.1,Cloudy,17.8,Safe
+Shimla,7.5,Rain,5.8,Moderate
+Kochi,27.1,Clear,25.4,Safe
+Jaisalmer,33.4,Clear,30.6,Safe
+Mysuru,25.5,Cloudy,7.0,Safe
+Munnar,27.7,Clear,29.0,Safe
+Rameswaram,25.2,Heavy Rain,29.1,Moderate
+Alleppey,34.7,Clear,10.6,Safe
+Visakhapatnam,22.4,Clear,27.0,Safe
+Rishikesh & Haridwar,2.5,Clear,12.9,Safe
+Rameswaram,34.0,Clear,41.0,Safe
+Ooty,22.7,Rain,25.6,Safe
+Somnath,33.0,Clear,39.8,Safe
+Varanasi,29.4,Cloudy,11.8,Safe
+Mysuru,33.7,Cloudy,43.0,Safe
+Mysuru,26.9,Cloudy,30.3,Safe
+Mathura & Vrindavan,34.7,Cloudy,17.8,Safe
+Visakhapatnam,32.8,Cloudy,25.1,Safe
+Kochi,23.1,Cloudy,18.5,Safe
+Srinagar,13.4,Rain,34.2,Moderate
+Darjeeling,-3.2,Clear,23.7,Safe
+Statue of Unity (Kevadia),21.7,Clear,20.9,Safe
+Chennai,31.6,Cloudy,34.4,Safe
+Kochi,22.4,Cloudy,57.9,Moderate
+Mysuru,30.6,Clear,32.5,Safe
+Thiruvananthapuram,22.7,Cloudy,43.5,Safe
+Statue of Unity (Kevadia),25.7,Clear,15.8,Safe
+Ooty,19.9,Rain,26.9,Safe
+Jaipur,33.6,Cloudy,8.1,Safe
+Ooty,11.1,Rain,15.1,Safe
+Visakhapatnam,24.0,Rain,23.8,Safe
+Mysuru,28.5,Clear,12.0,Safe
+Mumbai,22.0,Clear,20.0,Safe
+Visakhapatnam,25.3,Heavy Rain,31.8,Unsafe
+Dwarka,35.8,Cloudy,22.3,Safe
+Mumbai,32.4,Heavy Rain,21.7,Moderate
+Darjeeling,8.1,Cloudy,16.4,Safe
+Lucknow,29.8,Clear,5.6,Safe
+Rishikesh & Haridwar,12.1,Rain,25.5,Moderate
+Kanyakumari,24.6,Rain,12.0,Safe
+Nainital,-2.6,Cloudy,24.7,Safe
+Munnar,25.3,Rain,29.7,Safe
+Nainital,5.9,Clear,41.6,Safe
+Thiruvananthapuram,28.6,Clear,60.0,Moderate
+Delhi,38.8,Clear,32.5,Safe
+Alleppey,29.6,Heavy Rain,20.4,Moderate
+Kodaikanal,13.3,Rain,7.8,Safe
+Nashik,19.8,Rain,31.6,Moderate
+Kodaikanal,20.7,Clear,26.0,Safe
+Varanasi,39.9,Clear,13.5,Safe
+Bengaluru,25.9,Clear,26.0,Safe
+Ayodhya,37.8,Cloudy,36.7,Safe
+Visakhapatnam,21.7,Clear,39.9,Safe
+Jaisalmer,35.0,Clear,39.7,Safe
+Delhi,33.1,Rain,16.0,Safe
+Ooty,11.4,Clear,10.1,Safe
+Agra,22.1,Clear,10.1,Safe
+Visakhapatnam,32.1,Clear,6.8,Safe
+Darjeeling,11.7,Clear,19.9,Safe
+Vaishno Devi (Katra),10.6,Clear,36.7,Safe
+Rameswaram,21.8,Rain,43.6,Moderate
+Jaisalmer,37.7,Clear,39.5,Safe
+Manali,1.5,Cloudy,17.5,Safe
+Visakhapatnam,23.3,Clear,7.1,Safe
+Lucknow,35.2,Cloudy,41.1,Safe
+Mysuru,25.7,Rain,29.5,Safe
+Jaipur,30.4,Clear,19.5,Safe
+Alleppey,34.1,Rain,52.2,Moderate
+Visakhapatnam,22.4,Heavy Rain,6.2,Moderate
+Dharamshala,-5.0,Snow,5.4,Unsafe
+Jaipur,17.2,Rain,43.1,Moderate
+Udaipur,12.1,Fog,16.4,Safe
+Tirupati,26.1,Clear,7.6,Safe
+Tirupati,10.8,Clear,31.8,Safe
+Prayagraj,24.1,Clear,12.4,Safe
+Manali,11.1,Rain,40.0,Moderate
+Delhi,21.2,Clear,16.3,Safe
+Tirupati,28.6,Fog,32.3,Moderate
+Shirdi,35.2,Clear,9.2,Safe
+Jaisalmer,37.2,Clear,66.1,Moderate
+Prayagraj,24.9,Clear,25.1,Safe
+Mathura & Vrindavan,32.3,Heavy Rain,20.5,Moderate
+Ooty,14.8,Clear,13.3,Safe
+Tirupati,38.0,Cloudy,31.5,Safe
+Nainital,9.2,Rain,19.9,Moderate
+Ooty,9.7,Clear,10.7,Safe
+Goa,30.2,Cloudy,16.1,Safe
+Thiruvananthapuram,30.2,Clear,44.5,Safe
+Ahmedabad,20.4,Clear,28.9,Safe
+Udaipur,22.1,Rain,26.5,Safe
+Shimla,14.4,Fog,27.7,Moderate
+Ooty,12.2,Cloudy,32.5,Safe
+Aurangabad,21.0,Fog,9.7,Safe
+Nainital,-2.3,Cloudy,21.9,Safe
+Prayagraj,35.6,Heavy Rain,39.4,Moderate
+Kolkata,35.2,Cloudy,24.6,Safe
+Visakhapatnam,27.2,Cloudy,16.6,Safe
+Vaishno Devi (Katra),6.4,Clear,20.9,Safe
+Kanyakumari,22.6,Rain,49.3,Moderate
+Ahmedabad,19.6,Clear,37.1,Safe
+Alleppey,25.5,Rain,58.1,Moderate
+Ahmedabad,29.5,Clear,40.0,Safe
+Kolkata,17.0,Rain,15.1,Safe
+Chennai,22.6,Heavy Rain,54.3,Unsafe
+Somnath,16.9,Rain,13.4,Safe
+Hampi,23.4,Rain,5.0,Safe
+Visakhapatnam,33.1,Clear,16.2,Safe
+Thiruvananthapuram,25.8,Clear,54.8,Moderate
+Coorg,8.6,Clear,28.6,Safe
+Bengaluru,36.0,Cloudy,14.2,Safe
+Mysuru,27.8,Rain,12.1,Safe
+Nashik,24.7,Clear,18.9,Safe
+Shirdi,29.7,Fog,18.0,Safe
+Pune,12.4,Rain,36.4,Moderate
+Vaishno Devi (Katra),-3.3,Clear,30.2,Moderate
+Mumbai,25.2,Cloudy,34.7,Safe
+Visakhapatnam,22.6,Rain,25.1,Safe
+Pune,12.8,Rain,26.7,Safe
+Rishikesh & Haridwar,7.3,Clear,26.7,Safe
+Ayodhya,33.3,Cloudy,33.9,Safe
+Thiruvananthapuram,30.3,Storm,5.3,Moderate
+Dharamshala,12.5,Rain,33.8,Moderate
+Rishikesh & Haridwar,3.6,Fog,28.8,Moderate
+Hampi,13.4,Cloudy,8.5,Safe
+Kochi,31.3,Clear,14.3,Safe
+Statue of Unity (Kevadia),24.6,Rain,20.7,Safe
+Tirupati,27.0,Clear,17.7,Safe
+Rameswaram,22.0,Fog,12.9,Safe
+Shimla,-4.0,Clear,11.3,Safe
+Coorg,18.8,Rain,18.0,Safe
+Mysuru,14.3,Rain,23.1,Safe
+Mumbai,24.2,Fog,8.7,Safe
+Jodhpur,30.2,Clear,37.3,Safe
+Prayagraj,20.4,Cloudy,26.7,Safe
+Chennai,24.4,Rain,17.1,Safe
+Delhi,28.9,Clear,14.6,Safe
+Nashik,34.7,Clear,8.9,Safe
+Ajmer,26.8,Rain,37.7,Moderate
+Lucknow,39.8,Clear,44.1,Safe
+Mathura & Vrindavan,39.8,Clear,6.1,Safe
+Vijayawada,29.2,Clear,18.9,Safe
+Vijayawada,35.2,Rain,38.1,Moderate
+Pune,15.4,Storm,24.7,Safe
+Manali,4.7,Rain,22.3,Moderate
+Kochi,23.4,Clear,47.8,Safe
+Aurangabad,34.8,Clear,27.4,Safe
+Varanasi,17.9,Cloudy,40.9,Safe
+Munnar,31.9,Cloudy,36.6,Safe
+Nainital,3.4,Rain,11.1,Moderate
+Rameswaram,24.2,Storm,25.3,Moderate
+Munnar,21.3,Clear,36.5,Safe
+Pune,24.5,Clear,41.4,Safe
+Vaishno Devi (Katra),1.9,Clear,44.3,Safe
+Ayodhya,21.5,Cloudy,29.2,Safe
+Dwarka,36.3,Rain,41.0,Moderate
+Dharamshala,0.5,Heavy Snow,34.1,Unsafe
+Lucknow,32.4,Clear,21.8,Safe
+Coorg,23.7,Clear,9.2,Safe
+Bengaluru,20.6,Clear,44.7,Safe
+Nashik,27.3,Clear,27.8,Safe
+Shimla,3.9,Rain,20.4,Moderate
+Delhi,37.8,Heavy Rain,44.8,Moderate
+Pushkar,36.1,Clear,33.8,Safe
+Nashik,23.2,Fog,24.6,Safe
+Lucknow,34.6,Cloudy,30.7,Safe
+Dwarka,29.7,Clear,34.7,Safe
+Nashik,27.6,Clear,35.1,Safe
+Dharamshala,4.1,Fog,44.3,Moderate
+Kanyakumari,20.5,Cloudy,29.9,Safe
+Shimla,10.8,Clear,7.0,Safe
+Shimla,10.1,Clear,20.2,Safe
+Jaisalmer,38.6,Clear,22.2,Safe
+Aurangabad,35.2,Rain,40.1,Moderate
+Munnar,27.2,Rain,30.8,Moderate
+Nainital,3.4,Clear,8.2,Safe
+Manali,4.6,Cloudy,35.5,Safe
+Pune,21.3,Clear,6.3,Safe
+Ayodhya,31.3,Clear,42.6,Safe
+Goa,29.6,Clear,38.0,Safe
+Chennai,20.9,Cloudy,32.8,Safe
+Tirupati,37.1,Clear,21.5,Safe
+Agra,28.0,Clear,44.4,Safe
+Dharamshala,-2.1,Cloudy,14.7,Safe
+Ahmedabad,28.6,Rain,20.7,Safe
+Statue of Unity (Kevadia),25.2,Clear,30.2,Safe
+Hampi,20.0,Cloudy,9.4,Safe
+Ajmer,31.8,Storm,33.1,Moderate
+Vijayawada,35.2,Clear,31.5,Safe
+Statue of Unity (Kevadia),24.3,Clear,12.3,Safe
+Srinagar,0.8,Clear,17.2,Safe
+Bengaluru,26.6,Cloudy,42.0,Safe
+Statue of Unity (Kevadia),16.2,Rain,35.2,Moderate
+Tirupati,35.5,Fog,44.8,Moderate
+Jaipur,37.3,Rain,18.7,Safe
+Chennai,28.0,Rain,56.5,Moderate
+Kolkata,21.9,Clear,19.8,Safe
+Hampi,15.5,Clear,19.1,Safe
+Aurangabad,31.3,Clear,24.7,Safe
+Kanyakumari,22.1,Clear,53.7,Moderate
+Udaipur,11.0,Rain,13.6,Safe
+Munnar,21.9,Rain,25.1,Safe
+Rishikesh & Haridwar,2.2,Cloudy,17.8,Safe
+Somnath,11.2,Rain,39.4,Moderate
+Darjeeling,10.6,Clear,31.9,Safe
+Mathura & Vrindavan,25.3,Clear,25.4,Safe
+Pune,31.5,Clear,9.4,Safe
+Amritsar,23.6,Rain,28.8,Safe
+Mumbai,26.7,Fog,49.2,Moderate
+Agra,22.6,Fog,28.4,Safe
+Hampi,9.5,Clear,34.6,Safe
+Ajmer,13.2,Rain,18.5,Safe
+Kolkata,28.5,Clear,31.0,Safe
+Kanyakumari,32.9,Clear,30.9,Safe
+Lucknow,24.4,Clear,32.4,Safe
+Tirupati,24.7,Cloudy,19.3,Safe
+Goa,27.6,Fog,5.3,Safe
+Aurangabad,21.7,Fog,20.7,Safe
+Mathura & Vrindavan,23.1,Clear,32.1,Safe
+Vaishno Devi (Katra),2.5,Clear,22.9,Safe
+Madurai,28.6,Rain,18.2,Safe
+Hampi,15.9,Cloudy,29.7,Safe
+Ajmer,10.8,Clear,26.7,Safe
+Vaishno Devi (Katra),4.1,Cloudy,6.6,Safe
+Ajmer,13.3,Clear,43.2,Safe
+Lucknow,14.0,Cloudy,43.9,Safe
+Ayodhya,21.5,Cloudy,14.9,Safe
+Thiruvananthapuram,22.8,Rain,15.0,Safe
+Amritsar,12.7,Cloudy,36.9,Safe
+Mumbai,20.0,Clear,57.6,Moderate
+Lucknow,30.3,Rain,31.4,Moderate
+Nashik,31.3,Rain,8.3,Safe
+Chennai,22.3,Clear,25.9,Safe
+Nashik,32.9,Cloudy,23.4,Safe
+Mumbai,28.7,Fog,16.5,Safe
+Chennai,34.4,Clear,60.0,Moderate
+Madurai,24.8,Clear,22.4,Safe
+Thiruvananthapuram,29.2,Heavy Rain,27.8,Moderate
+Tirupati,26.6,Cloudy,9.9,Safe
+Dwarka,15.2,Heavy Rain,35.2,Moderate
+Kolkata,39.2,Clear,22.0,Safe
+Rishikesh & Haridwar,8.2,Rain,40.6,Moderate
+Alleppey,23.1,Rain,35.1,Moderate
+Delhi,17.4,Rain,36.4,Moderate
+Delhi,31.1,Rain,5.3,Safe
+Delhi,25.7,Rain,15.4,Safe
+Kanyakumari,30.5,Storm,36.0,Unsafe
+Varanasi,27.3,Rain,6.8,Safe
+Rameswaram,33.5,Fog,32.2,Moderate
+Rameswaram,20.8,Cloudy,5.5,Safe
+Ahmedabad,31.3,Heavy Rain,36.0,Moderate
+Ayodhya,20.4,Clear,26.7,Safe
+Rishikesh & Haridwar,-4.0,Cloudy,23.1,Safe
+Mathura & Vrindavan,32.8,Clear,42.0,Safe
+Statue of Unity (Kevadia),37.4,Rain,29.2,Safe
+Dharamshala,8.7,Rain,24.6,Moderate
+Prayagraj,13.6,Clear,9.8,Safe
+Darjeeling,6.8,Rain,18.2,Moderate
+Mathura & Vrindavan,11.6,Cloudy,14.4,Safe
+Statue of Unity (Kevadia),20.7,Clear,8.9,Safe
+Jaipur,23.0,Storm,16.0,Moderate
+Darjeeling,7.7,Rain,37.1,Moderate
+Agra,34.3,Clear,36.5,Safe
+Nainital,14.9,Rain,29.5,Moderate
+Thiruvananthapuram,27.5,Clear,27.1,Safe
+Coorg,20.9,Clear,27.2,Safe
+Hampi,19.5,Clear,6.6,Safe
+Alleppey,35.0,Rain,37.9,Moderate
+Somnath,25.1,Cloudy,26.9,Safe
+Ayodhya,19.3,Clear,42.8,Safe
+Vijayawada,36.6,Clear,14.9,Safe
+Shirdi,20.3,Clear,13.8,Safe
+Ahmedabad,38.0,Heavy Rain,15.4,Safe
+Pushkar,32.9,Clear,9.3,Safe
+Amritsar,12.9,Rain,26.6,Safe
+Mumbai,23.1,Fog,18.1,Safe
+Chennai,33.1,Clear,29.6,Safe
+Srinagar,11.7,Clear,27.2,Safe
+Lucknow,39.0,Heavy Rain,34.0,Moderate
+Manali,1.3,Clear,28.5,Safe
+Goa,23.4,Clear,52.5,Moderate
+Visakhapatnam,26.8,Rain,17.6,Safe
+Mathura & Vrindavan,12.8,Rain,16.4,Safe
+Dharamshala,-2.8,Cloudy,13.0,Safe
+Agra,36.5,Clear,29.8,Safe
+Delhi,26.4,Clear,20.1,Safe
+Agra,29.7,Clear,35.0,Safe
+Aurangabad,31.4,Clear,39.5,Safe
+Statue of Unity (Kevadia),35.2,Rain,40.1,Moderate
+Varanasi,39.6,Rain,5.3,Safe
+Ajmer,36.4,Clear,40.4,Safe
+Dwarka,38.7,Clear,35.2,Safe
+Shirdi,30.1,Cloudy,15.6,Safe
+Ahmedabad,22.1,Cloudy,26.2,Safe
+Statue of Unity (Kevadia),14.1,Clear,16.5,Safe
+Aurangabad,37.2,Storm,12.9,Moderate
+Jodhpur,32.5,Cloudy,22.2,Safe
+Mumbai,20.7,Cloudy,30.1,Safe
+Hampi,20.0,Clear,19.4,Safe
+Manali,7.1,Rain,25.5,Moderate
+Shirdi,35.3,Rain,10.2,Safe
+Varanasi,16.7,Rain,32.1,Moderate
+Dwarka,13.2,Fog,24.1,Safe
+Vaishno Devi (Katra),-3.5,Rain,40.1,Unsafe
+Mumbai,24.3,Fog,51.2,Moderate
+Kanyakumari,32.4,Rain,7.2,Safe
+Manali,6.3,Fog,15.1,Moderate
+Jaisalmer,25.3,Cloudy,33.4,Safe
+Rishikesh & Haridwar,7.3,Fog,8.6,Moderate
+Kodaikanal,11.4,Clear,5.4,Safe
+Alleppey,32.6,Fog,28.2,Safe
+Ayodhya,20.5,Fog,36.8,Moderate
+Mysuru,24.5,Cloudy,12.6,Safe
+Statue of Unity (Kevadia),23.3,Clear,15.5,Safe
+Ajmer,20.0,Rain,31.2,Moderate
+Manali,9.1,Clear,12.5,Safe
+Statue of Unity (Kevadia),33.3,Clear,28.4,Safe
+Bengaluru,11.6,Rain,5.3,Safe
+Alleppey,34.8,Cloudy,54.0,Moderate
+Prayagraj,18.2,Storm,27.1,Moderate
+Madurai,27.4,Cloudy,22.8,Safe
+Vijayawada,19.0,Cloudy,27.7,Safe
+Kochi,25.2,Clear,51.9,Moderate
+Pune,23.3,Cloudy,16.6,Safe
+Pushkar,27.7,Clear,13.1,Safe
+Nainital,6.1,Rain,13.8,Moderate
+Kolkata,19.7,Cloudy,5.9,Safe
+Munnar,25.6,Clear,48.5,Safe
+Bengaluru,11.6,Fog,42.1,Moderate
+Agra,30.4,Clear,11.6,Safe
+Amritsar,15.8,Clear,17.3,Safe
+Manali,5.9,Cloudy,30.7,Safe
+Vaishno Devi (Katra),2.5,Clear,30.9,Safe
+Visakhapatnam,30.6,Rain,36.8,Moderate
+Pune,23.8,Clear,37.8,Safe
+Prayagraj,31.2,Rain,20.4,Safe
+Varanasi,22.7,Fog,44.8,Moderate
+Munnar,29.4,Storm,19.6,Moderate
+Ooty,11.8,Cloudy,28.5,Safe
+Lucknow,12.2,Heavy Rain,6.7,Moderate
+Ayodhya,16.2,Clear,31.5,Safe
+Visakhapatnam,20.0,Clear,59.8,Moderate
+Vaishno Devi (Katra),-2.4,Clear,34.4,Moderate
+Thiruvananthapuram,20.2,Storm,16.3,Moderate
+Udaipur,13.9,Clear,22.3,Safe
+Ooty,13.0,Rain,23.0,Safe
+Srinagar,10.5,Cloudy,27.6,Safe
+Delhi,37.5,Clear,19.7,Safe
+Amritsar,25.7,Rain,11.0,Safe
+Rishikesh & Haridwar,7.0,Clear,35.9,Safe
+Kolkata,18.9,Clear,16.8,Safe
+Hampi,16.7,Cloudy,18.5,Safe
+Coorg,12.0,Clear,20.9,Safe
+Tirupati,33.6,Clear,8.5,Safe
+Nainital,1.6,Cloudy,31.7,Safe
+Shirdi,29.5,Clear,30.0,Safe
+Jaisalmer,29.4,Storm,55.1,Unsafe
+Kolkata,31.9,Clear,22.7,Safe
+Ayodhya,15.5,Fog,22.3,Safe
+Manali,6.1,Clear,17.6,Safe
+Ajmer,35.6,Storm,41.5,Moderate
+Lucknow,19.3,Clear,5.2,Safe
+Bengaluru,12.1,Rain,17.9,Safe
+Munnar,24.2,Rain,25.6,Safe
+Mumbai,22.2,Rain,54.9,Moderate
+Amritsar,17.2,Clear,16.1,Safe
+Lucknow,33.3,Cloudy,9.4,Safe
+Jaipur,10.2,Clear,8.3,Safe
+Shirdi,24.3,Rain,39.8,Moderate
+Shimla,2.6,Clear,5.8,Safe
+Hampi,14.0,Clear,9.2,Safe
+Ooty,24.6,Cloudy,29.8,Safe
+Ayodhya,16.2,Rain,17.7,Safe
+Ayodhya,26.6,Clear,37.1,Safe
+Amritsar,31.4,Rain,40.4,Moderate
+Dharamshala,0.9,Snow,10.7,Moderate
+Jaipur,12.2,Clear,9.6,Safe
+Ooty,19.6,Rain,24.7,Safe
+Kolkata,31.3,Fog,28.5,Safe
+Amritsar,34.3,Clear,17.9,Safe
+Nainital,2.0,Cloudy,11.6,Safe
+Tirupati,32.0,Clear,23.6,Safe
+Coorg,15.6,Clear,13.5,Safe
+Madurai,29.2,Clear,6.2,Safe
+Madurai,28.4,Clear,28.7,Safe
+Shimla,1.8,Fog,19.0,Moderate
+Coorg,21.5,Cloudy,10.1,Safe
+Amritsar,15.2,Rain,22.8,Safe
+Mumbai,28.8,Clear,16.4,Safe
+Dwarka,23.1,Clear,22.7,Safe
+Alleppey,20.5,Storm,26.2,Moderate
+Vaishno Devi (Katra),-4.3,Rain,31.5,Unsafe
+Somnath,23.1,Heavy Rain,44.3,Moderate
+Bengaluru,23.4,Clear,34.1,Safe
+Vijayawada,18.1,Clear,22.3,Safe
+Manali,8.5,Fog,37.7,Moderate
+Goa,21.1,Cloudy,9.1,Safe
+Varanasi,19.0,Clear,35.1,Safe
+Rameswaram,24.2,Clear,35.4,Safe
+Nashik,27.7,Clear,40.8,Safe
+Varanasi,39.7,Cloudy,27.3,Safe
+Statue of Unity (Kevadia),39.8,Clear,34.5,Safe
+Jaisalmer,30.7,Clear,75.3,Moderate
+Nainital,7.9,Fog,27.1,Moderate
+Bengaluru,27.8,Clear,17.2,Safe
+Delhi,34.3,Clear,5.4,Safe
+Ahmedabad,36.2,Rain,34.4,Moderate
+Kanyakumari,27.4,Clear,17.8,Safe
+Hampi,20.0,Clear,12.3,Safe
+Dwarka,10.6,Storm,39.3,Moderate
+Dharamshala,8.1,Clear,28.4,Safe
+Srinagar,10.2,Fog,6.7,Moderate
+Ooty,16.5,Fog,16.5,Safe
+Shimla,3.3,Cloudy,29.7,Safe
+Pushkar,24.5,Clear,63.6,Moderate
+Rameswaram,29.5,Heavy Rain,42.5,Unsafe
+Vaishno Devi (Katra),-4.7,Heavy Snow,16.3,Unsafe
+Darjeeling,10.0,Cloudy,5.9,Safe
+Nainital,-4.9,Fog,21.6,Moderate
+Kolkata,33.7,Rain,27.3,Safe
+Rishikesh & Haridwar,-0.5,Snow,22.3,Moderate
+Ayodhya,36.7,Heavy Rain,33.5,Moderate
+Goa,31.7,Cloudy,11.7,Safe
+Madurai,28.6,Rain,33.5,Moderate
+Vijayawada,10.3,Clear,16.7,Safe
+Alleppey,28.6,Clear,47.0,Safe
+Amritsar,35.2,Fog,15.8,Safe
+Udaipur,14.0,Clear,22.8,Safe
+Ajmer,14.3,Heavy Rain,26.9,Moderate
+Aurangabad,34.2,Clear,28.4,Safe
+Ajmer,20.5,Clear,41.6,Safe
+Amritsar,21.0,Rain,35.4,Moderate
+Kanyakumari,26.2,Rain,19.9,Safe
+Darjeeling,-1.2,Heavy Snow,18.6,Moderate
+Ooty,24.7,Rain,29.3,Safe
+Udaipur,20.5,Cloudy,23.6,Safe
+Jaipur,23.6,Fog,30.6,Moderate
+Kanyakumari,33.6,Heavy Rain,23.2,Moderate
+Munnar,24.6,Clear,23.4,Safe
+Amritsar,38.9,Cloudy,18.2,Safe
+Madurai,35.4,Rain,39.3,Moderate
+Thiruvananthapuram,33.4,Rain,53.4,Moderate
+Chennai,23.1,Storm,35.4,Unsafe
+Madurai,35.3,Clear,33.3,Safe
+Somnath,33.4,Clear,31.1,Safe
+Nashik,36.1,Clear,27.9,Safe
+Shirdi,38.9,Clear,39.4,Safe
+Kolkata,13.1,Rain,28.5,Safe
+Mathura & Vrindavan,12.0,Cloudy,25.3,Safe
+Varanasi,30.5,Rain,36.0,Moderate
+Jaisalmer,40.3,Clear,23.2,Safe
+Rameswaram,32.1,Cloudy,26.5,Safe
+Jaipur,28.8,Clear,32.1,Safe
+Kanyakumari,25.2,Heavy Rain,53.2,Unsafe
+Kochi,30.8,Rain,59.8,Moderate
+Kochi,24.4,Storm,13.7,Moderate
+Shirdi,21.8,Clear,40.1,Safe
+Munnar,31.3,Rain,28.7,Safe
+Somnath,27.4,Clear,13.6,Safe
+Tirupati,31.9,Clear,43.0,Safe
+Mathura & Vrindavan,18.8,Clear,13.0,Safe
+Dharamshala,6.5,Fog,36.7,Moderate
+Ajmer,39.2,Cloudy,44.1,Safe
+Tirupati,28.6,Rain,39.8,Moderate
+Prayagraj,23.2,Cloudy,23.3,Safe
+Kanyakumari,25.9,Fog,58.1,Moderate
+Pune,23.8,Heavy Rain,27.7,Safe
+Tirupati,38.4,Clear,43.3,Safe
+Nashik,21.6,Clear,7.4,Safe
+Ayodhya,34.5,Clear,32.0,Safe
+Vijayawada,15.0,Clear,7.6,Safe
+Kanyakumari,33.3,Clear,44.0,Safe
+Alleppey,25.4,Clear,57.1,Moderate
+Statue of Unity (Kevadia),38.3,Cloudy,34.3,Safe
+Ayodhya,37.4,Clear,19.2,Safe
+Darjeeling,4.0,Clear,23.9,Safe
+Udaipur,12.1,Clear,13.0,Safe
+Visakhapatnam,26.2,Rain,31.5,Moderate
+Ooty,10.8,Fog,9.7,Safe
+Chennai,24.5,Rain,49.3,Moderate
+Jaipur,33.0,Rain,5.3,Safe
+Ajmer,13.0,Cloudy,34.1,Safe
+Mathura & Vrindavan,19.3,Rain,23.8,Safe
+Munnar,31.2,Clear,11.6,Safe
+Kochi,26.1,Rain,14.4,Safe
+Kochi,33.8,Clear,38.4,Safe
+Lucknow,33.1,Rain,13.6,Safe
+Pune,29.9,Clear,15.5,Safe
+Rishikesh & Haridwar,4.7,Clear,38.8,Safe
+Munnar,25.3,Heavy Rain,58.6,Unsafe
+Mysuru,19.4,Clear,21.6,Safe
+Dharamshala,2.5,Fog,34.0,Moderate
+Bengaluru,21.5,Clear,6.6,Safe
+Tirupati,30.1,Rain,39.6,Moderate
+Mumbai,31.3,Clear,15.2,Safe
+Prayagraj,10.3,Rain,41.0,Moderate
+Bengaluru,28.1,Clear,36.1,Safe
+Pune,26.5,Rain,9.6,Safe
+Ayodhya,17.4,Cloudy,14.0,Safe
+Somnath,21.0,Clear,22.5,Safe
+Jaipur,20.2,Clear,29.0,Safe
+Aurangabad,39.1,Clear,15.2,Safe
+Dharamshala,3.9,Fog,19.9,Moderate
+Jaipur,30.2,Clear,37.5,Safe
+Jaisalmer,29.4,Clear,53.3,Moderate
+Mathura & Vrindavan,22.3,Clear,28.9,Safe
+Udaipur,21.7,Clear,7.1,Safe
+Ooty,22.0,Cloudy,9.8,Safe
+Alleppey,28.9,Rain,10.7,Safe
+Nainital,8.8,Clear,39.1,Safe
+Ayodhya,26.1,Rain,22.2,Safe
+Dharamshala,-4.4,Fog,20.4,Moderate
+Alleppey,34.1,Clear,18.8,Safe
+Amritsar,38.8,Clear,32.6,Safe
+Jaipur,28.0,Clear,28.1,Safe
+Amritsar,27.2,Fog,41.9,Moderate
+Lucknow,18.3,Cloudy,26.9,Safe
+Kodaikanal,14.6,Rain,31.5,Moderate
+Hampi,18.5,Clear,29.5,Safe
+Statue of Unity (Kevadia),10.5,Clear,15.5,Safe
+Jodhpur,34.6,Clear,27.4,Safe
+Shimla,4.1,Fog,11.1,Moderate
+Pushkar,21.0,Clear,31.0,Safe
+Hampi,17.8,Clear,31.8,Safe
+Pushkar,43.1,Clear,24.1,Safe
+Jodhpur,28.0,Clear,5.2,Safe
+Jaipur,38.7,Clear,32.3,Safe
+Aurangabad,13.7,Heavy Rain,39.3,Moderate
+Dwarka,25.4,Clear,26.7,Safe
+Nashik,23.9,Clear,24.4,Safe
+Dwarka,27.8,Clear,17.2,Safe
+Alleppey,24.2,Fog,57.2,Moderate
+Tirupati,19.2,Cloudy,12.0,Safe
+Kochi,26.6,Rain,34.6,Moderate
+Srinagar,10.8,Fog,43.1,Moderate
+Rishikesh & Haridwar,-1.6,Rain,29.0,Moderate
+Pune,21.7,Cloudy,37.3,Safe
+Coorg,20.5,Fog,16.3,Safe
+Goa,31.8,Cloudy,26.3,Safe
+Bengaluru,12.6,Clear,43.4,Safe
+Visakhapatnam,22.3,Rain,18.9,Safe
+Rishikesh & Haridwar,5.7,Clear,29.2,Safe
+Aurangabad,37.7,Cloudy,30.1,Safe
+Nashik,25.3,Clear,34.6,Safe
+Amritsar,12.2,Cloudy,8.3,Safe
+Shirdi,37.3,Clear,29.1,Safe
+Rishikesh & Haridwar,5.8,Cloudy,26.0,Safe
+Ahmedabad,28.2,Clear,27.7,Safe
+Kodaikanal,10.5,Clear,20.4,Safe
+Munnar,22.0,Rain,40.0,Moderate
+Kanyakumari,33.2,Cloudy,22.0,Safe
+Madurai,13.1,Heavy Rain,12.5,Moderate
+Delhi,20.8,Clear,23.9,Safe
+Hampi,9.2,Rain,15.2,Safe
+Somnath,21.1,Rain,21.6,Safe
+Varanasi,23.6,Fog,40.0,Moderate
+Mathura & Vrindavan,26.6,Clear,38.8,Safe
+Kanyakumari,29.3,Cloudy,37.5,Safe
+Thiruvananthapuram,20.7,Clear,15.4,Safe
+Kodaikanal,22.6,Rain,33.1,Moderate
+Tirupati,23.8,Cloudy,16.6,Safe
+Nashik,17.7,Clear,17.3,Safe
+Varanasi,17.9,Cloudy,12.1,Safe
+Kanyakumari,23.3,Cloudy,5.0,Safe
+Ahmedabad,32.1,Clear,34.4,Safe
+Kanyakumari,29.7,Clear,58.3,Moderate
+Alleppey,24.9,Fog,41.8,Moderate
+Thiruvananthapuram,21.5,Cloudy,41.5,Safe
+Vijayawada,23.5,Clear,19.4,Safe
+Somnath,33.8,Cloudy,44.6,Safe
+Bengaluru,37.7,Clear,31.9,Safe
+Varanasi,29.2,Cloudy,11.1,Safe
+Vijayawada,14.7,Clear,29.7,Safe
+Munnar,22.4,Clear,56.5,Moderate
+Agra,23.9,Clear,20.2,Safe
+Visakhapatnam,25.1,Rain,43.3,Moderate
+Jaisalmer,33.8,Clear,36.4,Safe
+Darjeeling,10.3,Rain,23.3,Moderate
+Amritsar,15.1,Clear,12.0,Safe
+Thiruvananthapuram,30.0,Clear,32.2,Safe
+Jodhpur,24.7,Clear,78.3,Moderate
+Amritsar,14.3,Clear,19.8,Safe
+Thiruvananthapuram,25.2,Heavy Rain,13.1,Moderate
+Mysuru,14.5,Heavy Rain,12.2,Moderate
+Tirupati,27.5,Clear,28.6,Safe
+Visakhapatnam,26.9,Rain,6.5,Safe
+Mumbai,29.3,Rain,57.0,Moderate
+Ayodhya,13.3,Clear,17.5,Safe
+Manali,4.3,Fog,23.1,Moderate
+Ahmedabad,35.8,Rain,17.5,Safe
+Pune,17.3,Cloudy,9.0,Safe
+Rameswaram,22.5,Fog,33.8,Moderate
+Alleppey,24.5,Clear,45.9,Safe
+Madurai,25.0,Clear,6.0,Safe
+Agra,30.9,Heavy Rain,35.6,Moderate
+Varanasi,36.8,Clear,21.9,Safe
+Shirdi,24.6,Cloudy,29.5,Safe
+Dwarka,19.1,Clear,37.0,Safe
+Aurangabad,34.9,Clear,13.1,Safe
+Rameswaram,22.0,Rain,13.7,Safe
+Jaisalmer,44.5,Clear,25.8,Safe
+Jaipur,22.7,Clear,13.0,Safe
+Darjeeling,14.2,Cloudy,11.5,Safe
+Bengaluru,34.0,Heavy Rain,17.4,Safe
+Hampi,16.7,Cloudy,27.0,Safe
+Mumbai,31.2,Clear,30.0,Safe
+Ooty,8.6,Clear,9.3,Safe
+Amritsar,26.6,Cloudy,5.1,Safe
+Bengaluru,11.7,Rain,18.9,Safe
+Jaisalmer,22.4,Storm,47.2,Moderate
+Kochi,22.4,Rain,45.4,Moderate
+Goa,23.6,Rain,48.7,Moderate
+Varanasi,16.6,Clear,30.2,Safe
+Hampi,20.8,Cloudy,16.4,Safe
+Mumbai,29.7,Clear,31.4,Safe
+Nashik,19.4,Storm,11.6,Moderate
+Udaipur,34.2,Cloudy,41.4,Safe
+Pushkar,41.9,Clear,57.0,Moderate
+Thiruvananthapuram,33.4,Rain,9.0,Safe
+Shimla,4.0,Rain,32.3,Moderate
+Rameswaram,30.7,Rain,14.1,Safe
+Amritsar,15.0,Rain,34.1,Moderate
+Ahmedabad,12.0,Clear,14.1,Safe
+Statue of Unity (Kevadia),25.8,Clear,23.9,Safe
+Visakhapatnam,27.5,Clear,45.4,Safe
+Kolkata,38.4,Rain,33.5,Moderate
+Srinagar,10.6,Clear,14.5,Safe
+Rameswaram,24.6,Cloudy,16.2,Safe
+Munnar,34.0,Cloudy,52.1,Moderate
+Mysuru,27.0,Clear,14.3,Safe
+Bengaluru,37.3,Clear,26.7,Safe
+Madurai,33.7,Clear,40.8,Safe
+Jodhpur,38.5,Clear,14.7,Safe
+Goa,29.9,Clear,7.9,Safe
+Shirdi,18.8,Rain,43.4,Moderate
+Coorg,9.5,Rain,31.6,Moderate
+Ooty,14.6,Clear,26.2,Safe
+Varanasi,34.2,Rain,26.4,Safe
+Darjeeling,9.0,Clear,37.4,Safe
+Visakhapatnam,32.5,Rain,48.7,Moderate
+Somnath,22.2,Rain,23.8,Safe
+Vijayawada,28.7,Clear,5.8,Safe
+Rameswaram,35.0,Rain,31.9,Moderate
+Manali,10.2,Clear,15.9,Safe
+Alleppey,24.8,Cloudy,24.2,Safe
+Kochi,28.0,Rain,53.0,Moderate
+Aurangabad,19.0,Clear,17.7,Safe
+Manali,-2.4,Clear,37.3,Moderate
+Vaishno Devi (Katra),5.0,Cloudy,41.6,Safe
+Shirdi,12.3,Clear,9.3,Safe
+Dwarka,20.3,Cloudy,22.3,Safe
+Kanyakumari,35.0,Fog,10.5,Safe
+Statue of Unity (Kevadia),33.2,Heavy Rain,40.1,Moderate
+Kochi,24.4,Rain,43.2,Moderate
+Lucknow,19.7,Rain,29.7,Safe
+Jodhpur,38.2,Clear,21.2,Safe
+Srinagar,10.8,Clear,7.3,Safe
+Ajmer,12.8,Clear,42.4,Safe
+Madurai,10.3,Cloudy,19.9,Safe
+Mathura & Vrindavan,31.0,Clear,28.8,Safe
+Prayagraj,17.2,Fog,10.7,Safe
+Srinagar,12.4,Clear,11.2,Safe
+Agra,11.5,Clear,38.9,Safe
+Dharamshala,6.7,Clear,40.2,Safe
+Pune,26.1,Storm,8.9,Safe
+Manali,-0.8,Clear,33.1,Safe
+Kodaikanal,22.5,Fog,7.2,Safe
+Kolkata,18.1,Clear,8.0,Safe
+Pune,39.3,Clear,44.0,Safe
+Jodhpur,26.1,Clear,13.7,Safe
+Dharamshala,11.9,Clear,22.8,Safe
+Lucknow,26.9,Clear,35.6,Safe
+Munnar,23.7,Rain,12.0,Safe
+Goa,21.0,Fog,17.5,Safe
+Ajmer,19.3,Cloudy,30.5,Safe
+Prayagraj,33.7,Clear,42.4,Safe
+Jaipur,17.8,Cloudy,14.1,Safe
+Tirupati,14.1,Clear,36.9,Safe
+Hampi,15.9,Clear,31.7,Safe
+Kolkata,21.8,Clear,26.9,Safe
+Prayagraj,30.9,Cloudy,14.3,Safe
+Chennai,30.3,Clear,50.2,Moderate
+Madurai,39.3,Cloudy,11.8,Safe
+Prayagraj,37.5,Clear,28.4,Safe
+Lucknow,39.4,Fog,37.2,Moderate
+Mathura & Vrindavan,17.6,Clear,36.5,Safe
+Pune,15.7,Clear,41.1,Safe
+Kanyakumari,31.9,Fog,48.0,Moderate
+Munnar,21.6,Clear,22.9,Safe
+Rameswaram,24.4,Clear,34.6,Safe
+Nainital,11.1,Rain,14.8,Moderate
+Mumbai,31.6,Heavy Rain,27.3,Moderate
+Goa,32.2,Cloudy,27.9,Safe
+Statue of Unity (Kevadia),10.6,Rain,37.1,Moderate
+Tirupati,28.4,Clear,25.6,Safe
+Thiruvananthapuram,26.8,Cloudy,42.1,Safe
+Coorg,14.6,Rain,27.5,Safe
+Madurai,38.9,Fog,16.7,Safe
+Prayagraj,19.7,Storm,21.2,Moderate
+Jaipur,32.6,Clear,40.4,Safe
+Ayodhya,13.9,Clear,27.5,Safe
+Dwarka,21.8,Clear,5.2,Safe
+Madurai,12.5,Clear,33.5,Safe
+Lucknow,18.9,Rain,12.0,Safe
+Kochi,27.0,Cloudy,48.0,Safe
+Ajmer,31.1,Clear,5.1,Safe
+Kodaikanal,9.8,Clear,11.0,Safe
+Vijayawada,21.0,Clear,17.1,Safe
+Vaishno Devi (Katra),0.4,Fog,38.3,Moderate
+Varanasi,17.0,Clear,16.1,Safe
+Dwarka,26.4,Clear,40.0,Safe
+Jaisalmer,21.9,Clear,18.4,Safe
+Statue of Unity (Kevadia),24.5,Rain,12.2,Safe
+Kanyakumari,27.9,Clear,32.1,Safe
+Delhi,30.7,Clear,32.9,Safe
+Visakhapatnam,34.4,Clear,38.3,Safe
+Kolkata,35.1,Rain,17.7,Safe
+Udaipur,11.7,Cloudy,11.9,Safe
+Kolkata,12.7,Rain,12.4,Safe
+Varanasi,37.4,Heavy Rain,16.9,Moderate
+Lucknow,14.6,Fog,7.7,Safe
+Shimla,8.3,Clear,30.5,Safe
+Agra,38.7,Clear,33.6,Safe
+Delhi,19.7,Storm,42.6,Moderate
+Ajmer,35.6,Clear,11.1,Safe
+Kodaikanal,16.6,Clear,34.4,Safe
+Pushkar,28.0,Clear,6.4,Safe
+Nainital,1.3,Cloudy,37.6,Safe
+Kodaikanal,14.2,Rain,6.1,Safe
+Shirdi,22.7,Clear,31.4,Safe
+Jodhpur,29.4,Clear,17.0,Safe
+Darjeeling,1.3,Clear,30.0,Safe
+Dwarka,39.9,Clear,28.4,Safe
+Kodaikanal,10.4,Rain,26.6,Safe
+Shimla,-4.3,Rain,18.4,Moderate
+Manali,-1.0,Rain,38.3,Moderate
+Chennai,28.1,Cloudy,56.6,Moderate
+Vaishno Devi (Katra),13.0,Cloudy,22.4,Safe
+Vijayawada,31.8,Clear,11.0,Safe
+Mathura & Vrindavan,25.7,Clear,17.4,Safe
+Delhi,20.4,Fog,43.9,Moderate
+Kanyakumari,21.8,Clear,42.7,Safe
+Jaipur,16.3,Clear,37.8,Safe
+Srinagar,5.4,Cloudy,34.9,Safe
+Vaishno Devi (Katra),10.3,Cloudy,10.9,Safe
+Jodhpur,30.9,Clear,37.0,Safe
+Thiruvananthapuram,21.9,Fog,48.1,Moderate
+Madurai,31.4,Clear,8.1,Safe
+Rameswaram,20.9,Cloudy,20.5,Safe
+Bengaluru,29.2,Clear,23.3,Safe
+Srinagar,-1.6,Fog,29.3,Moderate
+Ajmer,19.6,Clear,33.9,Safe
+Agra,29.0,Clear,37.7,Safe
+Kolkata,22.1,Rain,31.8,Moderate
+Chennai,24.7,Clear,55.4,Moderate
+Lucknow,26.3,Storm,19.3,Moderate
+Lucknow,16.3,Clear,15.2,Safe
+Dharamshala,-2.6,Clear,31.6,Moderate
+Vaishno Devi (Katra),13.2,Rain,40.9,Moderate
+Munnar,27.0,Cloudy,23.3,Safe
+Coorg,18.9,Fog,13.3,Safe
+Mathura & Vrindavan,35.3,Clear,28.6,Safe
+Madurai,37.3,Clear,8.9,Safe
+Ooty,20.9,Fog,32.7,Moderate
+Alleppey,21.5,Rain,40.2,Moderate
+Somnath,34.9,Clear,22.1,Safe
+Varanasi,33.0,Clear,24.0,Safe
+Bengaluru,22.7,Clear,17.8,Safe
+Amritsar,31.4,Cloudy,7.1,Safe
+Darjeeling,3.5,Clear,7.9,Safe
+Kochi,24.8,Clear,54.2,Moderate
+Vaishno Devi (Katra),5.9,Clear,11.3,Safe
+Kodaikanal,19.8,Clear,8.9,Safe
+Udaipur,33.6,Fog,8.9,Safe
+Darjeeling,7.8,Cloudy,30.2,Safe
+Tirupati,18.8,Clear,32.3,Safe
+Thiruvananthapuram,22.7,Cloudy,54.5,Moderate
+Delhi,12.5,Clear,21.2,Safe
+Jaipur,24.8,Cloudy,31.4,Safe
+Bengaluru,27.1,Rain,31.3,Moderate
+Hampi,14.3,Cloudy,6.6,Safe
+Srinagar,-0.7,Snow,14.0,Moderate
+Thiruvananthapuram,33.2,Rain,20.0,Safe
+Hampi,15.6,Rain,33.9,Moderate
+Lucknow,33.6,Clear,10.0,Safe
+Prayagraj,24.7,Heavy Rain,28.0,Moderate
+Darjeeling,11.3,Rain,23.2,Moderate
+Visakhapatnam,23.5,Heavy Rain,20.6,Moderate
+Varanasi,39.2,Clear,27.1,Safe
+Bengaluru,32.5,Clear,9.2,Safe
+Darjeeling,-2.4,Clear,35.9,Moderate
+Alleppey,33.4,Cloudy,12.5,Safe
+Rishikesh & Haridwar,9.5,Fog,30.5,Moderate
+Delhi,35.3,Fog,19.9,Safe
+Pushkar,28.6,Cloudy,39.6,Safe
+Ahmedabad,29.4,Fog,19.1,Safe
+Srinagar,5.1,Rain,18.1,Moderate
+Nashik,10.8,Rain,28.7,Safe
+Udaipur,13.4,Fog,18.1,Safe
+Ajmer,30.8,Cloudy,9.9,Safe
+Agra,27.5,Clear,10.1,Safe
+Kolkata,29.8,Clear,11.1,Safe
+Vijayawada,17.2,Rain,41.4,Moderate
+Agra,21.4,Rain,38.3,Moderate
+Agra,39.3,Rain,40.3,Moderate
+Shimla,-2.6,Clear,34.8,Moderate
+Kolkata,31.9,Clear,27.4,Safe
+Vaishno Devi (Katra),3.8,Clear,12.2,Safe
+Manali,2.2,Clear,30.0,Safe
+Thiruvananthapuram,28.2,Cloudy,29.6,Safe
+Munnar,23.3,Cloudy,12.6,Safe
+Shimla,-2.9,Heavy Snow,27.5,Unsafe
+Goa,31.4,Clear,33.2,Safe
+Varanasi,31.9,Rain,44.4,Moderate
+Tirupati,19.6,Fog,42.8,Moderate
+Goa,34.0,Rain,27.9,Safe
+Ooty,17.6,Clear,13.6,Safe
+Shimla,9.4,Cloudy,24.6,Safe
+Jaisalmer,33.6,Clear,38.1,Safe
+Aurangabad,22.2,Clear,31.3,Safe
+Bengaluru,14.7,Storm,22.7,Safe
+Kolkata,19.6,Cloudy,21.3,Safe
+Agra,18.2,Clear,16.4,Safe
+Shirdi,28.6,Storm,19.4,Moderate
+Mathura & Vrindavan,30.9,Cloudy,37.5,Safe
+Manali,-4.7,Snow,30.2,Unsafe
+Dharamshala,14.2,Clear,19.7,Safe
+Kolkata,35.9,Fog,44.9,Moderate
+Shimla,8.0,Fog,42.5,Moderate
+Kolkata,19.4,Cloudy,26.2,Safe
+Somnath,36.3,Clear,7.9,Safe
+Hampi,18.3,Cloudy,10.4,Safe
+Kolkata,37.8,Rain,39.1,Moderate
+Srinagar,13.5,Clear,7.6,Safe
+Madurai,22.6,Clear,8.1,Safe
+Darjeeling,3.4,Clear,30.9,Safe
+Hampi,8.2,Clear,10.2,Safe
+Manali,-0.3,Fog,18.5,Moderate
+Somnath,17.7,Rain,39.3,Moderate
+Dharamshala,10.9,Cloudy,9.3,Safe
+Mathura & Vrindavan,34.6,Rain,14.5,Safe
+Madurai,38.4,Clear,17.6,Safe
+Jaisalmer,35.0,Clear,18.8,Safe
+Jodhpur,20.2,Clear,39.6,Safe
+Alleppey,34.9,Clear,48.7,Safe
+Varanasi,33.1,Cloudy,15.5,Safe
+Visakhapatnam,27.5,Clear,31.5,Safe
+Rishikesh & Haridwar,-0.6,Snow,17.3,Moderate
+Jaisalmer,21.3,Cloudy,39.1,Safe
+Pushkar,31.8,Storm,44.0,Moderate
+Agra,33.5,Clear,22.1,Safe
+Thiruvananthapuram,26.6,Clear,35.1,Safe
+Jaisalmer,44.6,Clear,34.7,Moderate
+Kolkata,13.9,Clear,38.8,Safe
+Pune,24.9,Cloudy,10.4,Safe
+Visakhapatnam,29.4,Clear,36.5,Safe
+Agra,36.7,Cloudy,33.8,Safe
+Varanasi,22.0,Clear,44.9,Safe
+Shimla,-1.2,Cloudy,31.4,Safe
+Thiruvananthapuram,28.3,Rain,27.7,Safe
+Somnath,23.9,Cloudy,27.7,Safe
+Chennai,23.3,Clear,19.3,Safe
+Pushkar,24.8,Clear,13.8,Safe
+Kochi,29.1,Rain,10.0,Safe
+Visakhapatnam,21.1,Storm,31.2,Unsafe
+Coorg,17.2,Clear,21.0,Safe
+Amritsar,28.4,Clear,15.0,Safe
+Agra,22.6,Fog,32.1,Moderate
+Bengaluru,38.0,Fog,17.7,Safe
+Darjeeling,14.3,Fog,12.9,Moderate
+Nainital,4.3,Cloudy,7.1,Safe
+Madurai,11.0,Rain,42.8,Moderate
+Alleppey,26.7,Clear,30.2,Safe
+Delhi,20.5,Clear,24.0,Safe
+Ajmer,29.4,Clear,9.3,Safe
+Dharamshala,6.8,Cloudy,29.6,Safe
+Hampi,18.6,Cloudy,11.2,Safe
+Ajmer,12.3,Cloudy,37.5,Safe
+Mathura & Vrindavan,35.5,Clear,35.5,Safe
+Pushkar,42.4,Clear,30.1,Moderate
+Pune,31.1,Cloudy,6.6,Safe
+Hampi,9.5,Cloudy,27.3,Safe
+Nashik,26.3,Rain,31.1,Moderate
+Chennai,22.6,Storm,59.8,Unsafe
+Agra,10.8,Clear,27.6,Safe
+Madurai,31.7,Cloudy,44.0,Safe
+Manali,0.5,Cloudy,7.4,Safe
+Somnath,27.7,Rain,18.6,Safe
+Pune,25.2,Clear,24.8,Safe
+Thiruvananthapuram,27.4,Clear,9.9,Safe
+Kochi,22.5,Cloudy,28.7,Safe
+Mysuru,11.3,Storm,25.7,Moderate
+Ayodhya,30.8,Cloudy,12.7,Safe
+Vijayawada,15.2,Storm,32.9,Moderate
+Delhi,36.0,Rain,31.0,Moderate
+Dwarka,12.4,Clear,23.9,Safe
+Hampi,20.1,Cloudy,5.1,Safe
+Delhi,36.8,Clear,24.8,Safe
+Dharamshala,3.3,Cloudy,14.3,Safe
+Ajmer,13.0,Rain,11.0,Safe
+Varanasi,32.9,Cloudy,36.1,Safe
+Visakhapatnam,31.4,Fog,30.2,Moderate
+Pune,25.1,Rain,18.6,Safe
+Aurangabad,37.2,Clear,32.4,Safe
+Dwarka,10.5,Clear,16.3,Safe
+Pushkar,33.4,Clear,17.2,Safe
+Varanasi,26.3,Rain,7.3,Safe
+Alleppey,20.7,Clear,15.0,Safe
+Vaishno Devi (Katra),-1.5,Clear,6.2,Safe
+Jodhpur,38.7,Clear,55.9,Moderate
+Ahmedabad,13.0,Rain,40.2,Moderate
+Pune,39.3,Clear,6.1,Safe
+Mathura & Vrindavan,20.1,Rain,10.2,Safe
+Thiruvananthapuram,28.5,Heavy Rain,57.6,Unsafe
+Pune,20.2,Cloudy,44.6,Safe
+Udaipur,30.7,Clear,12.5,Safe
+Somnath,17.5,Rain,7.7,Safe
+Visakhapatnam,27.3,Clear,25.3,Safe
+Hampi,8.9,Rain,29.3,Safe
+Srinagar,3.4,Rain,19.7,Moderate
+Statue of Unity (Kevadia),21.1,Cloudy,20.2,Safe
+Visakhapatnam,20.7,Fog,22.8,Safe
+Prayagraj,18.7,Clear,32.5,Safe
+Udaipur,38.8,Cloudy,44.3,Safe
+Ayodhya,26.5,Cloudy,8.4,Safe
+Udaipur,26.5,Clear,43.0,Safe
+Dwarka,28.5,Clear,6.8,Safe
+Ahmedabad,12.1,Clear,41.0,Safe
+Jaisalmer,29.0,Clear,26.8,Safe
+Madurai,20.7,Fog,22.3,Safe
+Amritsar,39.6,Cloudy,30.7,Safe
+Vaishno Devi (Katra),-1.1,Cloudy,21.4,Safe
+Aurangabad,28.8,Cloudy,19.6,Safe
+Jodhpur,41.7,Clear,29.5,Safe
+Dwarka,27.3,Rain,13.0,Safe
+Jaisalmer,20.0,Clear,38.1,Safe
+Ayodhya,18.2,Clear,32.1,Safe
+Visakhapatnam,25.4,Cloudy,30.0,Safe
+Visakhapatnam,25.3,Heavy Rain,19.8,Moderate
+Goa,27.9,Clear,11.1,Safe
+Nainital,14.6,Fog,24.7,Moderate
+Alleppey,34.2,Clear,29.4,Safe
+Coorg,11.8,Cloudy,19.5,Safe
+Ajmer,38.9,Cloudy,34.1,Safe
+Vaishno Devi (Katra),-3.4,Clear,37.9,Moderate
+Dwarka,12.2,Clear,34.2,Safe
+Kanyakumari,32.9,Rain,55.3,Moderate
+Goa,30.3,Clear,40.6,Safe
+Tirupati,28.5,Clear,28.4,Safe
+Kanyakumari,23.1,Clear,19.6,Safe
+Srinagar,-4.5,Clear,30.6,Moderate
+Nashik,29.2,Fog,7.3,Safe
+Bengaluru,12.6,Cloudy,36.0,Safe
+Nainital,11.3,Cloudy,15.9,Safe
+Ahmedabad,27.8,Fog,28.3,Safe
+Rishikesh & Haridwar,-0.9,Cloudy,5.4,Safe
+Madurai,24.5,Clear,5.3,Safe
+Goa,29.5,Clear,24.4,Safe
+Delhi,34.9,Rain,28.1,Safe
+Madurai,21.6,Clear,20.5,Safe
+Kolkata,15.2,Rain,38.5,Moderate
+Mumbai,29.4,Clear,58.3,Moderate
+Rishikesh & Haridwar,-0.1,Rain,19.5,Moderate
+Pushkar,36.4,Clear,29.7,Safe
+Alleppey,28.1,Cloudy,43.3,Safe
+Ayodhya,30.5,Rain,17.8,Safe
+Varanasi,38.0,Clear,33.6,Safe
+Vaishno Devi (Katra),3.1,Clear,7.9,Safe
+Visakhapatnam,29.8,Heavy Rain,33.4,Unsafe
+Goa,34.0,Clear,34.8,Safe
+Kanyakumari,27.4,Rain,15.7,Safe
+Statue of Unity (Kevadia),13.5,Clear,8.2,Safe
+Darjeeling,8.5,Clear,6.3,Safe
+Srinagar,0.4,Snow,20.7,Moderate
+Ahmedabad,16.2,Clear,43.9,Safe
+Aurangabad,37.8,Clear,19.3,Safe
+Manali,13.9,Rain,21.7,Moderate
+Madurai,29.4,Clear,44.3,Safe
+Lucknow,22.6,Rain,11.2,Safe
+Pune,18.2,Rain,30.8,Moderate
+Pune,18.7,Cloudy,42.5,Safe
+Kanyakumari,32.4,Cloudy,39.7,Safe
+Rameswaram,34.9,Rain,18.0,Safe
+Nainital,-3.4,Cloudy,29.7,Safe
+Kanyakumari,34.7,Fog,8.8,Safe
+Udaipur,34.5,Rain,16.0,Safe
+Agra,10.8,Clear,32.1,Safe
+Agra,23.1,Clear,18.4,Safe
+Bengaluru,15.4,Clear,18.5,Safe
+Mathura & Vrindavan,34.5,Rain,10.5,Safe
+Udaipur,15.7,Clear,27.8,Safe
+Shimla,9.7,Cloudy,20.5,Safe
+Amritsar,23.8,Rain,44.7,Moderate
+Visakhapatnam,27.2,Rain,32.6,Moderate
+Ahmedabad,35.9,Rain,40.5,Moderate
+Kodaikanal,19.5,Rain,12.5,Safe
+Nainital,-1.7,Snow,20.1,Moderate
+Thiruvananthapuram,33.7,Clear,57.2,Moderate
+Statue of Unity (Kevadia),33.0,Cloudy,31.2,Safe
+Tirupati,14.2,Cloudy,15.5,Safe
+Shimla,-1.2,Clear,41.6,Safe
+Goa,20.8,Clear,58.0,Moderate
+Darjeeling,12.7,Rain,22.3,Moderate
+Nainital,0.4,Snow,25.8,Moderate
+Shimla,6.7,Clear,40.8,Safe
+Somnath,20.6,Cloudy,27.3,Safe
+Somnath,30.9,Clear,23.8,Safe
+Nainital,11.4,Clear,11.8,Safe
+Ahmedabad,22.7,Rain,17.7,Safe
+Lucknow,36.6,Clear,23.1,Safe
+Hampi,23.9,Clear,19.9,Safe
+Jaipur,21.3,Clear,29.0,Safe
+Pune,12.9,Cloudy,37.9,Safe
+Pune,10.4,Cloudy,19.9,Safe
+Coorg,21.7,Cloudy,29.3,Safe
+Goa,30.8,Heavy Rain,5.8,Moderate
+Lucknow,25.9,Fog,38.2,Moderate
+Rameswaram,33.0,Clear,44.1,Safe
+Delhi,37.6,Clear,20.3,Safe
+Amritsar,38.8,Cloudy,19.3,Safe
+Statue of Unity (Kevadia),34.4,Rain,16.3,Safe
+Tirupati,18.7,Clear,31.9,Safe
+Dharamshala,-2.1,Clear,5.4,Safe
+Kolkata,27.5,Clear,30.0,Safe
+Vaishno Devi (Katra),2.8,Fog,9.7,Moderate
+Aurangabad,34.6,Clear,43.7,Safe
+Statue of Unity (Kevadia),35.9,Storm,34.3,Moderate
+Shirdi,14.6,Clear,38.2,Safe
+Mumbai,28.9,Heavy Rain,20.4,Moderate
+Vijayawada,16.5,Clear,30.3,Safe
+Madurai,17.8,Cloudy,25.8,Safe
+Madurai,20.4,Rain,29.7,Safe
+Kochi,24.3,Cloudy,23.4,Safe
+Alleppey,31.5,Heavy Rain,57.3,Unsafe
+Varanasi,16.9,Fog,39.4,Moderate
+Ajmer,12.0,Cloudy,35.3,Safe
+Somnath,11.3,Clear,31.2,Safe
+Mumbai,21.2,Heavy Rain,45.5,Moderate
+Kochi,27.0,Clear,54.9,Moderate
+Goa,22.1,Clear,25.9,Safe
+Kanyakumari,33.5,Cloudy,12.1,Safe
+Hampi,23.8,Rain,22.8,Safe
+Dwarka,34.4,Rain,12.7,Safe
+Aurangabad,36.5,Clear,42.9,Safe
+Kodaikanal,23.4,Rain,25.1,Safe
+Kanyakumari,30.9,Storm,57.2,Unsafe
+Udaipur,31.3,Clear,29.1,Safe
+Agra,31.9,Clear,39.1,Safe
+Delhi,18.7,Clear,13.9,Safe
+Dwarka,11.8,Rain,32.0,Moderate
+Visakhapatnam,28.1,Clear,31.5,Safe
+Jodhpur,43.1,Clear,78.8,Unsafe
+Madurai,33.7,Clear,44.6,Safe
+Amritsar,33.4,Cloudy,20.4,Safe
+Delhi,24.7,Clear,7.9,Safe
+Statue of Unity (Kevadia),38.2,Clear,20.9,Safe
+Dwarka,39.0,Cloudy,31.6,Safe
+Prayagraj,39.9,Rain,22.4,Safe
+Vaishno Devi (Katra),10.6,Clear,42.5,Safe
+Mathura & Vrindavan,31.7,Rain,41.3,Moderate
+Rishikesh & Haridwar,9.8,Fog,15.8,Moderate
+Nashik,30.2,Rain,25.8,Safe
+Jaisalmer,23.1,Clear,68.3,Moderate
+Pune,20.2,Clear,18.8,Safe
+Somnath,19.8,Rain,18.4,Safe
+Madurai,24.3,Clear,8.0,Safe
+Kanyakumari,23.2,Clear,20.4,Safe
+Dharamshala,-2.9,Snow,27.3,Unsafe
+Dharamshala,-4.3,Cloudy,39.2,Moderate
+Shirdi,26.6,Clear,24.5,Safe
+Kanyakumari,20.5,Rain,55.7,Moderate
+Dwarka,23.7,Fog,36.7,Moderate
+Hampi,20.3,Cloudy,18.1,Safe
+Nainital,1.3,Cloudy,33.0,Safe
+Lucknow,19.1,Clear,8.9,Safe
+Jodhpur,35.5,Clear,18.1,Safe
+Visakhapatnam,24.7,Fog,33.4,Moderate
+Hampi,19.3,Rain,31.5,Moderate
+Ooty,17.7,Clear,26.8,Safe
+Udaipur,21.9,Clear,35.0,Safe
+Lucknow,19.9,Clear,41.0,Safe
+Kochi,34.9,Clear,58.5,Moderate
+Agra,39.6,Cloudy,43.0,Safe
+Chennai,25.4,Clear,33.2,Safe
+Statue of Unity (Kevadia),38.3,Clear,16.9,Safe
+Kodaikanal,18.4,Rain,17.1,Safe
+Rameswaram,34.4,Clear,42.9,Safe
+Kanyakumari,23.3,Heavy Rain,48.9,Unsafe
+Amritsar,17.7,Fog,21.4,Safe
+Vijayawada,30.7,Clear,10.4,Safe
+Alleppey,33.7,Clear,20.0,Safe
+Shirdi,36.7,Cloudy,28.3,Safe
+Jaisalmer,43.6,Storm,22.5,Moderate
+Chennai,30.5,Clear,45.7,Safe
+Ooty,13.0,Clear,33.5,Safe
+Varanasi,35.9,Clear,12.6,Safe
+Prayagraj,12.1,Cloudy,41.8,Safe
+Shirdi,24.7,Heavy Rain,24.1,Moderate
+Amritsar,25.5,Clear,21.1,Safe
+Coorg,21.5,Rain,34.1,Moderate
+Kolkata,23.3,Cloudy,5.2,Safe
+Srinagar,5.1,Clear,23.1,Safe
+Tirupati,25.1,Rain,17.9,Safe
+Mumbai,32.5,Cloudy,41.0,Safe
+Varanasi,36.3,Clear,31.2,Safe
+Srinagar,1.2,Snow,26.0,Moderate
+Shimla,-2.7,Cloudy,12.3,Safe
+Shimla,8.8,Rain,42.2,Moderate
+Madurai,27.8,Cloudy,32.3,Safe
+Rameswaram,27.9,Fog,59.3,Moderate
+Amritsar,34.8,Clear,16.8,Safe
+Kanyakumari,30.2,Clear,59.5,Moderate
+Jodhpur,43.3,Clear,74.3,Unsafe
+Darjeeling,10.8,Clear,20.0,Safe
+Nashik,27.9,Rain,20.2,Safe
+Nainital,-0.2,Snow,8.2,Moderate
+Vaishno Devi (Katra),6.8,Rain,15.7,Moderate
+Shimla,-0.5,Cloudy,8.0,Safe
+Nainital,2.2,Cloudy,16.7,Safe
+Lucknow,24.6,Clear,15.9,Safe
+Munnar,27.1,Fog,20.1,Safe
+Dharamshala,8.9,Clear,42.0,Safe
+Nainital,4.0,Clear,7.9,Safe
+Ayodhya,10.9,Clear,30.7,Safe
+Shirdi,34.7,Clear,9.2,Safe
+Goa,28.9,Rain,48.7,Moderate
+Munnar,34.2,Heavy Rain,28.9,Moderate
+Kanyakumari,32.5,Clear,10.0,Safe
+Kochi,27.2,Rain,21.1,Safe
+Amritsar,39.7,Cloudy,40.6,Safe
+Nashik,26.2,Fog,40.6,Moderate
+Kolkata,29.7,Clear,16.6,Safe
+Prayagraj,32.7,Rain,30.8,Moderate
+Dwarka,18.0,Rain,40.5,Moderate
+Visakhapatnam,29.2,Clear,48.1,Safe
+Delhi,31.1,Clear,16.1,Safe
+Kolkata,10.4,Rain,29.2,Safe
+Jaisalmer,20.0,Clear,23.7,Safe
+Thiruvananthapuram,34.8,Cloudy,36.6,Safe
+Coorg,10.9,Clear,14.2,Safe
+Rishikesh & Haridwar,11.2,Rain,44.2,Moderate
+Pushkar,21.1,Clear,32.8,Safe
+Delhi,20.6,Rain,20.6,Safe
+Tirupati,27.1,Rain,21.7,Safe
+Mysuru,35.7,Cloudy,5.2,Safe
+Statue of Unity (Kevadia),26.6,Fog,34.7,Moderate
+Statue of Unity (Kevadia),31.1,Rain,24.3,Safe
+Pushkar,23.0,Clear,36.9,Safe
+Hampi,15.5,Rain,11.3,Safe
+Kochi,22.7,Rain,47.0,Moderate
+Somnath,20.1,Clear,29.6,Safe
+Somnath,12.6,Clear,26.7,Safe
+Kolkata,37.7,Rain,25.9,Safe
+Statue of Unity (Kevadia),13.3,Rain,38.8,Moderate
+Chennai,33.9,Cloudy,56.4,Moderate
+Delhi,23.3,Cloudy,6.3,Safe
+Nainital,11.7,Cloudy,32.3,Safe
+Agra,19.4,Rain,33.8,Moderate
+Munnar,21.3,Rain,26.4,Safe
+Ajmer,30.8,Clear,36.7,Safe
+Kolkata,32.5,Cloudy,21.0,Safe
+Jaisalmer,24.1,Clear,29.4,Safe
+Rameswaram,28.1,Clear,43.7,Safe
+Mysuru,37.4,Cloudy,31.4,Safe
+Kanyakumari,30.4,Storm,48.3,Unsafe
+Dwarka,35.6,Clear,8.9,Safe
+Vaishno Devi (Katra),2.3,Clear,26.6,Safe
+Aurangabad,14.3,Clear,6.8,Safe
+Goa,30.1,Cloudy,54.8,Moderate
+Jaipur,33.3,Cloudy,35.6,Safe
+Lucknow,22.8,Rain,20.0,Safe
+Nashik,24.6,Rain,10.7,Safe
+Lucknow,33.7,Clear,18.0,Safe
+Rameswaram,22.5,Cloudy,45.8,Safe
+Dwarka,38.6,Cloudy,43.6,Safe
+Shimla,6.2,Fog,11.1,Moderate
+Amritsar,26.9,Clear,11.0,Safe
+Somnath,30.5,Rain,27.1,Safe
+Shimla,11.5,Fog,43.0,Moderate
+Aurangabad,34.1,Rain,12.0,Safe
+Coorg,21.9,Cloudy,22.0,Safe
+Madurai,21.7,Rain,13.2,Safe
+Vaishno Devi (Katra),3.4,Rain,44.2,Moderate
+Jodhpur,29.3,Clear,80.0,Moderate
+Varanasi,29.0,Clear,24.5,Safe
+Kochi,24.5,Rain,19.3,Safe
+Pushkar,33.4,Clear,71.1,Moderate
+Nashik,11.3,Heavy Rain,5.9,Moderate
+Shimla,6.3,Clear,21.1,Safe
+Rishikesh & Haridwar,0.1,Rain,44.4,Moderate
+Dwarka,26.9,Rain,17.9,Safe
+Pushkar,21.3,Cloudy,12.4,Safe
+Ajmer,20.0,Clear,7.2,Safe
+Coorg,8.7,Clear,30.4,Safe
+Coorg,16.5,Rain,11.6,Safe
+Jodhpur,20.9,Storm,27.1,Moderate
+Shirdi,15.6,Rain,29.2,Safe
+Nashik,11.9,Heavy Rain,24.1,Moderate
+Kanyakumari,20.4,Rain,14.5,Safe
+Delhi,38.8,Storm,14.7,Safe
+Kodaikanal,20.5,Cloudy,10.1,Safe
+Udaipur,39.5,Clear,26.4,Safe
+Shirdi,39.1,Cloudy,27.8,Safe
+Mathura & Vrindavan,29.6,Clear,24.0,Safe
+Kanyakumari,21.4,Storm,54.4,Unsafe
+Tirupati,17.8,Clear,30.2,Safe
+Mathura & Vrindavan,20.3,Rain,30.1,Moderate
+Pune,21.0,Cloudy,22.6,Safe
+Tirupati,39.4,Rain,43.3,Moderate
+Jodhpur,26.8,Cloudy,7.8,Safe
+Srinagar,2.8,Clear,35.0,Safe
+Mumbai,28.1,Cloudy,41.9,Safe
+Ahmedabad,32.4,Rain,29.9,Safe
+Thiruvananthapuram,27.6,Cloudy,22.2,Safe
+Aurangabad,10.8,Clear,30.7,Safe
+Darjeeling,0.5,Snow,21.6,Moderate
+Mumbai,28.6,Heavy Rain,14.0,Moderate
+Thiruvananthapuram,30.2,Clear,5.4,Safe
+Delhi,28.5,Clear,24.9,Safe
+Tirupati,22.7,Clear,26.5,Safe
+Aurangabad,17.9,Clear,40.7,Safe
+Jaisalmer,33.5,Clear,10.1,Safe
+Kanyakumari,23.6,Fog,14.2,Safe
+Aurangabad,32.4,Fog,16.3,Safe
+Kochi,22.6,Heavy Rain,5.8,Moderate
+Kolkata,27.0,Clear,9.7,Safe
+Visakhapatnam,20.6,Rain,13.9,Safe
+Coorg,10.4,Cloudy,25.9,Safe
+Nashik,31.1,Heavy Rain,9.7,Moderate
+Jaipur,26.8,Clear,20.3,Safe
+Aurangabad,38.2,Rain,36.6,Moderate
+Ooty,14.6,Clear,22.2,Safe
+Vaishno Devi (Katra),-1.6,Rain,24.7,Moderate
+Jodhpur,22.3,Clear,34.1,Safe
+Varanasi,15.6,Cloudy,32.0,Safe
+Pushkar,24.6,Clear,47.6,Safe
+Visakhapatnam,25.4,Rain,11.5,Safe
+Dharamshala,9.0,Cloudy,41.1,Safe
+Rameswaram,31.2,Clear,8.0,Safe
+Munnar,32.4,Clear,17.4,Safe
+Amritsar,30.0,Cloudy,16.5,Safe
+Ajmer,16.6,Clear,34.8,Safe
+Somnath,39.2,Cloudy,11.4,Safe
+Udaipur,15.5,Cloudy,20.7,Safe
+Srinagar,11.1,Clear,36.2,Safe
+Jodhpur,23.9,Clear,5.4,Safe
+Kolkata,15.1,Rain,24.5,Safe
+Lucknow,10.8,Fog,38.2,Moderate
+Mumbai,32.3,Cloudy,18.2,Safe
+Dharamshala,0.1,Cloudy,30.8,Safe
+Dharamshala,9.0,Fog,9.1,Moderate
+Thiruvananthapuram,28.5,Storm,45.0,Unsafe
+Mysuru,36.8,Fog,16.0,Safe
+Kodaikanal,24.1,Fog,17.1,Safe
+Darjeeling,14.6,Clear,42.1,Safe
+Statue of Unity (Kevadia),25.6,Clear,12.9,Safe
+Srinagar,-2.7,Cloudy,5.7,Safe
+Ajmer,36.4,Clear,35.0,Safe
+Mumbai,31.2,Rain,36.1,Moderate
+Vaishno Devi (Katra),13.6,Fog,34.6,Moderate
+Dharamshala,2.8,Clear,22.1,Safe
+Nashik,22.2,Clear,29.6,Safe
+Visakhapatnam,33.2,Cloudy,15.4,Safe
+Lucknow,30.2,Cloudy,37.9,Safe
+Mysuru,28.3,Rain,28.8,Safe
+Kochi,26.7,Storm,14.8,Moderate
+Pune,30.3,Storm,20.3,Safe
+Shirdi,14.9,Rain,16.4,Safe
+Mysuru,29.1,Clear,13.0,Safe
+Prayagraj,35.0,Clear,33.7,Safe
+Rishikesh & Haridwar,4.8,Clear,25.7,Safe
+Pune,13.3,Clear,35.5,Safe
+Kanyakumari,23.4,Cloudy,7.4,Safe
+Kochi,31.9,Clear,10.3,Safe
+Pune,16.2,Fog,12.4,Safe
+Mumbai,33.4,Clear,6.8,Safe
+Coorg,10.5,Rain,33.0,Moderate
+Bengaluru,31.0,Clear,28.3,Safe
+Dharamshala,-2.3,Fog,37.0,Unsafe
+Manali,5.6,Rain,43.7,Moderate
+Prayagraj,39.7,Clear,29.8,Safe
+Madurai,37.8,Heavy Rain,27.5,Moderate
+Rishikesh & Haridwar,11.7,Cloudy,16.2,Safe
+Kodaikanal,8.7,Clear,29.0,Safe
+Jaisalmer,33.0,Cloudy,28.1,Safe
+Rameswaram,31.8,Cloudy,11.8,Safe
+Udaipur,30.5,Clear,5.3,Safe
+Ajmer,31.3,Clear,5.1,Safe
+Agra,26.1,Fog,9.6,Safe
+Chennai,34.9,Storm,8.8,Moderate
+Varanasi,10.9,Clear,25.2,Safe
+Shimla,12.7,Fog,40.5,Moderate
+Mathura & Vrindavan,11.4,Clear,36.8,Safe
+Varanasi,26.3,Clear,28.6,Safe
+Kanyakumari,32.7,Rain,10.7,Safe
+Udaipur,29.5,Clear,7.7,Safe
+Ooty,13.9,Clear,31.8,Safe
+Udaipur,26.9,Clear,13.3,Safe
+Prayagraj,30.2,Clear,6.6,Safe
+Kodaikanal,16.9,Rain,7.9,Safe
+Pushkar,43.3,Clear,5.8,Safe
+Kochi,30.7,Clear,47.7,Safe
+Nashik,26.9,Clear,20.8,Safe
+Kolkata,17.5,Clear,29.7,Safe
+Statue of Unity (Kevadia),20.6,Clear,27.3,Safe
+Udaipur,37.5,Rain,33.9,Moderate
+Mysuru,33.4,Clear,12.4,Safe
+Srinagar,4.3,Rain,7.5,Moderate
+Nashik,39.6,Clear,7.4,Safe
+Jaisalmer,41.2,Clear,52.8,Moderate
+Dharamshala,5.2,Fog,7.7,Moderate
+Visakhapatnam,22.1,Clear,9.2,Safe
+Statue of Unity (Kevadia),25.6,Rain,16.8,Safe
+Munnar,23.1,Rain,21.2,Safe
+Goa,23.5,Clear,51.3,Moderate
+Nashik,31.2,Cloudy,36.8,Safe
+Mumbai,24.3,Cloudy,58.8,Moderate
+Kolkata,26.9,Cloudy,18.3,Safe
+Hampi,15.1,Cloudy,28.7,Safe
+Jaisalmer,20.8,Clear,22.1,Safe
+Srinagar,11.4,Fog,6.2,Moderate
+Jaipur,11.3,Clear,5.1,Safe
+Thiruvananthapuram,20.2,Clear,6.1,Safe
+Vijayawada,37.0,Clear,22.5,Safe
+Manali,6.8,Rain,25.3,Moderate
+Aurangabad,17.8,Rain,38.1,Moderate
+Kodaikanal,21.6,Cloudy,30.7,Safe
+Nainital,10.6,Rain,27.7,Moderate
+Prayagraj,29.8,Fog,22.0,Safe
+Varanasi,40.0,Rain,43.8,Moderate
+Mysuru,22.3,Clear,42.4,Safe
+Dwarka,32.8,Storm,37.3,Moderate
+Kolkata,20.2,Cloudy,32.9,Safe
+Agra,12.1,Rain,18.2,Safe
+Tirupati,29.9,Rain,37.3,Moderate
+Mumbai,33.1,Clear,45.0,Safe
+Nainital,-3.7,Fog,20.1,Moderate
+Rishikesh & Haridwar,-1.9,Clear,5.3,Safe
+Pune,39.1,Cloudy,19.1,Safe
+Delhi,27.4,Clear,23.4,Safe
+Dharamshala,2.0,Cloudy,9.3,Safe
+Somnath,16.1,Clear,44.0,Safe
+Rishikesh & Haridwar,4.0,Rain,20.6,Moderate
+Jaisalmer,27.8,Clear,7.8,Safe
+Kanyakumari,34.3,Clear,41.2,Safe
+Mysuru,36.5,Clear,28.6,Safe
+Lucknow,35.0,Clear,8.9,Safe
+Dwarka,13.4,Rain,7.9,Safe
+Aurangabad,36.5,Clear,9.9,Safe
+Shimla,11.3,Rain,9.8,Moderate
+Ayodhya,36.3,Rain,30.6,Moderate
+Varanasi,12.1,Clear,31.8,Safe
+Chennai,27.8,Clear,16.3,Safe
+Lucknow,30.6,Rain,7.0,Safe
+Jaisalmer,25.9,Clear,15.5,Safe
+Tirupati,24.6,Clear,10.1,Safe
+Pune,22.0,Clear,29.1,Safe
+Darjeeling,-0.6,Rain,19.8,Moderate
+Shimla,-0.7,Snow,31.1,Unsafe
+Pushkar,42.0,Cloudy,20.9,Safe
+Manali,-1.3,Snow,12.9,Moderate
+Shirdi,18.0,Clear,32.6,Safe
+Shirdi,35.5,Rain,28.8,Safe
+Shirdi,35.5,Clear,21.6,Safe
+Hampi,19.9,Clear,14.5,Safe
+Mumbai,29.6,Rain,17.2,Safe
+Dharamshala,-3.1,Clear,6.2,Safe
+Ahmedabad,33.7,Clear,7.9,Safe
+Nashik,10.0,Fog,24.3,Safe
+Ayodhya,12.2,Storm,30.7,Moderate
+Alleppey,23.3,Clear,56.8,Moderate
+Ahmedabad,28.1,Cloudy,9.1,Safe
+Shimla,1.3,Clear,11.0,Safe
+Mumbai,34.0,Clear,6.2,Safe
+Chennai,30.1,Rain,22.5,Safe
+Shimla,0.3,Fog,8.4,Moderate
+Chennai,24.8,Clear,12.9,Safe
+Dharamshala,11.5,Clear,37.9,Safe
+Coorg,11.4,Rain,14.8,Safe
+Dwarka,10.3,Clear,30.8,Safe
+Prayagraj,20.2,Rain,31.0,Moderate
+Hampi,10.2,Rain,32.6,Moderate
+Ajmer,17.3,Rain,7.2,Safe
+Rameswaram,28.5,Cloudy,19.0,Safe
+Srinagar,7.4,Clear,19.7,Safe
+Madurai,17.3,Clear,37.7,Safe
+Mumbai,27.1,Rain,6.8,Safe
+Thiruvananthapuram,22.1,Clear,10.3,Safe
+Munnar,22.0,Rain,22.9,Safe
+Shimla,2.3,Clear,21.0,Safe
+Munnar,34.6,Clear,41.3,Safe
+Dharamshala,10.1,Fog,24.2,Moderate
+Udaipur,22.1,Clear,20.6,Safe
+Shimla,8.3,Clear,22.8,Safe
+Delhi,10.3,Rain,28.9,Safe
+Kolkata,29.0,Clear,23.9,Safe
+Pushkar,37.9,Clear,31.8,Safe
+Statue of Unity (Kevadia),13.4,Heavy Rain,35.2,Moderate
+Agra,32.5,Rain,14.0,Safe
+Aurangabad,20.0,Clear,41.3,Safe
+Aurangabad,22.7,Clear,12.0,Safe
+Ahmedabad,11.6,Clear,15.6,Safe
+Dharamshala,-0.7,Snow,10.1,Moderate
+Manali,0.5,Cloudy,11.5,Safe
+Dharamshala,5.5,Rain,13.8,Moderate
+Visakhapatnam,22.2,Clear,31.2,Safe
+Pune,31.3,Clear,37.6,Safe
+Jaipur,15.4,Clear,38.7,Safe
+Visakhapatnam,33.9,Cloudy,8.5,Safe
+Visakhapatnam,25.8,Clear,16.1,Safe
+Aurangabad,34.4,Rain,23.1,Safe
+Aurangabad,14.2,Clear,34.4,Safe
+Alleppey,25.2,Fog,18.7,Safe
+Tirupati,12.6,Clear,36.8,Safe
+Dwarka,33.3,Cloudy,10.2,Safe
+Somnath,35.3,Clear,7.3,Safe
+Pushkar,34.2,Clear,15.7,Safe
+Coorg,8.7,Clear,29.2,Safe
+Delhi,22.2,Cloudy,5.1,Safe
+Lucknow,30.0,Clear,20.8,Safe
+Prayagraj,19.2,Rain,27.8,Safe
+Ooty,18.4,Clear,8.2,Safe
+Mumbai,26.2,Rain,44.1,Moderate
+Dharamshala,5.9,Clear,34.0,Safe
+Alleppey,30.9,Clear,18.8,Safe
+Madurai,37.6,Rain,26.7,Safe
+Aurangabad,22.9,Clear,8.6,Safe
+Chennai,31.3,Cloudy,51.7,Moderate
+Prayagraj,26.5,Clear,17.6,Safe
+Bengaluru,29.9,Clear,11.8,Safe
+Statue of Unity (Kevadia),30.7,Storm,10.3,Moderate
+Pune,17.4,Cloudy,28.7,Safe
+Coorg,18.4,Clear,19.8,Safe
+Madurai,32.8,Clear,20.2,Safe
+Goa,20.3,Clear,43.9,Safe
+Pune,12.6,Clear,21.0,Safe
+Shimla,4.8,Fog,7.1,Moderate
+Jaisalmer,44.8,Clear,16.8,Safe
+Nainital,1.1,Clear,27.8,Safe
+Vijayawada,32.3,Rain,21.5,Safe
+Mysuru,24.8,Clear,29.4,Safe
+Jaisalmer,24.5,Clear,33.0,Safe
+Pune,22.6,Fog,19.2,Safe
+Mathura & Vrindavan,37.2,Clear,34.1,Safe
+Lucknow,30.2,Clear,31.5,Safe
+Nainital,14.8,Clear,28.7,Safe
+Aurangabad,28.9,Rain,10.4,Safe
+Mysuru,23.6,Clear,32.7,Safe
+Nainital,-4.9,Cloudy,25.0,Safe
+Alleppey,27.6,Cloudy,56.8,Moderate
+Shimla,6.7,Rain,24.0,Moderate
+Prayagraj,23.5,Clear,39.4,Safe
+Aurangabad,19.5,Storm,35.5,Moderate
+Ahmedabad,26.7,Clear,29.5,Safe
+Coorg,10.4,Rain,11.6,Safe
+Goa,26.7,Cloudy,28.7,Safe
+Madurai,35.9,Cloudy,30.6,Safe
+Pushkar,35.0,Clear,9.5,Safe
+Varanasi,12.9,Rain,29.1,Safe
+Mumbai,25.1,Rain,22.9,Safe
+Coorg,9.4,Cloudy,28.0,Safe
+Prayagraj,37.8,Clear,32.9,Safe
+Nainital,13.7,Fog,24.2,Moderate
+Bengaluru,19.5,Heavy Rain,26.3,Safe
+Ajmer,22.3,Clear,36.3,Safe
+Kanyakumari,34.6,Clear,10.3,Safe
+Rishikesh & Haridwar,7.9,Cloudy,14.8,Safe
+Udaipur,28.6,Clear,23.7,Safe
+Kochi,30.3,Cloudy,7.2,Safe
+Shimla,13.8,Cloudy,21.7,Safe
+Jaisalmer,36.0,Clear,16.7,Safe
+Ayodhya,28.8,Clear,43.3,Safe
+Jaisalmer,32.7,Clear,25.1,Safe
+Rishikesh & Haridwar,-4.7,Clear,10.9,Safe
+Nainital,9.4,Cloudy,9.9,Safe
+Kodaikanal,15.4,Rain,31.4,Moderate
+Chennai,29.9,Clear,21.5,Safe
+Delhi,28.0,Clear,42.5,Safe
+Lucknow,23.6,Cloudy,9.0,Safe
+Pushkar,30.5,Clear,33.0,Safe
+Jaisalmer,27.7,Storm,22.1,Moderate
+Visakhapatnam,31.2,Cloudy,43.5,Safe
+Mathura & Vrindavan,17.3,Clear,22.2,Safe
+Jaisalmer,36.1,Clear,35.0,Safe
+Somnath,11.7,Clear,28.5,Safe
+Darjeeling,4.4,Rain,33.0,Moderate
+Visakhapatnam,33.5,Heavy Rain,32.0,Unsafe
+Kolkata,11.7,Cloudy,7.5,Safe
+Rishikesh & Haridwar,-0.1,Snow,14.9,Moderate
+Somnath,19.4,Clear,12.2,Safe
+Tirupati,26.0,Cloudy,29.7,Safe
+Kolkata,13.2,Clear,44.0,Safe
+Tirupati,29.4,Fog,34.9,Moderate
+Srinagar,0.2,Clear,42.9,Safe
+Manali,-1.4,Heavy Snow,33.8,Unsafe
+Dwarka,32.0,Clear,41.0,Safe
+Ajmer,12.7,Storm,12.3,Moderate
+Shimla,11.0,Clear,40.6,Safe
+Coorg,19.1,Cloudy,32.5,Safe
+Srinagar,-3.0,Snow,40.9,Unsafe
+Aurangabad,33.1,Clear,27.6,Safe
+Agra,23.9,Clear,13.5,Safe
+Kanyakumari,32.0,Rain,45.4,Moderate
+Rameswaram,32.2,Rain,24.3,Safe
+Nainital,-1.9,Snow,42.5,Unsafe
+Bengaluru,39.5,Cloudy,25.7,Safe
+Tirupati,32.3,Cloudy,14.5,Safe
+Ayodhya,30.4,Fog,19.9,Safe
+Manali,-1.7,Clear,41.6,Safe
+Mumbai,30.4,Clear,33.2,Safe
+Delhi,15.2,Fog,25.7,Safe
+Mumbai,26.1,Cloudy,13.0,Safe
+Visakhapatnam,20.1,Heavy Rain,18.7,Moderate
+Rameswaram,21.9,Rain,19.8,Safe
+Mathura & Vrindavan,18.2,Fog,10.9,Safe
+Srinagar,7.9,Rain,10.0,Moderate
+Kochi,25.4,Clear,53.7,Moderate
+Goa,34.2,Fog,11.2,Safe
+Manali,-3.9,Clear,7.6,Safe
+Kolkata,10.2,Rain,35.2,Moderate
+Shimla,9.2,Cloudy,14.1,Safe
+Darjeeling,7.8,Fog,12.6,Moderate
+Madurai,21.2,Clear,27.6,Safe
+Shimla,3.1,Clear,42.7,Safe
+Shirdi,27.1,Clear,6.9,Safe
+Ajmer,28.1,Clear,26.2,Safe
+Coorg,11.3,Clear,7.8,Safe
+Statue of Unity (Kevadia),28.4,Clear,29.2,Safe
+Ahmedabad,19.7,Rain,22.4,Safe
+Coorg,12.3,Cloudy,31.9,Safe
+Kodaikanal,10.2,Fog,8.4,Safe
+Visakhapatnam,34.9,Heavy Rain,14.4,Moderate
+Dharamshala,13.6,Clear,9.5,Safe
+Ayodhya,18.6,Fog,24.6,Safe
+Mysuru,24.4,Cloudy,40.7,Safe
+Mathura & Vrindavan,29.1,Clear,37.0,Safe
+Nainital,11.0,Clear,38.0,Safe
+Coorg,18.0,Rain,8.2,Safe
+Visakhapatnam,34.2,Rain,55.0,Moderate
+Kochi,29.0,Rain,57.0,Moderate
+Nashik,17.4,Cloudy,36.4,Safe
+Dwarka,22.3,Clear,27.4,Safe
+Bengaluru,31.7,Rain,11.9,Safe
+Tirupati,38.7,Storm,17.5,Moderate
+Jodhpur,36.5,Clear,19.5,Safe
+Ajmer,28.8,Clear,37.2,Safe
+Kodaikanal,16.6,Fog,10.3,Safe
+Bengaluru,37.2,Cloudy,17.0,Safe
+Somnath,14.1,Clear,22.1,Safe
+Somnath,34.3,Cloudy,39.4,Safe
+Udaipur,23.5,Heavy Rain,8.7,Moderate
+Kanyakumari,23.7,Clear,27.7,Safe
+Dharamshala,8.5,Fog,32.0,Moderate
+Madurai,20.2,Rain,43.2,Moderate
+Kodaikanal,15.0,Clear,12.8,Safe
+Dwarka,27.5,Cloudy,31.7,Safe
+Ajmer,27.6,Clear,28.5,Safe
+Aurangabad,35.4,Rain,36.7,Moderate
+Ooty,11.0,Fog,22.6,Safe
+Jodhpur,36.6,Clear,29.1,Safe
+Kodaikanal,8.9,Clear,24.3,Safe
+Dwarka,14.7,Clear,15.8,Safe
+Darjeeling,2.5,Cloudy,18.8,Safe
+Ajmer,26.0,Cloudy,37.9,Safe
+Rishikesh & Haridwar,14.2,Fog,19.2,Moderate
+Ahmedabad,11.4,Clear,9.2,Safe
+Agra,33.1,Clear,22.0,Safe
+Kolkata,28.8,Storm,37.9,Moderate
+Jaisalmer,43.1,Clear,30.5,Moderate
+Madurai,26.6,Clear,5.4,Safe
+Coorg,13.5,Clear,7.2,Safe
+Udaipur,27.5,Clear,13.8,Safe
+Dharamshala,7.4,Clear,43.9,Safe
+Shimla,-3.6,Snow,20.7,Unsafe
+Lucknow,10.6,Fog,39.5,Moderate
+Srinagar,-1.0,Rain,12.9,Moderate
+Rishikesh & Haridwar,7.1,Rain,35.0,Moderate
+Visakhapatnam,29.0,Cloudy,17.7,Safe
+Nainital,6.9,Rain,26.0,Moderate
+Ayodhya,18.6,Rain,18.9,Safe
+Alleppey,26.8,Clear,58.8,Moderate
+Ajmer,34.7,Clear,16.9,Safe
+Nashik,11.4,Rain,10.0,Safe
+Kochi,26.9,Storm,54.8,Unsafe
+Statue of Unity (Kevadia),23.2,Heavy Rain,16.5,Moderate
+Munnar,26.4,Clear,17.3,Safe
+Shimla,15.0,Fog,19.7,Moderate
+Nainital,4.1,Rain,26.9,Moderate
+Aurangabad,36.7,Fog,30.3,Moderate
+Bengaluru,16.1,Cloudy,15.3,Safe
+Thiruvananthapuram,28.8,Storm,34.9,Unsafe
+Kodaikanal,22.9,Clear,21.0,Safe
+Jaisalmer,24.3,Clear,55.6,Moderate
+Ajmer,24.1,Clear,30.7,Safe
+Udaipur,19.2,Heavy Rain,27.9,Moderate
+Statue of Unity (Kevadia),12.0,Cloudy,13.3,Safe
+Chennai,33.7,Rain,58.2,Moderate
+Pushkar,33.1,Clear,7.6,Safe
+Somnath,39.3,Rain,31.0,Moderate
+Madurai,21.7,Heavy Rain,18.3,Moderate
+Mathura & Vrindavan,12.0,Clear,17.1,Safe
+Ahmedabad,12.3,Clear,29.5,Safe
+Bengaluru,12.1,Clear,42.8,Safe
+Rameswaram,22.1,Clear,16.4,Safe
+Dwarka,36.8,Cloudy,6.7,Safe
+Alleppey,25.2,Rain,51.9,Moderate
+Chennai,21.7,Clear,30.2,Safe
+Agra,10.7,Clear,18.1,Safe
+Mathura & Vrindavan,23.9,Cloudy,36.7,Safe
+Delhi,39.2,Clear,30.8,Safe
+Mysuru,18.7,Clear,17.2,Safe
+Vaishno Devi (Katra),6.9,Rain,11.7,Moderate
+Shimla,11.1,Fog,36.4,Moderate
+Pushkar,23.9,Clear,30.4,Safe
+Goa,27.8,Clear,48.7,Safe
+Pune,37.3,Clear,17.2,Safe
+Madurai,19.1,Fog,18.3,Safe
+Udaipur,13.3,Cloudy,24.1,Safe
+Alleppey,33.9,Cloudy,38.1,Safe
+Somnath,24.0,Fog,24.2,Safe
+Shimla,6.1,Cloudy,10.1,Safe
+Jaipur,28.8,Cloudy,8.4,Safe
+Dharamshala,-2.2,Fog,27.5,Moderate
+Ooty,24.4,Fog,24.4,Safe
+Alleppey,32.3,Rain,29.9,Safe
+Statue of Unity (Kevadia),18.2,Clear,36.4,Safe
+Jaisalmer,44.2,Clear,19.1,Safe
+Thiruvananthapuram,33.8,Clear,57.6,Moderate
+Bengaluru,36.1,Rain,5.5,Safe
+Jaipur,26.0,Clear,27.4,Safe
+Kochi,27.4,Clear,19.3,Safe
+Goa,21.3,Heavy Rain,37.7,Unsafe
+Mysuru,39.5,Cloudy,38.7,Safe
+Rameswaram,23.8,Cloudy,54.7,Moderate
+Kolkata,18.2,Rain,39.7,Moderate
+Rameswaram,33.3,Rain,6.6,Safe
+Nainital,5.8,Rain,6.8,Moderate
+Lucknow,21.9,Clear,9.9,Safe
+Pushkar,32.1,Cloudy,13.7,Safe
+Delhi,27.9,Clear,16.3,Safe
+Visakhapatnam,24.1,Rain,46.5,Moderate
+Ooty,13.0,Clear,30.3,Safe
+Pushkar,20.9,Clear,26.6,Safe
+Mysuru,22.4,Clear,12.2,Safe
+Jaipur,37.7,Rain,12.7,Safe
+Kochi,29.1,Clear,55.6,Moderate
+Dwarka,10.2,Clear,32.5,Safe
+Goa,31.6,Cloudy,40.3,Safe
+Pune,31.2,Clear,10.4,Safe
+Rishikesh & Haridwar,6.6,Cloudy,20.5,Safe
+Srinagar,6.6,Clear,16.6,Safe
+Mysuru,13.7,Clear,23.0,Safe
+Jaipur,33.0,Clear,6.2,Safe
+Shirdi,31.4,Cloudy,21.9,Safe
+Ajmer,25.1,Clear,38.3,Safe
+Amritsar,27.9,Rain,42.5,Moderate
+Delhi,24.1,Clear,43.7,Safe
+Aurangabad,39.3,Clear,8.6,Safe
+Ahmedabad,29.7,Clear,36.2,Safe
+Amritsar,39.3,Clear,10.4,Safe
+Thiruvananthapuram,23.4,Fog,39.8,Moderate
+Somnath,10.8,Cloudy,40.7,Safe
+Jaisalmer,22.1,Clear,28.4,Safe
+Kolkata,18.2,Clear,15.6,Safe
+Mysuru,37.5,Rain,30.8,Moderate
+Manali,-0.1,Clear,38.0,Safe
+Ahmedabad,34.4,Clear,11.8,Safe
+Shirdi,25.2,Rain,9.0,Safe
+Ayodhya,14.5,Rain,21.4,Safe
+Vijayawada,38.5,Clear,36.0,Safe
+Thiruvananthapuram,24.8,Cloudy,36.6,Safe
+Somnath,25.1,Clear,41.0,Safe
+Nainital,14.1,Fog,33.8,Moderate
+Darjeeling,14.4,Rain,14.8,Moderate
+Ayodhya,15.8,Cloudy,7.9,Safe
+Pushkar,28.4,Clear,22.8,Safe
+Ayodhya,37.0,Clear,8.5,Safe
+Ooty,21.0,Fog,29.2,Safe
+Mysuru,38.0,Storm,16.5,Moderate
+Ooty,10.6,Clear,17.8,Safe
+Mumbai,27.9,Clear,44.0,Safe
+Kodaikanal,19.8,Clear,33.3,Safe
+Pushkar,38.4,Clear,15.1,Safe
+Agra,29.2,Clear,44.2,Safe
+Madurai,13.2,Clear,17.3,Safe
+Srinagar,5.6,Clear,30.0,Safe
+Darjeeling,2.5,Clear,44.1,Safe
+Rameswaram,34.4,Rain,55.5,Moderate
+Agra,18.0,Clear,22.4,Safe
+Srinagar,10.4,Clear,26.6,Safe
+Amritsar,32.6,Cloudy,11.6,Safe
+Chennai,30.6,Clear,36.0,Safe
+Rishikesh & Haridwar,1.9,Heavy Snow,34.0,Unsafe
+Dharamshala,9.3,Fog,23.2,Moderate
+Shimla,10.3,Cloudy,30.8,Safe
+Kanyakumari,34.1,Clear,46.0,Safe
+Rameswaram,34.0,Clear,52.3,Moderate
+Varanasi,10.8,Clear,31.0,Safe
+Delhi,23.1,Clear,29.8,Safe
+Ahmedabad,35.8,Clear,40.7,Safe
+Jodhpur,36.4,Cloudy,11.0,Safe
+Jaipur,39.3,Clear,6.8,Safe
+Munnar,25.3,Heavy Rain,52.7,Unsafe
+Hampi,18.1,Rain,26.0,Safe
+Kodaikanal,14.6,Fog,29.0,Safe
+Dwarka,26.4,Clear,16.6,Safe
+Ayodhya,24.2,Fog,36.3,Moderate
+Kochi,30.0,Cloudy,10.4,Safe
+Kochi,29.7,Cloudy,6.3,Safe
+Shimla,2.7,Cloudy,12.2,Safe
+Rameswaram,30.5,Clear,41.1,Safe
+Mumbai,21.0,Fog,46.6,Moderate
+Jaisalmer,29.3,Clear,33.7,Safe
+Kodaikanal,16.4,Clear,34.1,Safe
+Kanyakumari,28.4,Clear,59.3,Moderate
+Jaisalmer,35.0,Clear,18.2,Safe
+Rishikesh & Haridwar,-0.9,Clear,16.9,Safe
+Munnar,29.7,Clear,34.0,Safe
+Nashik,10.6,Rain,14.8,Safe
+Shimla,-1.0,Clear,11.1,Safe
+Shimla,7.7,Clear,43.7,Safe
+Ajmer,21.2,Rain,31.5,Moderate
+Ayodhya,23.5,Rain,18.8,Safe
+Jaipur,15.8,Clear,28.8,Safe
+Coorg,23.2,Rain,15.8,Safe
+Ayodhya,27.3,Rain,35.7,Moderate
+Pushkar,33.2,Clear,26.3,Safe
+Dharamshala,6.0,Fog,34.6,Moderate
+Ahmedabad,24.8,Clear,32.2,Safe
+Madurai,24.5,Clear,22.5,Safe
+Thiruvananthapuram,20.5,Clear,34.6,Safe
+Vijayawada,27.3,Clear,9.0,Safe
+Udaipur,16.1,Clear,26.4,Safe
+Agra,18.2,Clear,26.6,Safe
+Delhi,18.7,Clear,21.0,Safe
+Mysuru,39.1,Clear,6.2,Safe
+Ajmer,28.2,Clear,7.9,Safe
+Vaishno Devi (Katra),12.8,Cloudy,17.3,Safe
+Munnar,25.6,Cloudy,45.9,Safe
+Jaisalmer,38.1,Clear,28.7,Safe
+Coorg,9.0,Clear,30.5,Safe
+Ayodhya,19.0,Clear,38.1,Safe
+Coorg,12.3,Cloudy,33.1,Safe
+Pune,20.3,Heavy Rain,26.9,Safe
+Agra,19.0,Clear,21.3,Safe
+Somnath,25.3,Rain,25.3,Safe
+Somnath,22.9,Clear,10.5,Safe
+Vaishno Devi (Katra),8.8,Cloudy,16.7,Safe
+Ajmer,26.9,Cloudy,36.6,Safe
+Kanyakumari,34.1,Cloudy,10.6,Safe
+Nashik,29.9,Clear,35.1,Safe
+Agra,31.2,Clear,34.4,Safe
+Kodaikanal,11.9,Rain,13.9,Safe
+Chennai,30.8,Cloudy,55.4,Moderate
+Amritsar,12.5,Clear,43.1,Safe
+Chennai,33.6,Clear,36.6,Safe
+Manali,7.9,Cloudy,7.1,Safe
+Lucknow,29.7,Clear,27.6,Safe
+Statue of Unity (Kevadia),36.0,Fog,41.2,Moderate
+Srinagar,3.1,Clear,32.0,Safe
+Ooty,16.6,Rain,8.7,Safe
+Udaipur,26.6,Storm,8.1,Moderate
+Vaishno Devi (Katra),7.3,Clear,36.2,Safe
+Ooty,8.2,Fog,24.4,Safe
+Udaipur,24.2,Cloudy,36.4,Safe
+Shirdi,22.5,Clear,35.7,Safe
+Tirupati,34.1,Clear,6.8,Safe
+Varanasi,29.1,Clear,19.8,Safe
+Ahmedabad,19.9,Clear,36.8,Safe
+Goa,25.1,Rain,6.8,Safe
+Rameswaram,31.5,Cloudy,11.2,Safe
+Delhi,34.6,Cloudy,18.4,Safe
+Amritsar,19.4,Rain,36.8,Moderate
+Kanyakumari,33.7,Cloudy,26.4,Safe
+Prayagraj,28.3,Rain,42.9,Moderate
+Somnath,15.5,Clear,7.1,Safe
+Jaipur,38.1,Clear,14.6,Safe
+Ayodhya,39.3,Clear,36.8,Safe
+Statue of Unity (Kevadia),14.3,Rain,34.4,Moderate
+Mysuru,13.4,Rain,36.1,Moderate
+Ooty,23.1,Clear,12.1,Safe
+Statue of Unity (Kevadia),35.0,Clear,13.1,Safe
+Nainital,9.1,Cloudy,37.3,Safe
+Kanyakumari,28.3,Clear,20.4,Safe
+Vaishno Devi (Katra),5.8,Fog,28.9,Moderate
+Jaisalmer,30.7,Storm,37.4,Moderate
+Vaishno Devi (Katra),7.1,Clear,31.5,Safe
+Amritsar,33.9,Heavy Rain,9.0,Moderate
+Srinagar,2.5,Cloudy,16.2,Safe
+Tirupati,26.6,Clear,15.1,Safe
+Bengaluru,22.9,Rain,29.3,Safe
+Alleppey,25.0,Rain,45.7,Moderate
+Visakhapatnam,27.3,Cloudy,17.0,Safe
+Srinagar,-2.1,Cloudy,30.5,Moderate
+Agra,21.4,Clear,19.1,Safe
+Thiruvananthapuram,33.7,Storm,49.6,Unsafe
+Kanyakumari,27.9,Rain,49.1,Moderate
+Kochi,24.1,Rain,22.0,Safe
+Dwarka,19.4,Fog,33.5,Moderate
+Pushkar,42.8,Clear,19.7,Safe
+Kochi,22.9,Heavy Rain,8.5,Moderate
+Rishikesh & Haridwar,-4.9,Cloudy,42.1,Moderate
+Ajmer,34.9,Fog,25.1,Safe
+Shirdi,35.4,Heavy Rain,9.9,Moderate
+Varanasi,32.2,Cloudy,22.1,Safe
+Udaipur,18.9,Cloudy,37.4,Safe
+Ahmedabad,32.0,Clear,25.1,Safe
+Prayagraj,20.9,Rain,30.0,Moderate
+Alleppey,33.1,Clear,29.0,Safe
+Shimla,-3.4,Clear,24.0,Safe
+Vijayawada,15.3,Cloudy,30.2,Safe
+Mysuru,28.0,Clear,26.9,Safe
+Goa,35.0,Rain,45.2,Moderate
+Amritsar,36.0,Clear,21.5,Safe
+Alleppey,25.7,Clear,43.9,Safe
+Mysuru,37.7,Rain,25.9,Safe
+Ahmedabad,24.6,Clear,9.4,Safe
+Rishikesh & Haridwar,12.3,Rain,35.0,Moderate
+Kodaikanal,19.6,Rain,34.2,Moderate
+Shirdi,23.9,Clear,5.9,Safe
+Mysuru,22.4,Rain,38.4,Moderate
+Ahmedabad,12.5,Clear,11.0,Safe
+Pune,22.1,Clear,16.2,Safe
+Thiruvananthapuram,23.6,Heavy Rain,50.7,Unsafe
+Ahmedabad,19.3,Rain,43.2,Moderate
+Nainital,-3.3,Cloudy,5.3,Safe
+Kochi,28.3,Heavy Rain,51.8,Unsafe
+Pune,27.7,Clear,42.0,Safe
+Darjeeling,4.8,Rain,28.5,Moderate
+Vaishno Devi (Katra),-3.4,Clear,34.5,Moderate
+Chennai,23.5,Rain,57.5,Moderate
+Prayagraj,39.4,Clear,27.1,Safe
+Somnath,20.9,Rain,36.3,Moderate
+Thiruvananthapuram,27.5,Rain,59.9,Moderate
+Coorg,23.6,Fog,15.0,Safe
+Amritsar,25.1,Clear,28.0,Safe
+Vaishno Devi (Katra),12.9,Cloudy,20.6,Safe
+Nashik,18.1,Fog,32.0,Moderate
+Mumbai,26.9,Clear,5.2,Safe
+Ajmer,11.4,Clear,42.7,Safe
+Mathura & Vrindavan,13.7,Clear,40.6,Safe
+Coorg,10.4,Clear,26.6,Safe
+Hampi,21.4,Cloudy,12.1,Safe
+Ajmer,26.9,Clear,11.5,Safe
+Dwarka,22.9,Rain,5.0,Safe
+Agra,23.7,Rain,31.7,Moderate
+Mumbai,25.7,Rain,7.3,Safe
+Visakhapatnam,28.8,Cloudy,45.5,Safe
+Pushkar,22.8,Clear,50.0,Moderate
+Chennai,33.3,Clear,16.3,Safe
+Hampi,20.8,Clear,10.0,Safe
+Udaipur,29.4,Clear,8.3,Safe
+Somnath,21.4,Storm,8.1,Moderate
+Manali,6.0,Clear,28.6,Safe
+Kodaikanal,14.8,Rain,13.2,Safe
+Dwarka,11.9,Rain,19.1,Safe
+Chennai,33.7,Clear,53.5,Moderate
+Kolkata,14.6,Rain,39.8,Moderate
+Mumbai,21.0,Clear,31.7,Safe
+Agra,15.5,Clear,36.9,Safe
+Ajmer,33.6,Clear,7.7,Safe
+Nashik,18.9,Rain,23.1,Safe
+Dharamshala,0.3,Cloudy,12.4,Safe
+Madurai,22.3,Clear,30.3,Safe
+Rishikesh & Haridwar,7.1,Cloudy,20.0,Safe
+Manali,-4.1,Heavy Snow,23.5,Unsafe
+Dwarka,11.7,Clear,21.2,Safe
+Prayagraj,24.7,Rain,8.7,Safe
+Kolkata,17.3,Clear,24.9,Safe
+Hampi,18.0,Rain,18.1,Safe
+Jaisalmer,35.1,Clear,9.4,Safe
+Hampi,10.5,Clear,5.5,Safe
+Statue of Unity (Kevadia),29.9,Clear,23.6,Safe
+Rameswaram,30.6,Clear,31.2,Safe
+Amritsar,10.0,Rain,42.4,Moderate
+Thiruvananthapuram,30.4,Cloudy,27.8,Safe
+Aurangabad,15.5,Heavy Rain,42.8,Moderate
+Chennai,22.5,Rain,14.3,Safe
+Vaishno Devi (Katra),1.4,Clear,44.1,Safe
+Ajmer,17.7,Clear,15.2,Safe
+Darjeeling,12.0,Fog,30.3,Moderate
+Mysuru,20.9,Cloudy,20.4,Safe
+Statue of Unity (Kevadia),38.0,Rain,17.7,Safe
+Kolkata,11.1,Clear,40.8,Safe
+Tirupati,37.2,Cloudy,26.7,Safe
+Goa,24.5,Heavy Rain,46.4,Unsafe
+Coorg,8.8,Rain,8.9,Safe
+Kochi,34.2,Clear,22.0,Safe
+Somnath,16.9,Cloudy,18.2,Safe
+Vaishno Devi (Katra),6.5,Clear,30.2,Safe
+Kochi,26.2,Clear,55.2,Moderate
+Statue of Unity (Kevadia),26.2,Rain,5.3,Safe
+Mumbai,20.9,Clear,53.3,Moderate
+Chennai,33.0,Clear,32.7,Safe
+Amritsar,32.7,Rain,28.4,Safe
+Kochi,30.5,Rain,37.7,Moderate
+Rishikesh & Haridwar,14.0,Cloudy,20.4,Safe
+Amritsar,10.9,Rain,34.0,Moderate
+Madurai,34.4,Rain,37.2,Moderate
+Tirupati,16.6,Rain,22.4,Safe
+Jodhpur,43.5,Clear,18.2,Safe
+Thiruvananthapuram,34.1,Fog,16.8,Safe
+Visakhapatnam,32.5,Clear,34.9,Safe
+Shirdi,12.5,Cloudy,9.6,Safe
+Somnath,21.3,Clear,8.1,Safe
+Pune,13.4,Storm,9.9,Safe
+Bengaluru,37.8,Clear,43.5,Safe
+Mysuru,39.6,Clear,32.5,Safe
+Vaishno Devi (Katra),6.9,Clear,27.2,Safe
+Vaishno Devi (Katra),0.7,Heavy Snow,32.3,Unsafe
+Darjeeling,14.1,Cloudy,6.1,Safe
+Jodhpur,22.9,Clear,13.4,Safe
+Delhi,37.4,Clear,37.8,Safe
+Bengaluru,31.2,Cloudy,10.4,Safe
+Jaisalmer,41.2,Cloudy,21.0,Safe
+Jodhpur,27.1,Clear,27.2,Safe
+Ahmedabad,11.8,Clear,13.6,Safe
+Somnath,32.0,Fog,31.5,Moderate
+Hampi,11.8,Fog,23.5,Safe
+Ooty,20.0,Clear,29.7,Safe
+Goa,20.1,Cloudy,59.3,Moderate
+Dwarka,34.2,Heavy Rain,23.4,Moderate
+Mysuru,19.9,Clear,31.9,Safe
+Hampi,10.6,Rain,25.1,Safe
+Shimla,-3.5,Snow,37.1,Unsafe
+Ayodhya,20.2,Fog,35.2,Moderate
+Jaisalmer,23.2,Clear,30.7,Safe
+Rameswaram,26.6,Rain,39.5,Moderate
+Vijayawada,11.3,Rain,24.0,Safe
+Prayagraj,31.1,Clear,15.1,Safe
+Rishikesh & Haridwar,2.5,Clear,23.4,Safe
+Rameswaram,30.4,Heavy Rain,41.2,Unsafe
+Rishikesh & Haridwar,10.0,Cloudy,21.3,Safe
+Ayodhya,12.0,Rain,19.7,Safe
+Ooty,21.6,Rain,23.6,Safe
+Munnar,29.5,Rain,36.1,Moderate
+Jodhpur,41.4,Clear,9.5,Safe
+Bengaluru,10.7,Clear,26.5,Safe
+Jaisalmer,44.9,Clear,11.7,Safe
+Jaisalmer,27.3,Clear,12.6,Safe
+Rameswaram,22.1,Cloudy,15.2,Safe
+Darjeeling,1.8,Rain,35.1,Moderate
+Jaipur,33.5,Clear,18.1,Safe
+Nainital,13.1,Clear,15.6,Safe
+Ahmedabad,32.4,Clear,25.5,Safe
+Srinagar,6.1,Rain,44.4,Moderate
+Prayagraj,12.6,Rain,24.5,Safe
+Delhi,25.4,Clear,39.7,Safe
+Shirdi,28.2,Clear,21.6,Safe
+Kolkata,21.3,Clear,24.0,Safe
+Rishikesh & Haridwar,-0.4,Clear,14.3,Safe
+Nainital,5.3,Clear,22.5,Safe
+Lucknow,19.8,Clear,34.9,Safe
+Vijayawada,15.6,Clear,34.3,Safe
+Jodhpur,22.2,Clear,30.1,Safe
+Pune,20.5,Clear,38.8,Safe
+Udaipur,23.9,Clear,32.8,Safe
+Varanasi,17.5,Fog,22.7,Safe
+Munnar,34.5,Rain,49.6,Moderate
+Pune,12.9,Clear,35.1,Safe
+Mathura & Vrindavan,31.8,Clear,29.1,Safe
+Lucknow,14.3,Cloudy,6.2,Safe
+Srinagar,8.9,Fog,16.8,Moderate
+Alleppey,31.3,Fog,22.8,Safe
+Srinagar,11.2,Fog,31.3,Moderate
+Ooty,22.3,Clear,24.4,Safe
+Rameswaram,31.4,Fog,47.4,Moderate
+Lucknow,29.3,Cloudy,5.9,Safe
+Ooty,13.2,Clear,19.7,Safe
+Tirupati,12.0,Clear,34.0,Safe
+Kochi,23.2,Cloudy,22.6,Safe
+Nainital,14.8,Clear,12.1,Safe
+Somnath,25.8,Clear,32.9,Safe
+Vaishno Devi (Katra),8.2,Clear,27.0,Safe
+Kanyakumari,24.0,Clear,8.7,Safe
+Mumbai,27.1,Heavy Rain,59.3,Unsafe
+Manali,5.2,Clear,13.7,Safe
+Agra,32.6,Heavy Rain,43.1,Moderate
+Amritsar,33.6,Clear,6.7,Safe
+Bengaluru,15.6,Clear,39.3,Safe
+Munnar,33.8,Rain,59.6,Moderate
+Jodhpur,44.4,Clear,15.1,Safe
+Statue of Unity (Kevadia),30.2,Clear,11.1,Safe
+Ooty,20.8,Rain,7.6,Safe
+Delhi,23.1,Clear,37.0,Safe
+Alleppey,23.6,Rain,40.5,Moderate
+Bengaluru,14.7,Clear,19.1,Safe
+Mumbai,28.4,Clear,22.4,Safe
+Ahmedabad,29.8,Storm,17.9,Safe
+Varanasi,30.5,Cloudy,15.7,Safe
+Thiruvananthapuram,34.1,Clear,24.6,Safe
+Madurai,30.3,Clear,35.1,Safe
+Udaipur,23.7,Rain,33.5,Moderate
+Vijayawada,28.9,Clear,42.5,Safe
+Visakhapatnam,26.6,Clear,41.1,Safe
+Jodhpur,36.1,Cloudy,23.2,Safe
+Pushkar,30.7,Clear,33.4,Safe
+Pune,19.8,Clear,16.3,Safe
+Prayagraj,27.3,Fog,45.0,Moderate
+Pune,30.4,Clear,29.9,Safe
+Nashik,31.2,Cloudy,10.0,Safe
+Chennai,28.0,Rain,7.9,Safe
+Jaipur,27.2,Clear,34.5,Safe
+Pushkar,30.2,Clear,16.4,Safe
+Chennai,34.0,Clear,27.5,Safe
+Munnar,33.7,Clear,25.7,Safe
+Kolkata,12.7,Rain,10.9,Safe
+Dwarka,29.8,Clear,24.9,Safe
+Bengaluru,26.9,Clear,35.6,Safe
+Tirupati,10.2,Cloudy,26.5,Safe
+Coorg,24.5,Fog,7.6,Safe
+Goa,30.4,Clear,35.4,Safe
+Delhi,30.5,Cloudy,15.5,Safe
+Jaisalmer,44.7,Clear,38.3,Moderate
+Agra,38.8,Cloudy,38.1,Safe
+Coorg,13.7,Rain,10.4,Safe
+Kanyakumari,33.8,Clear,12.2,Safe
+Jaisalmer,39.9,Clear,21.9,Safe
+Pune,13.2,Clear,31.3,Safe
+Udaipur,15.3,Clear,41.0,Safe
+Ooty,21.6,Rain,24.8,Safe
+Mathura & Vrindavan,39.6,Cloudy,20.6,Safe
+Ajmer,34.2,Cloudy,20.1,Safe
+Srinagar,12.8,Clear,12.4,Safe
+Shimla,8.2,Cloudy,39.9,Safe
+Somnath,20.5,Clear,22.8,Safe
+Nainital,6.7,Fog,29.6,Moderate
+Kodaikanal,23.8,Clear,18.7,Safe
+Jaipur,18.3,Clear,23.0,Safe
+Nashik,23.6,Clear,23.6,Safe
+Madurai,24.4,Clear,25.3,Safe
+Mysuru,34.0,Heavy Rain,19.1,Moderate
+Agra,37.1,Cloudy,17.0,Safe
+Ajmer,34.7,Clear,11.8,Safe
+Ahmedabad,25.1,Cloudy,7.1,Safe
+Statue of Unity (Kevadia),10.8,Fog,43.4,Moderate
+Rishikesh & Haridwar,11.0,Cloudy,11.9,Safe
+Mathura & Vrindavan,13.3,Clear,17.0,Safe
+Delhi,21.3,Clear,41.3,Safe
+Kochi,34.6,Clear,36.2,Safe
+Rameswaram,22.1,Rain,46.4,Moderate

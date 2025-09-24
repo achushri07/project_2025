@@ -1,0 +1,5001 @@
+Destination,Condition
+Bengaluru,Clear
+Udaipur,Clear
+Jodhpur,Clear
+Ooty,Cloudy
+Madurai,Rain
+Agra,Fog
+Ayodhya,Clear
+Jaipur,Rain
+Jaipur,Fog
+Mysuru,Fog
+Jaipur,Rain
+Prayagraj,Clear
+Kanyakumari,Rain
+Madurai,Rain
+Delhi,Heavy Rain
+Kolkata,Clear
+Ooty,Clear
+Somnath,Clear
+Hampi,Cloudy
+Ooty,Clear
+Kanyakumari,Cloudy
+Delhi,Cloudy
+Kodaikanal,Clear
+Chennai,Rain
+Amritsar,Heavy Rain
+Ayodhya,Rain
+Thiruvananthapuram,Cloudy
+Lucknow,Clear
+Goa,Rain
+Mathura & Vrindavan,Clear
+Mumbai,Fog
+Lucknow,Rain
+Srinagar,Cloudy
+Srinagar,Cloudy
+Hampi,Cloudy
+Udaipur,Clear
+Kolkata,Cloudy
+Dharamshala,Clear
+Vaishno Devi (Katra),Cloudy
+Pune,Clear
+Kolkata,Fog
+Shimla,Clear
+Varanasi,Clear
+Varanasi,Cloudy
+Rameswaram,Clear
+Alleppey,Clear
+Kochi,Clear
+Goa,Clear
+Ahmedabad,Clear
+Jodhpur,Clear
+Goa,Clear
+Goa,Clear
+Jaipur,Rain
+Pushkar,Clear
+Kodaikanal,Clear
+Delhi,Clear
+Kodaikanal,Rain
+Agra,Cloudy
+Mysuru,Cloudy
+Udaipur,Clear
+Nashik,Clear
+Dharamshala,Heavy Snow
+Manali,Rain
+Munnar,Cloudy
+Varanasi,Clear
+Jodhpur,Clear
+Somnath,Rain
+Shirdi,Clear
+Darjeeling,Fog
+Amritsar,Clear
+Mumbai,Cloudy
+Varanasi,Clear
+Prayagraj,Clear
+Prayagraj,Cloudy
+Ooty,Clear
+Aurangabad,Clear
+Madurai,Clear
+Pushkar,Clear
+Udaipur,Rain
+Kochi,Cloudy
+Somnath,Rain
+Ahmedabad,Clear
+Shimla,Fog
+Mysuru,Storm
+Delhi,Rain
+Vijayawada,Storm
+Madurai,Fog
+Chennai,Cloudy
+Amritsar,Clear
+Munnar,Rain
+Shimla,Rain
+Mathura & Vrindavan,Clear
+Agra,Clear
+Tirupati,Clear
+Mathura & Vrindavan,Storm
+Amritsar,Clear
+Ajmer,Rain
+Statue of Unity (Kevadia),Fog
+Lucknow,Rain
+Varanasi,Cloudy
+Bengaluru,Clear
+Mysuru,Storm
+Aurangabad,Clear
+Rishikesh & Haridwar,Clear
+Mathura & Vrindavan,Rain
+Prayagraj,Fog
+Kanyakumari,Clear
+Visakhapatnam,Rain
+Nainital,Cloudy
+Visakhapatnam,Cloudy
+Vijayawada,Clear
+Ooty,Clear
+Manali,Clear
+Madurai,Clear
+Nashik,Rain
+Darjeeling,Clear
+Aurangabad,Cloudy
+Pune,Rain
+Prayagraj,Fog
+Nashik,Clear
+Visakhapatnam,Clear
+Ooty,Rain
+Srinagar,Clear
+Agra,Clear
+Shirdi,Clear
+Amritsar,Clear
+Shirdi,Rain
+Amritsar,Rain
+Pushkar,Clear
+Ahmedabad,Clear
+Manali,Snow
+Ahmedabad,Cloudy
+Mumbai,Cloudy
+Visakhapatnam,Clear
+Alleppey,Cloudy
+Thiruvananthapuram,Storm
+Rishikesh & Haridwar,Clear
+Kolkata,Heavy Rain
+Kanyakumari,Clear
+Agra,Rain
+Darjeeling,Clear
+Munnar,Rain
+Srinagar,Cloudy
+Munnar,Heavy Rain
+Rishikesh & Haridwar,Rain
+Dwarka,Clear
+Ajmer,Clear
+Kolkata,Rain
+Pushkar,Clear
+Udaipur,Clear
+Vijayawada,Fog
+Alleppey,Rain
+Goa,Clear
+Vaishno Devi (Katra),Fog
+Coorg,Cloudy
+Varanasi,Clear
+Pushkar,Clear
+Pushkar,Clear
+Darjeeling,Snow
+Agra,Fog
+Aurangabad,Cloudy
+Ahmedabad,Fog
+Rameswaram,Cloudy
+Kodaikanal,Clear
+Agra,Clear
+Kolkata,Rain
+Ooty,Clear
+Bengaluru,Heavy Rain
+Delhi,Clear
+Pune,Cloudy
+Statue of Unity (Kevadia),Clear
+Coorg,Rain
+Jodhpur,Clear
+Delhi,Fog
+Mathura & Vrindavan,Clear
+Dwarka,Clear
+Thiruvananthapuram,Clear
+Statue of Unity (Kevadia),Clear
+Prayagraj,Clear
+Hampi,Rain
+Goa,Rain
+Pushkar,Clear
+Mumbai,Rain
+Agra,Cloudy
+Pushkar,Cloudy
+Kolkata,Fog
+Darjeeling,Cloudy
+Darjeeling,Clear
+Ayodhya,Rain
+Coorg,Cloudy
+Chennai,Rain
+Kochi,Clear
+Alleppey,Clear
+Goa,Clear
+Pune,Heavy Rain
+Ooty,Fog
+Rameswaram,Rain
+Pushkar,Clear
+Munnar,Rain
+Dharamshala,Clear
+Munnar,Cloudy
+Madurai,Clear
+Jaisalmer,Clear
+Dharamshala,Cloudy
+Dwarka,Rain
+Aurangabad,Heavy Rain
+Nashik,Clear
+Statue of Unity (Kevadia),Clear
+Alleppey,Heavy Rain
+Kanyakumari,Rain
+Ahmedabad,Clear
+Kanyakumari,Clear
+Darjeeling,Clear
+Jaipur,Clear
+Thiruvananthapuram,Fog
+Nashik,Cloudy
+Srinagar,Fog
+Varanasi,Clear
+Kochi,Cloudy
+Ooty,Clear
+Mysuru,Clear
+Madurai,Rain
+Nainital,Clear
+Dwarka,Clear
+Mysuru,Heavy Rain
+Ahmedabad,Rain
+Jodhpur,Clear
+Jaisalmer,Clear
+Prayagraj,Clear
+Nashik,Clear
+Chennai,Clear
+Kochi,Rain
+Tirupati,Clear
+Nainital,Clear
+Prayagraj,Clear
+Dwarka,Clear
+Dwarka,Cloudy
+Chennai,Cloudy
+Jaisalmer,Cloudy
+Srinagar,Clear
+Kanyakumari,Storm
+Chennai,Clear
+Thiruvananthapuram,Heavy Rain
+Thiruvananthapuram,Rain
+Visakhapatnam,Rain
+Coorg,Cloudy
+Aurangabad,Rain
+Vijayawada,Clear
+Hampi,Clear
+Amritsar,Clear
+Amritsar,Clear
+Shimla,Clear
+Mysuru,Clear
+Vijayawada,Rain
+Shirdi,Rain
+Rameswaram,Cloudy
+Kolkata,Heavy Rain
+Pune,Rain
+Mathura & Vrindavan,Cloudy
+Chennai,Clear
+Bengaluru,Cloudy
+Shirdi,Rain
+Shirdi,Clear
+Rishikesh & Haridwar,Clear
+Vijayawada,Clear
+Hampi,Rain
+Jaipur,Clear
+Udaipur,Clear
+Pushkar,Clear
+Agra,Rain
+Chennai,Clear
+Tirupati,Clear
+Vaishno Devi (Katra),Rain
+Varanasi,Cloudy
+Coorg,Clear
+Dwarka,Rain
+Vijayawada,Clear
+Jaisalmer,Storm
+Darjeeling,Fog
+Vijayawada,Heavy Rain
+Goa,Fog
+Nainital,Rain
+Madurai,Clear
+Tirupati,Clear
+Mysuru,Rain
+Alleppey,Storm
+Tirupati,Clear
+Dwarka,Fog
+Mumbai,Storm
+Ayodhya,Fog
+Mathura & Vrindavan,Cloudy
+Ajmer,Clear
+Nashik,Heavy Rain
+Aurangabad,Clear
+Delhi,Clear
+Chennai,Rain
+Nashik,Clear
+Shirdi,Clear
+Manali,Cloudy
+Kodaikanal,Clear
+Agra,Cloudy
+Mathura & Vrindavan,Clear
+Dwarka,Rain
+Vijayawada,Clear
+Pushkar,Clear
+Nainital,Fog
+Goa,Storm
+Pushkar,Clear
+Prayagraj,Rain
+Coorg,Rain
+Ahmedabad,Clear
+Darjeeling,Rain
+Nashik,Fog
+Vaishno Devi (Katra),Clear
+Mysuru,Clear
+Kanyakumari,Heavy Rain
+Coorg,Clear
+Jodhpur,Clear
+Srinagar,Rain
+Kolkata,Cloudy
+Srinagar,Clear
+Alleppey,Clear
+Aurangabad,Clear
+Delhi,Heavy Rain
+Mathura & Vrindavan,Cloudy
+Kanyakumari,Clear
+Jaipur,Clear
+Ayodhya,Cloudy
+Shimla,Clear
+Manali,Cloudy
+Alleppey,Clear
+Mathura & Vrindavan,Clear
+Shimla,Clear
+Kodaikanal,Rain
+Mathura & Vrindavan,Cloudy
+Rameswaram,Rain
+Rameswaram,Rain
+Ayodhya,Rain
+Munnar,Clear
+Kodaikanal,Cloudy
+Manali,Clear
+Thiruvananthapuram,Storm
+Tirupati,Clear
+Shirdi,Clear
+Kolkata,Cloudy
+Darjeeling,Clear
+Amritsar,Cloudy
+Delhi,Rain
+Pune,Storm
+Aurangabad,Clear
+Delhi,Clear
+Alleppey,Rain
+Tirupati,Rain
+Prayagraj,Rain
+Srinagar,Clear
+Prayagraj,Clear
+Dwarka,Clear
+Lucknow,Heavy Rain
+Kodaikanal,Rain
+Mumbai,Cloudy
+Mathura & Vrindavan,Clear
+Varanasi,Clear
+Kochi,Cloudy
+Shirdi,Clear
+Chennai,Fog
+Delhi,Storm
+Varanasi,Clear
+Mathura & Vrindavan,Clear
+Chennai,Clear
+Rishikesh & Haridwar,Clear
+Alleppey,Fog
+Kolkata,Cloudy
+Bengaluru,Rain
+Pune,Clear
+Shirdi,Fog
+Shimla,Cloudy
+Dwarka,Clear
+Prayagraj,Clear
+Ooty,Rain
+Dharamshala,Clear
+Munnar,Rain
+Dharamshala,Clear
+Udaipur,Rain
+Shirdi,Heavy Rain
+Visakhapatnam,Clear
+Bengaluru,Clear
+Goa,Clear
+Lucknow,Fog
+Tirupati,Rain
+Jaipur,Rain
+Bengaluru,Heavy Rain
+Goa,Fog
+Ahmedabad,Clear
+Varanasi,Clear
+Rameswaram,Clear
+Jaisalmer,Cloudy
+Mysuru,Rain
+Mysuru,Clear
+Munnar,Clear
+Ahmedabad,Heavy Rain
+Ooty,Rain
+Thiruvananthapuram,Heavy Rain
+Madurai,Rain
+Jodhpur,Clear
+Darjeeling,Rain
+Aurangabad,Fog
+Coorg,Clear
+Rameswaram,Heavy Rain
+Lucknow,Rain
+Pushkar,Clear
+Kodaikanal,Clear
+Ahmedabad,Clear
+Jodhpur,Clear
+Visakhapatnam,Clear
+Mathura & Vrindavan,Cloudy
+Manali,Clear
+Agra,Rain
+Vaishno Devi (Katra),Clear
+Statue of Unity (Kevadia),Heavy Rain
+Pushkar,Clear
+Udaipur,Clear
+Pushkar,Cloudy
+Nashik,Clear
+Tirupati,Clear
+Aurangabad,Clear
+Vaishno Devi (Katra),Fog
+Ayodhya,Clear
+Vijayawada,Rain
+Vaishno Devi (Katra),Cloudy
+Ayodhya,Cloudy
+Madurai,Heavy Rain
+Rishikesh & Haridwar,Clear
+Coorg,Clear
+Pushkar,Clear
+Pune,Rain
+Ajmer,Clear
+Shirdi,Clear
+Alleppey,Clear
+Agra,Cloudy
+Pushkar,Clear
+Darjeeling,Rain
+Varanasi,Cloudy
+Udaipur,Clear
+Hampi,Clear
+Mysuru,Clear
+Mysuru,Cloudy
+Nashik,Rain
+Goa,Clear
+Prayagraj,Rain
+Varanasi,Rain
+Jodhpur,Clear
+Somnath,Rain
+Rishikesh & Haridwar,Rain
+Visakhapatnam,Storm
+Goa,Clear
+Tirupati,Clear
+Aurangabad,Clear
+Ajmer,Cloudy
+Darjeeling,Clear
+Rameswaram,Clear
+Tirupati,Fog
+Rameswaram,Cloudy
+Vijayawada,Clear
+Somnath,Fog
+Udaipur,Clear
+Kolkata,Fog
+Jodhpur,Clear
+Goa,Storm
+Srinagar,Rain
+Goa,Clear
+Ajmer,Clear
+Jodhpur,Clear
+Ayodhya,Rain
+Jaisalmer,Clear
+Ajmer,Fog
+Pushkar,Clear
+Jaisalmer,Clear
+Hampi,Fog
+Madurai,Fog
+Prayagraj,Clear
+Shimla,Clear
+Alleppey,Clear
+Bengaluru,Heavy Rain
+Somnath,Rain
+Alleppey,Rain
+Amritsar,Fog
+Varanasi,Clear
+Delhi,Cloudy
+Prayagraj,Cloudy
+Chennai,Rain
+Lucknow,Cloudy
+Vijayawada,Rain
+Kanyakumari,Heavy Rain
+Pushkar,Cloudy
+Ayodhya,Rain
+Alleppey,Rain
+Ayodhya,Heavy Rain
+Lucknow,Clear
+Mysuru,Rain
+Kolkata,Clear
+Kochi,Rain
+Kochi,Rain
+Agra,Clear
+Rishikesh & Haridwar,Cloudy
+Vijayawada,Rain
+Varanasi,Clear
+Visakhapatnam,Fog
+Madurai,Storm
+Bengaluru,Rain
+Pune,Rain
+Kochi,Clear
+Udaipur,Clear
+Mumbai,Rain
+Kanyakumari,Clear
+Varanasi,Clear
+Kodaikanal,Clear
+Jaipur,Clear
+Varanasi,Rain
+Mathura & Vrindavan,Rain
+Dharamshala,Clear
+Shimla,Rain
+Kochi,Cloudy
+Kodaikanal,Fog
+Jaisalmer,Clear
+Aurangabad,Clear
+Lucknow,Heavy Rain
+Manali,Clear
+Ahmedabad,Clear
+Kolkata,Clear
+Vaishno Devi (Katra),Clear
+Ajmer,Rain
+Kodaikanal,Rain
+Darjeeling,Clear
+Prayagraj,Heavy Rain
+Kochi,Clear
+Kolkata,Cloudy
+Ayodhya,Fog
+Darjeeling,Cloudy
+Jodhpur,Clear
+Srinagar,Snow
+Mumbai,Cloudy
+Ajmer,Fog
+Bengaluru,Clear
+Nainital,Clear
+Shimla,Rain
+Somnath,Rain
+Darjeeling,Fog
+Thiruvananthapuram,Fog
+Darjeeling,Cloudy
+Ayodhya,Rain
+Dwarka,Rain
+Shirdi,Cloudy
+Alleppey,Clear
+Ayodhya,Clear
+Jaipur,Clear
+Visakhapatnam,Rain
+Nainital,Clear
+Vaishno Devi (Katra),Clear
+Srinagar,Cloudy
+Dwarka,Clear
+Manali,Rain
+Somnath,Cloudy
+Dwarka,Clear
+Aurangabad,Cloudy
+Kodaikanal,Clear
+Srinagar,Heavy Snow
+Munnar,Clear
+Coorg,Clear
+Jodhpur,Storm
+Munnar,Clear
+Srinagar,Cloudy
+Kochi,Cloudy
+Munnar,Rain
+Jaipur,Clear
+Varanasi,Rain
+Srinagar,Clear
+Kodaikanal,Clear
+Thiruvananthapuram,Rain
+Dwarka,Clear
+Alleppey,Clear
+Ooty,Clear
+Nainital,Cloudy
+Tirupati,Rain
+Alleppey,Clear
+Vijayawada,Cloudy
+Delhi,Clear
+Nainital,Cloudy
+Aurangabad,Clear
+Rameswaram,Clear
+Amritsar,Clear
+Kochi,Cloudy
+Visakhapatnam,Heavy Rain
+Nashik,Clear
+Nainital,Fog
+Amritsar,Clear
+Ooty,Cloudy
+Ahmedabad,Heavy Rain
+Aurangabad,Rain
+Ooty,Clear
+Coorg,Clear
+Rameswaram,Rain
+Manali,Cloudy
+Kodaikanal,Rain
+Nainital,Clear
+Nainital,Clear
+Darjeeling,Snow
+Chennai,Rain
+Jaisalmer,Clear
+Manali,Clear
+Vaishno Devi (Katra),Rain
+Prayagraj,Cloudy
+Nainital,Clear
+Mysuru,Rain
+Mathura & Vrindavan,Clear
+Manali,Fog
+Aurangabad,Clear
+Vijayawada,Rain
+Madurai,Fog
+Varanasi,Clear
+Tirupati,Clear
+Mysuru,Rain
+Dwarka,Clear
+Ayodhya,Clear
+Dwarka,Fog
+Rishikesh & Haridwar,Rain
+Amritsar,Heavy Rain
+Bengaluru,Cloudy
+Vijayawada,Rain
+Mumbai,Clear
+Lucknow,Clear
+Visakhapatnam,Clear
+Ayodhya,Clear
+Prayagraj,Clear
+Statue of Unity (Kevadia),Rain
+Pune,Clear
+Rameswaram,Cloudy
+Ooty,Rain
+Dharamshala,Clear
+Amritsar,Rain
+Darjeeling,Fog
+Statue of Unity (Kevadia),Rain
+Ahmedabad,Cloudy
+Jaisalmer,Clear
+Shirdi,Clear
+Shimla,Fog
+Kochi,Rain
+Delhi,Clear
+Manali,Rain
+Rameswaram,Cloudy
+Shimla,Rain
+Kochi,Rain
+Madurai,Clear
+Goa,Clear
+Udaipur,Clear
+Chennai,Clear
+Shirdi,Clear
+Munnar,Clear
+Ayodhya,Clear
+Kodaikanal,Clear
+Tirupati,Clear
+Ooty,Rain
+Varanasi,Clear
+Darjeeling,Rain
+Ooty,Rain
+Aurangabad,Fog
+Jodhpur,Clear
+Ayodhya,Rain
+Ahmedabad,Clear
+Munnar,Rain
+Mathura & Vrindavan,Rain
+Darjeeling,Clear
+Agra,Clear
+Kodaikanal,Cloudy
+Madurai,Rain
+Mumbai,Rain
+Dwarka,Clear
+Delhi,Clear
+Vijayawada,Clear
+Manali,Rain
+Delhi,Storm
+Ajmer,Fog
+Chennai,Clear
+Ooty,Fog
+Kochi,Clear
+Thiruvananthapuram,Clear
+Rishikesh & Haridwar,Fog
+Agra,Clear
+Pune,Rain
+Manali,Fog
+Srinagar,Rain
+Dharamshala,Clear
+Goa,Heavy Rain
+Agra,Fog
+Jaipur,Clear
+Mumbai,Clear
+Jaipur,Clear
+Agra,Rain
+Visakhapatnam,Storm
+Shirdi,Clear
+Ayodhya,Heavy Rain
+Amritsar,Clear
+Thiruvananthapuram,Rain
+Ahmedabad,Rain
+Jodhpur,Clear
+Amritsar,Clear
+Srinagar,Rain
+Aurangabad,Fog
+Prayagraj,Storm
+Kolkata,Clear
+Kolkata,Rain
+Thiruvananthapuram,Fog
+Bengaluru,Clear
+Agra,Rain
+Manali,Cloudy
+Somnath,Rain
+Coorg,Cloudy
+Darjeeling,Fog
+Ayodhya,Clear
+Visakhapatnam,Storm
+Ahmedabad,Clear
+Alleppey,Cloudy
+Ooty,Fog
+Rameswaram,Rain
+Munnar,Cloudy
+Pushkar,Clear
+Amritsar,Clear
+Madurai,Clear
+Madurai,Cloudy
+Jaisalmer,Cloudy
+Jodhpur,Clear
+Srinagar,Fog
+Chennai,Clear
+Munnar,Storm
+Tirupati,Clear
+Srinagar,Clear
+Srinagar,Cloudy
+Lucknow,Rain
+Rameswaram,Clear
+Dwarka,Clear
+Prayagraj,Rain
+Jodhpur,Clear
+Ayodhya,Clear
+Darjeeling,Rain
+Thiruvananthapuram,Clear
+Srinagar,Clear
+Ajmer,Clear
+Chennai,Clear
+Rameswaram,Clear
+Ayodhya,Clear
+Goa,Fog
+Nashik,Clear
+Statue of Unity (Kevadia),Clear
+Vaishno Devi (Katra),Cloudy
+Srinagar,Cloudy
+Alleppey,Rain
+Prayagraj,Clear
+Aurangabad,Heavy Rain
+Udaipur,Heavy Rain
+Manali,Fog
+Dwarka,Rain
+Kochi,Storm
+Tirupati,Clear
+Bengaluru,Rain
+Dwarka,Clear
+Thiruvananthapuram,Rain
+Madurai,Clear
+Ooty,Clear
+Jaisalmer,Clear
+Ajmer,Rain
+Coorg,Clear
+Shirdi,Clear
+Kodaikanal,Rain
+Coorg,Rain
+Lucknow,Clear
+Munnar,Rain
+Darjeeling,Clear
+Madurai,Cloudy
+Lucknow,Cloudy
+Kodaikanal,Cloudy
+Munnar,Storm
+Jaisalmer,Clear
+Shirdi,Cloudy
+Thiruvananthapuram,Fog
+Jodhpur,Clear
+Thiruvananthapuram,Fog
+Ajmer,Clear
+Alleppey,Clear
+Ooty,Clear
+Dwarka,Clear
+Visakhapatnam,Clear
+Udaipur,Clear
+Hampi,Cloudy
+Goa,Cloudy
+Agra,Fog
+Srinagar,Fog
+Mumbai,Clear
+Varanasi,Clear
+Statue of Unity (Kevadia),Clear
+Goa,Cloudy
+Ooty,Cloudy
+Pushkar,Clear
+Bengaluru,Clear
+Nashik,Rain
+Vijayawada,Cloudy
+Jaipur,Fog
+Alleppey,Heavy Rain
+Delhi,Clear
+Nainital,Cloudy
+Prayagraj,Heavy Rain
+Vaishno Devi (Katra),Rain
+Rameswaram,Clear
+Bengaluru,Cloudy
+Kodaikanal,Clear
+Bengaluru,Cloudy
+Statue of Unity (Kevadia),Clear
+Ahmedabad,Clear
+Shirdi,Clear
+Kolkata,Clear
+Srinagar,Rain
+Nashik,Fog
+Kanyakumari,Clear
+Vaishno Devi (Katra),Cloudy
+Delhi,Clear
+Nainital,Clear
+Jodhpur,Clear
+Vijayawada,Clear
+Kanyakumari,Clear
+Tirupati,Rain
+Alleppey,Cloudy
+Kolkata,Cloudy
+Dharamshala,Clear
+Mumbai,Storm
+Lucknow,Fog
+Srinagar,Clear
+Somnath,Cloudy
+Jaisalmer,Clear
+Vaishno Devi (Katra),Rain
+Madurai,Clear
+Jaisalmer,Cloudy
+Jaisalmer,Clear
+Nainital,Clear
+Lucknow,Clear
+Mysuru,Clear
+Rameswaram,Rain
+Lucknow,Cloudy
+Nainital,Cloudy
+Pune,Clear
+Thiruvananthapuram,Clear
+Srinagar,Fog
+Rishikesh & Haridwar,Cloudy
+Hampi,Clear
+Varanasi,Clear
+Visakhapatnam,Rain
+Kolkata,Clear
+Udaipur,Rain
+Prayagraj,Clear
+Vijayawada,Storm
+Mathura & Vrindavan,Clear
+Shimla,Clear
+Jaisalmer,Clear
+Dwarka,Cloudy
+Statue of Unity (Kevadia),Cloudy
+Udaipur,Rain
+Goa,Clear
+Darjeeling,Clear
+Jaisalmer,Clear
+Rameswaram,Clear
+Ajmer,Clear
+Shirdi,Clear
+Amritsar,Clear
+Pune,Rain
+Ayodhya,Clear
+Prayagraj,Rain
+Dharamshala,Cloudy
+Statue of Unity (Kevadia),Clear
+Ajmer,Clear
+Delhi,Cloudy
+Ooty,Fog
+Bengaluru,Clear
+Ooty,Rain
+Hampi,Rain
+Tirupati,Clear
+Jaipur,Cloudy
+Somnath,Clear
+Ayodhya,Clear
+Hampi,Rain
+Goa,Cloudy
+Kochi,Clear
+Chennai,Storm
+Thiruvananthapuram,Clear
+Delhi,Clear
+Vaishno Devi (Katra),Cloudy
+Dwarka,Clear
+Jodhpur,Clear
+Rishikesh & Haridwar,Snow
+Ahmedabad,Cloudy
+Aurangabad,Fog
+Somnath,Clear
+Somnath,Fog
+Statue of Unity (Kevadia),Cloudy
+Madurai,Clear
+Somnath,Clear
+Rishikesh & Haridwar,Fog
+Udaipur,Clear
+Srinagar,Snow
+Kanyakumari,Cloudy
+Jodhpur,Clear
+Prayagraj,Clear
+Somnath,Rain
+Rishikesh & Haridwar,Rain
+Chennai,Rain
+Bengaluru,Clear
+Jaipur,Clear
+Aurangabad,Heavy Rain
+Munnar,Clear
+Jaipur,Clear
+Darjeeling,Clear
+Shimla,Clear
+Rishikesh & Haridwar,Clear
+Agra,Clear
+Goa,Heavy Rain
+Bengaluru,Cloudy
+Visakhapatnam,Cloudy
+Rameswaram,Clear
+Nainital,Cloudy
+Kolkata,Rain
+Munnar,Heavy Rain
+Vaishno Devi (Katra),Fog
+Rameswaram,Rain
+Visakhapatnam,Clear
+Varanasi,Clear
+Manali,Rain
+Coorg,Fog
+Ayodhya,Storm
+Aurangabad,Clear
+Varanasi,Clear
+Shimla,Clear
+Somnath,Clear
+Agra,Rain
+Vaishno Devi (Katra),Clear
+Jodhpur,Clear
+Thiruvananthapuram,Fog
+Amritsar,Rain
+Mysuru,Cloudy
+Mysuru,Clear
+Bengaluru,Fog
+Mysuru,Clear
+Pune,Clear
+Mathura & Vrindavan,Clear
+Nashik,Cloudy
+Delhi,Clear
+Amritsar,Clear
+Ayodhya,Rain
+Munnar,Rain
+Chennai,Rain
+Mathura & Vrindavan,Cloudy
+Vijayawada,Cloudy
+Jaipur,Rain
+Amritsar,Heavy Rain
+Ajmer,Heavy Rain
+Bengaluru,Clear
+Ooty,Clear
+Kolkata,Rain
+Bengaluru,Rain
+Darjeeling,Clear
+Goa,Cloudy
+Agra,Rain
+Vijayawada,Clear
+Pune,Cloudy
+Jodhpur,Clear
+Hampi,Clear
+Varanasi,Rain
+Mathura & Vrindavan,Clear
+Visakhapatnam,Cloudy
+Ajmer,Clear
+Dwarka,Heavy Rain
+Dwarka,Clear
+Mumbai,Cloudy
+Kochi,Clear
+Darjeeling,Rain
+Rameswaram,Heavy Rain
+Prayagraj,Clear
+Goa,Clear
+Delhi,Clear
+Ahmedabad,Clear
+Mumbai,Clear
+Jaisalmer,Clear
+Agra,Clear
+Srinagar,Cloudy
+Vaishno Devi (Katra),Clear
+Kanyakumari,Rain
+Tirupati,Clear
+Manali,Clear
+Nashik,Rain
+Rishikesh & Haridwar,Clear
+Amritsar,Storm
+Nashik,Cloudy
+Dwarka,Clear
+Jaisalmer,Cloudy
+Mumbai,Cloudy
+Manali,Cloudy
+Goa,Clear
+Rameswaram,Rain
+Darjeeling,Cloudy
+Shimla,Fog
+Ajmer,Clear
+Amritsar,Clear
+Dharamshala,Rain
+Jaisalmer,Clear
+Ajmer,Cloudy
+Munnar,Rain
+Hampi,Clear
+Alleppey,Rain
+Munnar,Rain
+Pune,Clear
+Shirdi,Rain
+Varanasi,Clear
+Vaishno Devi (Katra),Rain
+Statue of Unity (Kevadia),Clear
+Manali,Clear
+Goa,Clear
+Vaishno Devi (Katra),Cloudy
+Agra,Clear
+Goa,Clear
+Hampi,Clear
+Bengaluru,Clear
+Pushkar,Clear
+Rishikesh & Haridwar,Rain
+Vaishno Devi (Katra),Rain
+Bengaluru,Storm
+Hampi,Rain
+Vaishno Devi (Katra),Cloudy
+Udaipur,Rain
+Somnath,Fog
+Alleppey,Cloudy
+Kochi,Clear
+Agra,Clear
+Hampi,Rain
+Vijayawada,Clear
+Ooty,Cloudy
+Hampi,Rain
+Shirdi,Rain
+Jaipur,Clear
+Coorg,Cloudy
+Tirupati,Fog
+Mysuru,Clear
+Ajmer,Heavy Rain
+Agra,Cloudy
+Udaipur,Clear
+Goa,Cloudy
+Mumbai,Heavy Rain
+Vijayawada,Clear
+Pushkar,Clear
+Udaipur,Cloudy
+Ajmer,Fog
+Ajmer,Clear
+Srinagar,Clear
+Delhi,Clear
+Bengaluru,Heavy Rain
+Varanasi,Clear
+Kanyakumari,Cloudy
+Tirupati,Rain
+Mumbai,Clear
+Kodaikanal,Rain
+Lucknow,Rain
+Vaishno Devi (Katra),Clear
+Aurangabad,Rain
+Ahmedabad,Clear
+Mathura & Vrindavan,Clear
+Prayagraj,Rain
+Jodhpur,Clear
+Somnath,Fog
+Munnar,Heavy Rain
+Lucknow,Cloudy
+Kochi,Clear
+Shirdi,Heavy Rain
+Ooty,Clear
+Rameswaram,Clear
+Munnar,Clear
+Shirdi,Clear
+Prayagraj,Clear
+Alleppey,Clear
+Chennai,Clear
+Ayodhya,Clear
+Dwarka,Storm
+Dharamshala,Rain
+Chennai,Heavy Rain
+Agra,Fog
+Manali,Clear
+Jaipur,Heavy Rain
+Nashik,Heavy Rain
+Manali,Clear
+Prayagraj,Clear
+Darjeeling,Clear
+Amritsar,Clear
+Mathura & Vrindavan,Clear
+Prayagraj,Clear
+Ooty,Cloudy
+Ayodhya,Cloudy
+Darjeeling,Fog
+Agra,Rain
+Aurangabad,Clear
+Alleppey,Clear
+Coorg,Clear
+Prayagraj,Clear
+Hampi,Rain
+Thiruvananthapuram,Rain
+Aurangabad,Clear
+Alleppey,Cloudy
+Agra,Heavy Rain
+Nashik,Clear
+Prayagraj,Clear
+Chennai,Heavy Rain
+Kodaikanal,Clear
+Somnath,Clear
+Jaipur,Rain
+Madurai,Clear
+Manali,Clear
+Mathura & Vrindavan,Clear
+Rishikesh & Haridwar,Rain
+Ayodhya,Cloudy
+Ahmedabad,Cloudy
+Vijayawada,Fog
+Agra,Heavy Rain
+Udaipur,Clear
+Mathura & Vrindavan,Clear
+Alleppey,Heavy Rain
+Shimla,Clear
+Amritsar,Heavy Rain
+Pune,Clear
+Ajmer,Clear
+Rishikesh & Haridwar,Clear
+Chennai,Rain
+Madurai,Storm
+Vijayawada,Heavy Rain
+Rishikesh & Haridwar,Rain
+Delhi,Clear
+Nashik,Cloudy
+Hampi,Clear
+Lucknow,Rain
+Kochi,Clear
+Vaishno Devi (Katra),Rain
+Agra,Rain
+Kanyakumari,Clear
+Ajmer,Clear
+Statue of Unity (Kevadia),Rain
+Mysuru,Rain
+Somnath,Rain
+Vaishno Devi (Katra),Clear
+Coorg,Fog
+Ahmedabad,Clear
+Delhi,Rain
+Statue of Unity (Kevadia),Cloudy
+Nainital,Fog
+Coorg,Rain
+Mumbai,Clear
+Tirupati,Cloudy
+Shimla,Clear
+Vaishno Devi (Katra),Rain
+Srinagar,Fog
+Thiruvananthapuram,Cloudy
+Ahmedabad,Cloudy
+Coorg,Fog
+Jaipur,Storm
+Alleppey,Cloudy
+Rishikesh & Haridwar,Rain
+Aurangabad,Clear
+Mysuru,Clear
+Madurai,Cloudy
+Kochi,Heavy Rain
+Coorg,Cloudy
+Pushkar,Cloudy
+Rameswaram,Cloudy
+Dwarka,Rain
+Munnar,Rain
+Varanasi,Fog
+Hampi,Fog
+Vijayawada,Clear
+Manali,Cloudy
+Goa,Cloudy
+Dharamshala,Cloudy
+Nainital,Snow
+Munnar,Cloudy
+Shirdi,Clear
+Delhi,Cloudy
+Jaipur,Clear
+Mathura & Vrindavan,Rain
+Ahmedabad,Heavy Rain
+Dharamshala,Rain
+Dharamshala,Clear
+Kodaikanal,Clear
+Kochi,Cloudy
+Hampi,Cloudy
+Srinagar,Rain
+Jaipur,Clear
+Statue of Unity (Kevadia),Clear
+Chennai,Rain
+Mysuru,Clear
+Kolkata,Clear
+Mumbai,Clear
+Tirupati,Rain
+Pune,Clear
+Statue of Unity (Kevadia),Clear
+Rameswaram,Rain
+Jaisalmer,Clear
+Ooty,Cloudy
+Visakhapatnam,Rain
+Lucknow,Storm
+Kodaikanal,Clear
+Jaisalmer,Clear
+Dwarka,Clear
+Vijayawada,Clear
+Darjeeling,Clear
+Vaishno Devi (Katra),Snow
+Nainital,Clear
+Darjeeling,Rain
+Tirupati,Cloudy
+Somnath,Fog
+Lucknow,Clear
+Darjeeling,Clear
+Kolkata,Clear
+Jaisalmer,Clear
+Darjeeling,Clear
+Mysuru,Rain
+Kodaikanal,Rain
+Coorg,Cloudy
+Kolkata,Rain
+Ahmedabad,Clear
+Dwarka,Clear
+Mysuru,Clear
+Mathura & Vrindavan,Clear
+Shirdi,Clear
+Mathura & Vrindavan,Cloudy
+Bengaluru,Clear
+Rishikesh & Haridwar,Fog
+Ajmer,Clear
+Varanasi,Clear
+Darjeeling,Fog
+Kanyakumari,Clear
+Prayagraj,Clear
+Goa,Cloudy
+Lucknow,Clear
+Goa,Cloudy
+Mysuru,Rain
+Nashik,Rain
+Shimla,Fog
+Ahmedabad,Clear
+Jaipur,Clear
+Manali,Clear
+Shimla,Rain
+Srinagar,Clear
+Ahmedabad,Heavy Rain
+Mathura & Vrindavan,Clear
+Rameswaram,Clear
+Hampi,Cloudy
+Thiruvananthapuram,Rain
+Dharamshala,Clear
+Jaipur,Clear
+Manali,Clear
+Ayodhya,Cloudy
+Jodhpur,Clear
+Ajmer,Rain
+Mumbai,Heavy Rain
+Tirupati,Rain
+Kodaikanal,Cloudy
+Mumbai,Fog
+Statue of Unity (Kevadia),Cloudy
+Coorg,Clear
+Goa,Clear
+Mathura & Vrindavan,Rain
+Nashik,Clear
+Ahmedabad,Clear
+Pushkar,Clear
+Pune,Cloudy
+Delhi,Clear
+Ahmedabad,Clear
+Ajmer,Clear
+Alleppey,Clear
+Ajmer,Clear
+Kodaikanal,Rain
+Vijayawada,Rain
+Hampi,Cloudy
+Nainital,Cloudy
+Munnar,Heavy Rain
+Agra,Clear
+Ajmer,Clear
+Hampi,Clear
+Chennai,Cloudy
+Chennai,Rain
+Mumbai,Cloudy
+Manali,Clear
+Ooty,Rain
+Rishikesh & Haridwar,Rain
+Shimla,Rain
+Manali,Fog
+Srinagar,Clear
+Lucknow,Clear
+Pune,Clear
+Jodhpur,Clear
+Aurangabad,Cloudy
+Chennai,Clear
+Bengaluru,Clear
+Ajmer,Rain
+Srinagar,Clear
+Munnar,Rain
+Mumbai,Rain
+Shimla,Clear
+Rishikesh & Haridwar,Fog
+Madurai,Rain
+Ayodhya,Rain
+Munnar,Fog
+Varanasi,Cloudy
+Ajmer,Clear
+Kodaikanal,Rain
+Madurai,Cloudy
+Vijayawada,Clear
+Statue of Unity (Kevadia),Cloudy
+Kochi,Clear
+Udaipur,Fog
+Madurai,Clear
+Statue of Unity (Kevadia),Clear
+Ajmer,Clear
+Prayagraj,Clear
+Rameswaram,Cloudy
+Shirdi,Clear
+Manali,Cloudy
+Mathura & Vrindavan,Clear
+Agra,Clear
+Ayodhya,Rain
+Shirdi,Clear
+Nashik,Clear
+Udaipur,Clear
+Chennai,Clear
+Aurangabad,Clear
+Coorg,Clear
+Statue of Unity (Kevadia),Cloudy
+Kodaikanal,Clear
+Manali,Heavy Snow
+Ahmedabad,Clear
+Darjeeling,Clear
+Mysuru,Clear
+Mumbai,Cloudy
+Delhi,Rain
+Ayodhya,Cloudy
+Kolkata,Rain
+Manali,Cloudy
+Nashik,Clear
+Vijayawada,Clear
+Jodhpur,Clear
+Coorg,Clear
+Vaishno Devi (Katra),Snow
+Statue of Unity (Kevadia),Clear
+Bengaluru,Heavy Rain
+Dharamshala,Clear
+Jaipur,Rain
+Manali,Cloudy
+Kodaikanal,Clear
+Vijayawada,Cloudy
+Lucknow,Clear
+Ooty,Cloudy
+Somnath,Cloudy
+Amritsar,Cloudy
+Munnar,Cloudy
+Jodhpur,Clear
+Hampi,Rain
+Kodaikanal,Rain
+Chennai,Cloudy
+Visakhapatnam,Cloudy
+Pushkar,Clear
+Kodaikanal,Cloudy
+Lucknow,Rain
+Chennai,Cloudy
+Rameswaram,Rain
+Munnar,Cloudy
+Kodaikanal,Rain
+Coorg,Clear
+Goa,Clear
+Amritsar,Clear
+Nainital,Fog
+Manali,Cloudy
+Bengaluru,Clear
+Somnath,Clear
+Udaipur,Fog
+Bengaluru,Clear
+Dharamshala,Rain
+Ooty,Cloudy
+Mumbai,Cloudy
+Vaishno Devi (Katra),Rain
+Hampi,Clear
+Hampi,Rain
+Vijayawada,Clear
+Rameswaram,Heavy Rain
+Pushkar,Clear
+Kanyakumari,Rain
+Goa,Rain
+Srinagar,Clear
+Mysuru,Clear
+Goa,Storm
+Bengaluru,Clear
+Jaipur,Rain
+Pune,Rain
+Nainital,Clear
+Hampi,Rain
+Agra,Rain
+Bengaluru,Clear
+Manali,Cloudy
+Vijayawada,Clear
+Rishikesh & Haridwar,Heavy Snow
+Prayagraj,Fog
+Alleppey,Rain
+Kochi,Clear
+Chennai,Heavy Rain
+Udaipur,Rain
+Shirdi,Clear
+Shirdi,Clear
+Kodaikanal,Rain
+Hampi,Clear
+Ahmedabad,Clear
+Jaipur,Clear
+Chennai,Storm
+Darjeeling,Cloudy
+Kochi,Cloudy
+Ayodhya,Clear
+Pune,Rain
+Rishikesh & Haridwar,Clear
+Kodaikanal,Clear
+Rameswaram,Clear
+Ahmedabad,Clear
+Hampi,Clear
+Jodhpur,Clear
+Rameswaram,Heavy Rain
+Dwarka,Cloudy
+Coorg,Rain
+Prayagraj,Rain
+Prayagraj,Clear
+Kodaikanal,Rain
+Shirdi,Rain
+Mysuru,Cloudy
+Tirupati,Fog
+Kanyakumari,Clear
+Shimla,Cloudy
+Mysuru,Clear
+Lucknow,Fog
+Nainital,Fog
+Pune,Clear
+Darjeeling,Clear
+Udaipur,Clear
+Delhi,Clear
+Tirupati,Clear
+Prayagraj,Clear
+Bengaluru,Cloudy
+Hampi,Rain
+Amritsar,Storm
+Hampi,Rain
+Dharamshala,Cloudy
+Varanasi,Cloudy
+Statue of Unity (Kevadia),Fog
+Goa,Clear
+Rishikesh & Haridwar,Fog
+Jaipur,Rain
+Jaisalmer,Clear
+Nashik,Clear
+Ooty,Clear
+Ooty,Clear
+Ayodhya,Clear
+Ooty,Fog
+Coorg,Clear
+Dharamshala,Fog
+Varanasi,Cloudy
+Madurai,Cloudy
+Vaishno Devi (Katra),Rain
+Amritsar,Cloudy
+Alleppey,Clear
+Vijayawada,Rain
+Jaipur,Cloudy
+Mathura & Vrindavan,Clear
+Jaipur,Cloudy
+Kanyakumari,Rain
+Manali,Cloudy
+Dharamshala,Cloudy
+Nainital,Cloudy
+Rishikesh & Haridwar,Cloudy
+Shirdi,Rain
+Nainital,Clear
+Tirupati,Fog
+Kanyakumari,Clear
+Darjeeling,Clear
+Dwarka,Cloudy
+Pushkar,Clear
+Ayodhya,Rain
+Dwarka,Rain
+Agra,Rain
+Bengaluru,Clear
+Jaisalmer,Clear
+Lucknow,Clear
+Kolkata,Rain
+Bengaluru,Rain
+Coorg,Cloudy
+Nashik,Clear
+Mumbai,Rain
+Coorg,Clear
+Aurangabad,Clear
+Rishikesh & Haridwar,Clear
+Kodaikanal,Rain
+Jaipur,Rain
+Varanasi,Fog
+Aurangabad,Clear
+Bengaluru,Clear
+Srinagar,Rain
+Visakhapatnam,Rain
+Hampi,Rain
+Delhi,Clear
+Mathura & Vrindavan,Clear
+Manali,Clear
+Vijayawada,Clear
+Mysuru,Clear
+Rameswaram,Clear
+Tirupati,Clear
+Aurangabad,Rain
+Udaipur,Clear
+Jodhpur,Clear
+Nashik,Clear
+Prayagraj,Storm
+Nainital,Cloudy
+Hampi,Rain
+Kodaikanal,Cloudy
+Shimla,Rain
+Chennai,Rain
+Ajmer,Fog
+Hampi,Cloudy
+Coorg,Rain
+Kochi,Clear
+Visakhapatnam,Heavy Rain
+Shirdi,Clear
+Mumbai,Cloudy
+Jaipur,Rain
+Munnar,Rain
+Visakhapatnam,Rain
+Dwarka,Clear
+Agra,Rain
+Ahmedabad,Cloudy
+Prayagraj,Fog
+Visakhapatnam,Rain
+Coorg,Clear
+Kodaikanal,Fog
+Delhi,Cloudy
+Varanasi,Clear
+Visakhapatnam,Storm
+Chennai,Cloudy
+Ajmer,Clear
+Hampi,Cloudy
+Pune,Rain
+Munnar,Rain
+Lucknow,Clear
+Dharamshala,Clear
+Chennai,Heavy Rain
+Munnar,Rain
+Dwarka,Fog
+Pune,Rain
+Amritsar,Rain
+Shimla,Clear
+Prayagraj,Cloudy
+Coorg,Clear
+Nashik,Clear
+Udaipur,Clear
+Shirdi,Clear
+Aurangabad,Rain
+Statue of Unity (Kevadia),Clear
+Manali,Rain
+Pune,Clear
+Madurai,Rain
+Srinagar,Rain
+Lucknow,Clear
+Udaipur,Clear
+Jaisalmer,Clear
+Kochi,Clear
+Rishikesh & Haridwar,Fog
+Ooty,Clear
+Shirdi,Rain
+Mysuru,Clear
+Thiruvananthapuram,Rain
+Manali,Clear
+Shimla,Clear
+Rishikesh & Haridwar,Clear
+Somnath,Rain
+Vijayawada,Cloudy
+Mathura & Vrindavan,Fog
+Dharamshala,Rain
+Statue of Unity (Kevadia),Rain
+Udaipur,Rain
+Ahmedabad,Cloudy
+Ajmer,Cloudy
+Dharamshala,Snow
+Jodhpur,Cloudy
+Manali,Clear
+Thiruvananthapuram,Rain
+Pune,Cloudy
+Ooty,Cloudy
+Shirdi,Clear
+Srinagar,Cloudy
+Manali,Rain
+Delhi,Clear
+Dharamshala,Clear
+Chennai,Rain
+Alleppey,Rain
+Jodhpur,Clear
+Ahmedabad,Fog
+Manali,Clear
+Ahmedabad,Cloudy
+Ooty,Clear
+Ayodhya,Rain
+Nashik,Clear
+Tirupati,Rain
+Pune,Rain
+Jodhpur,Clear
+Aurangabad,Rain
+Bengaluru,Cloudy
+Hampi,Cloudy
+Prayagraj,Clear
+Kodaikanal,Rain
+Somnath,Heavy Rain
+Prayagraj,Rain
+Nashik,Clear
+Kodaikanal,Clear
+Varanasi,Clear
+Udaipur,Clear
+Jaisalmer,Clear
+Jaisalmer,Clear
+Delhi,Clear
+Delhi,Fog
+Ajmer,Clear
+Pushkar,Clear
+Shirdi,Clear
+Vaishno Devi (Katra),Cloudy
+Dwarka,Rain
+Tirupati,Clear
+Agra,Heavy Rain
+Jodhpur,Clear
+Prayagraj,Clear
+Ayodhya,Cloudy
+Shirdi,Cloudy
+Vaishno Devi (Katra),Fog
+Jaipur,Clear
+Rameswaram,Clear
+Somnath,Rain
+Kanyakumari,Clear
+Aurangabad,Cloudy
+Munnar,Cloudy
+Mysuru,Clear
+Pushkar,Cloudy
+Bengaluru,Heavy Rain
+Rameswaram,Cloudy
+Lucknow,Heavy Rain
+Agra,Clear
+Prayagraj,Cloudy
+Bengaluru,Clear
+Ooty,Clear
+Lucknow,Cloudy
+Kanyakumari,Clear
+Rishikesh & Haridwar,Rain
+Srinagar,Heavy Snow
+Madurai,Clear
+Hampi,Clear
+Coorg,Rain
+Udaipur,Cloudy
+Pune,Storm
+Aurangabad,Clear
+Rameswaram,Cloudy
+Alleppey,Cloudy
+Darjeeling,Clear
+Vijayawada,Rain
+Munnar,Heavy Rain
+Kochi,Heavy Rain
+Dharamshala,Fog
+Ajmer,Rain
+Bengaluru,Clear
+Kodaikanal,Rain
+Ajmer,Clear
+Pune,Clear
+Vaishno Devi (Katra),Clear
+Statue of Unity (Kevadia),Clear
+Agra,Rain
+Goa,Cloudy
+Pushkar,Storm
+Amritsar,Clear
+Varanasi,Clear
+Varanasi,Fog
+Madurai,Clear
+Lucknow,Heavy Rain
+Vaishno Devi (Katra),Rain
+Madurai,Clear
+Pune,Rain
+Nashik,Clear
+Somnath,Rain
+Darjeeling,Snow
+Shimla,Clear
+Mumbai,Rain
+Hampi,Rain
+Agra,Clear
+Coorg,Cloudy
+Nashik,Heavy Rain
+Kochi,Fog
+Kanyakumari,Clear
+Agra,Rain
+Udaipur,Clear
+Bengaluru,Clear
+Tirupati,Cloudy
+Statue of Unity (Kevadia),Storm
+Statue of Unity (Kevadia),Clear
+Shimla,Cloudy
+Kodaikanal,Clear
+Statue of Unity (Kevadia),Heavy Rain
+Statue of Unity (Kevadia),Clear
+Statue of Unity (Kevadia),Cloudy
+Aurangabad,Rain
+Mathura & Vrindavan,Clear
+Shirdi,Clear
+Rishikesh & Haridwar,Cloudy
+Kanyakumari,Heavy Rain
+Thiruvananthapuram,Rain
+Aurangabad,Heavy Rain
+Amritsar,Rain
+Vijayawada,Clear
+Statue of Unity (Kevadia),Clear
+Pune,Rain
+Bengaluru,Rain
+Tirupati,Rain
+Thiruvananthapuram,Clear
+Udaipur,Clear
+Rishikesh & Haridwar,Snow
+Ajmer,Rain
+Munnar,Heavy Rain
+Lucknow,Fog
+Alleppey,Clear
+Kolkata,Rain
+Shirdi,Clear
+Dwarka,Cloudy
+Delhi,Clear
+Vijayawada,Clear
+Bengaluru,Cloudy
+Ooty,Clear
+Shimla,Heavy Snow
+Delhi,Fog
+Kolkata,Heavy Rain
+Vijayawada,Clear
+Tirupati,Clear
+Ahmedabad,Clear
+Shirdi,Clear
+Munnar,Cloudy
+Tirupati,Fog
+Alleppey,Rain
+Nainital,Rain
+Mathura & Vrindavan,Clear
+Statue of Unity (Kevadia),Clear
+Varanasi,Clear
+Kanyakumari,Cloudy
+Mysuru,Clear
+Mathura & Vrindavan,Clear
+Visakhapatnam,Clear
+Chennai,Clear
+Mumbai,Rain
+Goa,Clear
+Somnath,Clear
+Shirdi,Clear
+Goa,Storm
+Thiruvananthapuram,Rain
+Udaipur,Rain
+Jaipur,Cloudy
+Thiruvananthapuram,Rain
+Coorg,Rain
+Manali,Clear
+Srinagar,Clear
+Jodhpur,Clear
+Agra,Clear
+Vijayawada,Clear
+Goa,Heavy Rain
+Tirupati,Clear
+Jaipur,Clear
+Mysuru,Clear
+Jaisalmer,Clear
+Delhi,Clear
+Jaisalmer,Clear
+Manali,Heavy Snow
+Pushkar,Clear
+Nashik,Clear
+Kodaikanal,Clear
+Vijayawada,Clear
+Prayagraj,Heavy Rain
+Shirdi,Rain
+Nashik,Rain
+Dharamshala,Fog
+Visakhapatnam,Clear
+Udaipur,Storm
+Prayagraj,Clear
+Pune,Clear
+Mumbai,Clear
+Ayodhya,Rain
+Tirupati,Storm
+Kolkata,Clear
+Aurangabad,Clear
+Visakhapatnam,Rain
+Jaipur,Cloudy
+Mathura & Vrindavan,Clear
+Vaishno Devi (Katra),Clear
+Kodaikanal,Clear
+Prayagraj,Clear
+Prayagraj,Clear
+Nashik,Cloudy
+Lucknow,Clear
+Somnath,Heavy Rain
+Thiruvananthapuram,Cloudy
+Shirdi,Clear
+Udaipur,Clear
+Dharamshala,Clear
+Kolkata,Storm
+Coorg,Clear
+Dharamshala,Clear
+Bengaluru,Cloudy
+Pune,Rain
+Vijayawada,Clear
+Madurai,Clear
+Jaipur,Heavy Rain
+Jodhpur,Clear
+Prayagraj,Clear
+Vaishno Devi (Katra),Fog
+Tirupati,Cloudy
+Mathura & Vrindavan,Clear
+Thiruvananthapuram,Fog
+Udaipur,Clear
+Coorg,Clear
+Kanyakumari,Cloudy
+Hampi,Clear
+Amritsar,Cloudy
+Chennai,Clear
+Jaipur,Rain
+Munnar,Clear
+Mumbai,Rain
+Hampi,Clear
+Nashik,Fog
+Jaisalmer,Cloudy
+Jodhpur,Clear
+Mathura & Vrindavan,Cloudy
+Hampi,Clear
+Alleppey,Storm
+Aurangabad,Fog
+Nashik,Clear
+Alleppey,Cloudy
+Dharamshala,Rain
+Amritsar,Clear
+Kochi,Cloudy
+Alleppey,Rain
+Amritsar,Clear
+Kolkata,Clear
+Shimla,Clear
+Statue of Unity (Kevadia),Rain
+Kochi,Rain
+Mathura & Vrindavan,Clear
+Rishikesh & Haridwar,Snow
+Nashik,Rain
+Visakhapatnam,Clear
+Mumbai,Clear
+Pushkar,Clear
+Kodaikanal,Cloudy
+Kolkata,Clear
+Vijayawada,Storm
+Kochi,Cloudy
+Pune,Clear
+Agra,Heavy Rain
+Dharamshala,Fog
+Ajmer,Clear
+Tirupati,Fog
+Pushkar,Clear
+Ahmedabad,Fog
+Darjeeling,Cloudy
+Dwarka,Rain
+Manali,Snow
+Dwarka,Cloudy
+Vaishno Devi (Katra),Rain
+Darjeeling,Snow
+Mysuru,Clear
+Nainital,Heavy Snow
+Varanasi,Clear
+Bengaluru,Storm
+Rishikesh & Haridwar,Clear
+Shimla,Snow
+Visakhapatnam,Clear
+Manali,Fog
+Nainital,Clear
+Kochi,Fog
+Pune,Rain
+Shirdi,Clear
+Lucknow,Cloudy
+Vaishno Devi (Katra),Clear
+Ooty,Rain
+Delhi,Clear
+Aurangabad,Cloudy
+Rameswaram,Cloudy
+Coorg,Rain
+Udaipur,Clear
+Bengaluru,Clear
+Thiruvananthapuram,Rain
+Rameswaram,Rain
+Bengaluru,Rain
+Nainital,Clear
+Coorg,Clear
+Manali,Clear
+Lucknow,Clear
+Pushkar,Storm
+Dharamshala,Clear
+Goa,Cloudy
+Kolkata,Rain
+Nashik,Cloudy
+Hampi,Cloudy
+Jaisalmer,Clear
+Jaipur,Clear
+Nashik,Clear
+Rameswaram,Cloudy
+Darjeeling,Rain
+Ahmedabad,Clear
+Ayodhya,Clear
+Kodaikanal,Rain
+Tirupati,Rain
+Kochi,Cloudy
+Manali,Clear
+Varanasi,Clear
+Nashik,Fog
+Madurai,Cloudy
+Chennai,Cloudy
+Alleppey,Rain
+Rishikesh & Haridwar,Clear
+Somnath,Clear
+Madurai,Clear
+Vijayawada,Cloudy
+Shimla,Rain
+Nashik,Storm
+Statue of Unity (Kevadia),Clear
+Rameswaram,Rain
+Madurai,Clear
+Mysuru,Clear
+Varanasi,Cloudy
+Srinagar,Rain
+Ahmedabad,Rain
+Jaipur,Heavy Rain
+Jodhpur,Storm
+Vijayawada,Rain
+Pushkar,Storm
+Aurangabad,Rain
+Madurai,Clear
+Amritsar,Rain
+Jaipur,Clear
+Shirdi,Heavy Rain
+Mumbai,Clear
+Hampi,Clear
+Amritsar,Clear
+Dharamshala,Snow
+Statue of Unity (Kevadia),Cloudy
+Kodaikanal,Rain
+Somnath,Clear
+Thiruvananthapuram,Clear
+Rishikesh & Haridwar,Clear
+Shimla,Clear
+Lucknow,Clear
+Kodaikanal,Rain
+Thiruvananthapuram,Rain
+Bengaluru,Clear
+Goa,Fog
+Ayodhya,Clear
+Mumbai,Rain
+Varanasi,Cloudy
+Vijayawada,Clear
+Kochi,Cloudy
+Rishikesh & Haridwar,Clear
+Jaisalmer,Clear
+Vaishno Devi (Katra),Cloudy
+Coorg,Cloudy
+Agra,Clear
+Agra,Rain
+Pushkar,Clear
+Rishikesh & Haridwar,Clear
+Shimla,Fog
+Udaipur,Rain
+Coorg,Rain
+Pune,Rain
+Alleppey,Clear
+Nashik,Clear
+Chennai,Cloudy
+Jodhpur,Clear
+Varanasi,Fog
+Chennai,Cloudy
+Vaishno Devi (Katra),Fog
+Somnath,Clear
+Munnar,Clear
+Agra,Storm
+Mysuru,Clear
+Mathura & Vrindavan,Fog
+Lucknow,Fog
+Ahmedabad,Clear
+Vijayawada,Clear
+Lucknow,Heavy Rain
+Dwarka,Clear
+Nainital,Heavy Snow
+Ooty,Rain
+Mathura & Vrindavan,Cloudy
+Madurai,Clear
+Kochi,Clear
+Kanyakumari,Storm
+Kochi,Rain
+Ajmer,Clear
+Mumbai,Clear
+Vijayawada,Storm
+Tirupati,Clear
+Pushkar,Clear
+Mumbai,Rain
+Srinagar,Clear
+Nainital,Clear
+Coorg,Clear
+Tirupati,Fog
+Ajmer,Clear
+Nainital,Clear
+Chennai,Clear
+Nainital,Rain
+Thiruvananthapuram,Storm
+Jaisalmer,Cloudy
+Vaishno Devi (Katra),Fog
+Munnar,Clear
+Jaisalmer,Clear
+Goa,Cloudy
+Prayagraj,Cloudy
+Rishikesh & Haridwar,Clear
+Vaishno Devi (Katra),Clear
+Somnath,Clear
+Kolkata,Clear
+Dharamshala,Heavy Snow
+Kochi,Heavy Rain
+Statue of Unity (Kevadia),Rain
+Tirupati,Clear
+Goa,Clear
+Alleppey,Heavy Rain
+Jodhpur,Clear
+Mysuru,Clear
+Shimla,Clear
+Pushkar,Clear
+Coorg,Clear
+Alleppey,Clear
+Delhi,Clear
+Rishikesh & Haridwar,Cloudy
+Varanasi,Rain
+Pune,Clear
+Udaipur,Rain
+Kochi,Clear
+Kochi,Heavy Rain
+Rameswaram,Fog
+Tirupati,Cloudy
+Ajmer,Clear
+Ahmedabad,Heavy Rain
+Jaisalmer,Clear
+Rishikesh & Haridwar,Clear
+Manali,Clear
+Somnath,Clear
+Kodaikanal,Clear
+Lucknow,Clear
+Ajmer,Clear
+Dharamshala,Rain
+Jaisalmer,Clear
+Visakhapatnam,Rain
+Mysuru,Clear
+Kanyakumari,Fog
+Tirupati,Clear
+Kolkata,Rain
+Varanasi,Clear
+Nainital,Cloudy
+Jaipur,Rain
+Kochi,Rain
+Kochi,Rain
+Shirdi,Clear
+Mathura & Vrindavan,Clear
+Dharamshala,Fog
+Mumbai,Clear
+Nainital,Cloudy
+Somnath,Clear
+Ahmedabad,Clear
+Bengaluru,Clear
+Somnath,Cloudy
+Rameswaram,Rain
+Ayodhya,Fog
+Agra,Clear
+Visakhapatnam,Rain
+Darjeeling,Clear
+Aurangabad,Rain
+Kodaikanal,Clear
+Ajmer,Fog
+Hampi,Clear
+Statue of Unity (Kevadia),Cloudy
+Ayodhya,Clear
+Vaishno Devi (Katra),Clear
+Pune,Clear
+Kanyakumari,Cloudy
+Jodhpur,Clear
+Ayodhya,Cloudy
+Coorg,Clear
+Ajmer,Rain
+Rishikesh & Haridwar,Clear
+Munnar,Clear
+Mysuru,Heavy Rain
+Chennai,Clear
+Srinagar,Clear
+Kanyakumari,Heavy Rain
+Manali,Heavy Snow
+Jodhpur,Clear
+Mysuru,Rain
+Rishikesh & Haridwar,Rain
+Nashik,Rain
+Agra,Clear
+Jaipur,Storm
+Goa,Fog
+Ooty,Rain
+Jodhpur,Clear
+Manali,Cloudy
+Prayagraj,Rain
+Kanyakumari,Rain
+Udaipur,Cloudy
+Thiruvananthapuram,Cloudy
+Somnath,Clear
+Goa,Clear
+Dwarka,Clear
+Kanyakumari,Fog
+Munnar,Clear
+Goa,Storm
+Mysuru,Fog
+Amritsar,Clear
+Dwarka,Rain
+Goa,Heavy Rain
+Goa,Cloudy
+Kanyakumari,Rain
+Somnath,Cloudy
+Pushkar,Clear
+Thiruvananthapuram,Clear
+Amritsar,Rain
+Kanyakumari,Clear
+Jaipur,Clear
+Kochi,Fog
+Kolkata,Clear
+Ajmer,Clear
+Kolkata,Rain
+Munnar,Cloudy
+Vijayawada,Clear
+Visakhapatnam,Cloudy
+Prayagraj,Heavy Rain
+Thiruvananthapuram,Rain
+Kanyakumari,Clear
+Srinagar,Cloudy
+Jodhpur,Clear
+Prayagraj,Clear
+Kolkata,Cloudy
+Hampi,Clear
+Srinagar,Cloudy
+Pushkar,Clear
+Kanyakumari,Rain
+Pushkar,Cloudy
+Prayagraj,Clear
+Chennai,Rain
+Rishikesh & Haridwar,Clear
+Mumbai,Clear
+Ajmer,Heavy Rain
+Kodaikanal,Rain
+Srinagar,Clear
+Statue of Unity (Kevadia),Rain
+Manali,Snow
+Nainital,Cloudy
+Aurangabad,Clear
+Nainital,Rain
+Mumbai,Cloudy
+Chennai,Rain
+Jaipur,Clear
+Manali,Clear
+Coorg,Rain
+Mysuru,Cloudy
+Jodhpur,Cloudy
+Prayagraj,Clear
+Rameswaram,Cloudy
+Manali,Rain
+Tirupati,Cloudy
+Kodaikanal,Clear
+Mumbai,Clear
+Ayodhya,Clear
+Alleppey,Rain
+Mathura & Vrindavan,Fog
+Visakhapatnam,Clear
+Statue of Unity (Kevadia),Rain
+Varanasi,Clear
+Dwarka,Fog
+Ahmedabad,Rain
+Vijayawada,Rain
+Alleppey,Clear
+Coorg,Fog
+Madurai,Rain
+Ooty,Cloudy
+Pushkar,Clear
+Dwarka,Clear
+Mumbai,Cloudy
+Tirupati,Clear
+Hampi,Fog
+Ahmedabad,Clear
+Mathura & Vrindavan,Clear
+Rameswaram,Clear
+Rishikesh & Haridwar,Rain
+Madurai,Clear
+Hampi,Clear
+Somnath,Heavy Rain
+Srinagar,Cloudy
+Rameswaram,Rain
+Ajmer,Rain
+Ooty,Rain
+Amritsar,Rain
+Ayodhya,Cloudy
+Thiruvananthapuram,Rain
+Rishikesh & Haridwar,Cloudy
+Thiruvananthapuram,Storm
+Hampi,Rain
+Chennai,Cloudy
+Ayodhya,Rain
+Jodhpur,Clear
+Kochi,Rain
+Lucknow,Clear
+Delhi,Rain
+Ahmedabad,Cloudy
+Mathura & Vrindavan,Rain
+Mumbai,Rain
+Munnar,Rain
+Amritsar,Clear
+Pune,Heavy Rain
+Bengaluru,Clear
+Shirdi,Clear
+Nashik,Clear
+Bengaluru,Clear
+Kanyakumari,Clear
+Rishikesh & Haridwar,Rain
+Ayodhya,Clear
+Agra,Clear
+Statue of Unity (Kevadia),Clear
+Udaipur,Rain
+Vaishno Devi (Katra),Rain
+Ayodhya,Cloudy
+Shirdi,Rain
+Kolkata,Fog
+Jaipur,Rain
+Darjeeling,Clear
+Nainital,Clear
+Shirdi,Fog
+Amritsar,Cloudy
+Jaisalmer,Clear
+Lucknow,Clear
+Rameswaram,Cloudy
+Coorg,Clear
+Lucknow,Clear
+Nashik,Clear
+Dharamshala,Rain
+Kodaikanal,Clear
+Statue of Unity (Kevadia),Clear
+Alleppey,Clear
+Visakhapatnam,Cloudy
+Aurangabad,Heavy Rain
+Nainital,Fog
+Nashik,Clear
+Amritsar,Clear
+Kochi,Rain
+Srinagar,Cloudy
+Kodaikanal,Clear
+Dharamshala,Rain
+Jodhpur,Cloudy
+Vijayawada,Clear
+Nashik,Rain
+Jodhpur,Clear
+Shimla,Clear
+Vijayawada,Cloudy
+Rameswaram,Cloudy
+Somnath,Clear
+Dharamshala,Cloudy
+Tirupati,Clear
+Nashik,Storm
+Rameswaram,Rain
+Nainital,Clear
+Ayodhya,Fog
+Prayagraj,Clear
+Mysuru,Clear
+Pune,Clear
+Kanyakumari,Cloudy
+Chennai,Cloudy
+Somnath,Clear
+Mumbai,Cloudy
+Agra,Rain
+Ahmedabad,Clear
+Darjeeling,Clear
+Goa,Rain
+Chennai,Clear
+Thiruvananthapuram,Rain
+Vijayawada,Clear
+Ayodhya,Clear
+Somnath,Clear
+Nainital,Clear
+Manali,Clear
+Nashik,Clear
+Manali,Cloudy
+Alleppey,Rain
+Thiruvananthapuram,Clear
+Coorg,Rain
+Chennai,Cloudy
+Alleppey,Heavy Rain
+Chennai,Clear
+Manali,Clear
+Alleppey,Clear
+Ajmer,Rain
+Pune,Rain
+Goa,Clear
+Delhi,Cloudy
+Darjeeling,Cloudy
+Pushkar,Clear
+Kanyakumari,Fog
+Ayodhya,Clear
+Darjeeling,Snow
+Mumbai,Cloudy
+Pune,Fog
+Nashik,Clear
+Coorg,Clear
+Mysuru,Clear
+Kolkata,Fog
+Srinagar,Rain
+Pune,Rain
+Dharamshala,Snow
+Kochi,Cloudy
+Rishikesh & Haridwar,Cloudy
+Vaishno Devi (Katra),Rain
+Rameswaram,Clear
+Chennai,Rain
+Aurangabad,Clear
+Munnar,Clear
+Jaipur,Clear
+Dharamshala,Clear
+Bengaluru,Cloudy
+Manali,Clear
+Udaipur,Clear
+Jaisalmer,Clear
+Ooty,Clear
+Hampi,Rain
+Srinagar,Fog
+Tirupati,Clear
+Delhi,Rain
+Amritsar,Fog
+Coorg,Rain
+Manali,Clear
+Ooty,Clear
+Shimla,Clear
+Visakhapatnam,Clear
+Mathura & Vrindavan,Cloudy
+Manali,Rain
+Mysuru,Heavy Rain
+Alleppey,Cloudy
+Rishikesh & Haridwar,Cloudy
+Jodhpur,Clear
+Jaipur,Storm
+Udaipur,Rain
+Visakhapatnam,Storm
+Madurai,Rain
+Darjeeling,Fog
+Jaipur,Clear
+Rameswaram,Clear
+Kodaikanal,Clear
+Kanyakumari,Rain
+Visakhapatnam,Clear
+Ayodhya,Clear
+Ooty,Clear
+Kodaikanal,Cloudy
+Thiruvananthapuram,Rain
+Jaisalmer,Storm
+Shirdi,Clear
+Amritsar,Clear
+Varanasi,Clear
+Pushkar,Clear
+Mumbai,Heavy Rain
+Udaipur,Cloudy
+Vaishno Devi (Katra),Fog
+Ooty,Rain
+Dwarka,Rain
+Ahmedabad,Storm
+Jaipur,Clear
+Kanyakumari,Clear
+Ooty,Clear
+Agra,Cloudy
+Jodhpur,Clear
+Pune,Clear
+Shirdi,Rain
+Srinagar,Clear
+Pune,Clear
+Kolkata,Cloudy
+Thiruvananthapuram,Cloudy
+Darjeeling,Clear
+Prayagraj,Clear
+Srinagar,Cloudy
+Mumbai,Rain
+Delhi,Fog
+Rishikesh & Haridwar,Rain
+Vijayawada,Clear
+Aurangabad,Clear
+Chennai,Rain
+Kodaikanal,Clear
+Somnath,Clear
+Shimla,Rain
+Hampi,Clear
+Pushkar,Cloudy
+Ooty,Cloudy
+Rishikesh & Haridwar,Cloudy
+Shirdi,Clear
+Lucknow,Rain
+Shirdi,Clear
+Vijayawada,Rain
+Ooty,Fog
+Aurangabad,Clear
+Shimla,Fog
+Hampi,Clear
+Ahmedabad,Cloudy
+Pushkar,Clear
+Jodhpur,Clear
+Dwarka,Fog
+Dharamshala,Rain
+Statue of Unity (Kevadia),Cloudy
+Bengaluru,Clear
+Mumbai,Cloudy
+Mathura & Vrindavan,Clear
+Shimla,Clear
+Udaipur,Cloudy
+Vaishno Devi (Katra),Clear
+Jaisalmer,Clear
+Lucknow,Clear
+Aurangabad,Cloudy
+Kodaikanal,Clear
+Munnar,Rain
+Aurangabad,Rain
+Coorg,Cloudy
+Ooty,Rain
+Varanasi,Clear
+Pune,Clear
+Mysuru,Clear
+Udaipur,Heavy Rain
+Dwarka,Clear
+Dharamshala,Clear
+Thiruvananthapuram,Rain
+Nashik,Cloudy
+Mathura & Vrindavan,Rain
+Ooty,Clear
+Varanasi,Clear
+Vijayawada,Clear
+Jodhpur,Clear
+Prayagraj,Clear
+Mathura & Vrindavan,Rain
+Prayagraj,Clear
+Jaipur,Clear
+Visakhapatnam,Cloudy
+Prayagraj,Clear
+Jaisalmer,Clear
+Ayodhya,Cloudy
+Rishikesh & Haridwar,Fog
+Shirdi,Clear
+Thiruvananthapuram,Rain
+Shirdi,Cloudy
+Chennai,Clear
+Vaishno Devi (Katra),Fog
+Shirdi,Clear
+Amritsar,Cloudy
+Ahmedabad,Cloudy
+Udaipur,Heavy Rain
+Thiruvananthapuram,Rain
+Madurai,Rain
+Thiruvananthapuram,Rain
+Statue of Unity (Kevadia),Rain
+Dharamshala,Fog
+Ahmedabad,Clear
+Srinagar,Cloudy
+Chennai,Clear
+Ahmedabad,Clear
+Alleppey,Clear
+Statue of Unity (Kevadia),Rain
+Aurangabad,Heavy Rain
+Darjeeling,Snow
+Coorg,Clear
+Mathura & Vrindavan,Heavy Rain
+Mysuru,Clear
+Shirdi,Clear
+Dwarka,Clear
+Nashik,Clear
+Madurai,Fog
+Ayodhya,Storm
+Ayodhya,Rain
+Pushkar,Clear
+Nainital,Clear
+Nashik,Clear
+Shirdi,Rain
+Statue of Unity (Kevadia),Clear
+Kolkata,Clear
+Thiruvananthapuram,Clear
+Pushkar,Clear
+Bengaluru,Clear
+Coorg,Clear
+Chennai,Rain
+Vaishno Devi (Katra),Clear
+Delhi,Rain
+Lucknow,Cloudy
+Vaishno Devi (Katra),Clear
+Agra,Clear
+Somnath,Clear
+Delhi,Rain
+Shirdi,Fog
+Kolkata,Rain
+Mysuru,Clear
+Ahmedabad,Cloudy
+Kanyakumari,Cloudy
+Udaipur,Clear
+Munnar,Heavy Rain
+Pushkar,Clear
+Dharamshala,Clear
+Delhi,Rain
+Jaipur,Clear
+Goa,Clear
+Manali,Clear
+Aurangabad,Cloudy
+Darjeeling,Clear
+Pune,Clear
+Dharamshala,Fog
+Madurai,Cloudy
+Tirupati,Clear
+Goa,Fog
+Amritsar,Cloudy
+Vijayawada,Rain
+Tirupati,Clear
+Jodhpur,Cloudy
+Mathura & Vrindavan,Cloudy
+Mysuru,Rain
+Lucknow,Rain
+Jodhpur,Clear
+Prayagraj,Rain
+Manali,Cloudy
+Thiruvananthapuram,Cloudy
+Dharamshala,Fog
+Mathura & Vrindavan,Rain
+Pune,Clear
+Varanasi,Fog
+Rameswaram,Cloudy
+Ooty,Cloudy
+Pushkar,Clear
+Shimla,Clear
+Dharamshala,Rain
+Munnar,Clear
+Jodhpur,Storm
+Rameswaram,Clear
+Varanasi,Clear
+Shirdi,Cloudy
+Nainital,Rain
+Darjeeling,Clear
+Shimla,Fog
+Somnath,Cloudy
+Shirdi,Clear
+Udaipur,Heavy Rain
+Shimla,Clear
+Munnar,Fog
+Statue of Unity (Kevadia),Fog
+Aurangabad,Clear
+Mathura & Vrindavan,Clear
+Lucknow,Clear
+Amritsar,Clear
+Darjeeling,Heavy Snow
+Agra,Clear
+Alleppey,Rain
+Rishikesh & Haridwar,Clear
+Mumbai,Fog
+Vijayawada,Rain
+Dwarka,Rain
+Pushkar,Clear
+Jaisalmer,Cloudy
+Amritsar,Clear
+Bengaluru,Rain
+Darjeeling,Clear
+Hampi,Cloudy
+Amritsar,Cloudy
+Manali,Clear
+Darjeeling,Snow
+Hampi,Rain
+Nashik,Rain
+Mumbai,Clear
+Madurai,Rain
+Jaipur,Rain
+Dharamshala,Clear
+Mathura & Vrindavan,Clear
+Mathura & Vrindavan,Clear
+Thiruvananthapuram,Cloudy
+Dharamshala,Cloudy
+Agra,Clear
+Vaishno Devi (Katra),Cloudy
+Amritsar,Clear
+Udaipur,Cloudy
+Dwarka,Fog
+Goa,Rain
+Shirdi,Rain
+Aurangabad,Clear
+Kanyakumari,Rain
+Vijayawada,Cloudy
+Kolkata,Clear
+Madurai,Clear
+Shirdi,Clear
+Jaipur,Rain
+Jodhpur,Clear
+Thiruvananthapuram,Storm
+Tirupati,Rain
+Ayodhya,Clear
+Jodhpur,Clear
+Pushkar,Clear
+Somnath,Clear
+Bengaluru,Clear
+Nainital,Rain
+Shirdi,Cloudy
+Udaipur,Rain
+Munnar,Heavy Rain
+Pune,Clear
+Madurai,Rain
+Srinagar,Cloudy
+Kochi,Heavy Rain
+Mathura & Vrindavan,Clear
+Agra,Cloudy
+Shimla,Cloudy
+Jodhpur,Clear
+Rameswaram,Heavy Rain
+Vijayawada,Cloudy
+Visakhapatnam,Rain
+Aurangabad,Rain
+Bengaluru,Rain
+Mysuru,Clear
+Hampi,Clear
+Srinagar,Cloudy
+Lucknow,Fog
+Nashik,Clear
+Rameswaram,Rain
+Vaishno Devi (Katra),Cloudy
+Pushkar,Storm
+Visakhapatnam,Heavy Rain
+Jaisalmer,Clear
+Nainital,Rain
+Aurangabad,Clear
+Kanyakumari,Rain
+Mathura & Vrindavan,Fog
+Shimla,Clear
+Ooty,Clear
+Mumbai,Storm
+Dharamshala,Clear
+Chennai,Clear
+Jaipur,Clear
+Chennai,Clear
+Nashik,Clear
+Mumbai,Clear
+Jaisalmer,Clear
+Dharamshala,Cloudy
+Statue of Unity (Kevadia),Clear
+Somnath,Clear
+Amritsar,Rain
+Somnath,Cloudy
+Coorg,Clear
+Lucknow,Clear
+Jaipur,Heavy Rain
+Munnar,Clear
+Munnar,Clear
+Rameswaram,Clear
+Ayodhya,Clear
+Varanasi,Clear
+Munnar,Clear
+Mumbai,Heavy Rain
+Pushkar,Clear
+Thiruvananthapuram,Clear
+Ajmer,Fog
+Udaipur,Clear
+Mysuru,Clear
+Ooty,Cloudy
+Mumbai,Fog
+Udaipur,Rain
+Alleppey,Heavy Rain
+Prayagraj,Fog
+Delhi,Rain
+Statue of Unity (Kevadia),Rain
+Kodaikanal,Clear
+Coorg,Cloudy
+Dharamshala,Cloudy
+Agra,Clear
+Statue of Unity (Kevadia),Rain
+Amritsar,Fog
+Goa,Clear
+Statue of Unity (Kevadia),Rain
+Ahmedabad,Fog
+Darjeeling,Snow
+Alleppey,Clear
+Coorg,Rain
+Darjeeling,Rain
+Thiruvananthapuram,Cloudy
+Vijayawada,Clear
+Darjeeling,Rain
+Ahmedabad,Clear
+Somnath,Clear
+Rishikesh & Haridwar,Clear
+Goa,Clear
+Pushkar,Clear
+Vijayawada,Fog
+Ayodhya,Storm
+Varanasi,Clear
+Ayodhya,Rain
+Dwarka,Clear
+Dwarka,Clear
+Prayagraj,Clear
+Visakhapatnam,Rain
+Jaisalmer,Storm
+Ahmedabad,Clear
+Kochi,Clear
+Vijayawada,Clear
+Prayagraj,Clear
+Jaisalmer,Clear
+Mysuru,Rain
+Hampi,Clear
+Amritsar,Clear
+Rameswaram,Rain
+Coorg,Rain
+Jaipur,Clear
+Pune,Heavy Rain
+Lucknow,Clear
+Ajmer,Fog
+Mysuru,Heavy Rain
+Munnar,Clear
+Goa,Heavy Rain
+Mathura & Vrindavan,Rain
+Pushkar,Clear
+Dharamshala,Rain
+Kolkata,Clear
+Goa,Fog
+Delhi,Clear
+Alleppey,Cloudy
+Hampi,Cloudy
+Rishikesh & Haridwar,Clear
+Jaipur,Clear
+Pushkar,Clear
+Munnar,Cloudy
+Thiruvananthapuram,Clear
+Goa,Cloudy
+Darjeeling,Clear
+Tirupati,Rain
+Delhi,Clear
+Nainital,Heavy Snow
+Delhi,Cloudy
+Goa,Clear
+Lucknow,Rain
+Munnar,Heavy Rain
+Goa,Storm
+Udaipur,Cloudy
+Nainital,Fog
+Vijayawada,Rain
+Chennai,Clear
+Aurangabad,Cloudy
+Chennai,Cloudy
+Pushkar,Cloudy
+Jaipur,Clear
+Jodhpur,Clear
+Thiruvananthapuram,Clear
+Darjeeling,Cloudy
+Somnath,Fog
+Delhi,Cloudy
+Alleppey,Cloudy
+Udaipur,Rain
+Vijayawada,Clear
+Pushkar,Clear
+Agra,Fog
+Coorg,Rain
+Vijayawada,Rain
+Jaipur,Clear
+Tirupati,Clear
+Jodhpur,Cloudy
+Shimla,Rain
+Nainital,Fog
+Kodaikanal,Clear
+Munnar,Heavy Rain
+Varanasi,Clear
+Shimla,Clear
+Manali,Clear
+Vaishno Devi (Katra),Heavy Snow
+Hampi,Clear
+Aurangabad,Clear
+Kolkata,Clear
+Jaipur,Rain
+Udaipur,Clear
+Ahmedabad,Clear
+Thiruvananthapuram,Rain
+Darjeeling,Fog
+Madurai,Clear
+Manali,Clear
+Ooty,Clear
+Srinagar,Fog
+Visakhapatnam,Fog
+Vaishno Devi (Katra),Clear
+Varanasi,Rain
+Mumbai,Clear
+Ahmedabad,Clear
+Hampi,Clear
+Madurai,Clear
+Dharamshala,Rain
+Ooty,Cloudy
+Jodhpur,Clear
+Kodaikanal,Rain
+Goa,Rain
+Jodhpur,Clear
+Kodaikanal,Clear
+Tirupati,Cloudy
+Goa,Clear
+Shimla,Clear
+Statue of Unity (Kevadia),Rain
+Kanyakumari,Cloudy
+Somnath,Clear
+Jodhpur,Clear
+Bengaluru,Clear
+Amritsar,Clear
+Coorg,Clear
+Dwarka,Clear
+Vaishno Devi (Katra),Clear
+Kolkata,Rain
+Mathura & Vrindavan,Heavy Rain
+Vaishno Devi (Katra),Clear
+Kodaikanal,Clear
+Thiruvananthapuram,Rain
+Delhi,Clear
+Chennai,Heavy Rain
+Bengaluru,Clear
+Amritsar,Clear
+Kolkata,Clear
+Munnar,Cloudy
+Kochi,Clear
+Chennai,Clear
+Chennai,Clear
+Tirupati,Storm
+Mathura & Vrindavan,Rain
+Bengaluru,Clear
+Delhi,Cloudy
+Goa,Fog
+Delhi,Rain
+Vijayawada,Cloudy
+Alleppey,Cloudy
+Darjeeling,Cloudy
+Udaipur,Clear
+Munnar,Rain
+Varanasi,Clear
+Manali,Snow
+Somnath,Cloudy
+Rameswaram,Cloudy
+Ooty,Cloudy
+Madurai,Cloudy
+Kochi,Rain
+Jodhpur,Storm
+Srinagar,Fog
+Mysuru,Clear
+Mysuru,Cloudy
+Jaipur,Rain
+Kolkata,Clear
+Manali,Clear
+Vaishno Devi (Katra),Clear
+Somnath,Clear
+Rishikesh & Haridwar,Fog
+Somnath,Fog
+Amritsar,Rain
+Shimla,Clear
+Jodhpur,Clear
+Visakhapatnam,Rain
+Munnar,Cloudy
+Visakhapatnam,Cloudy
+Kodaikanal,Rain
+Vijayawada,Clear
+Munnar,Cloudy
+Hampi,Clear
+Vijayawada,Clear
+Vaishno Devi (Katra),Fog
+Varanasi,Clear
+Kolkata,Storm
+Nashik,Clear
+Goa,Fog
+Nashik,Clear
+Shirdi,Heavy Rain
+Kochi,Heavy Rain
+Tirupati,Rain
+Lucknow,Fog
+Aurangabad,Cloudy
+Jodhpur,Clear
+Nainital,Clear
+Alleppey,Rain
+Mysuru,Clear
+Srinagar,Cloudy
+Vijayawada,Cloudy
+Dwarka,Clear
+Mysuru,Rain
+Munnar,Cloudy
+Kodaikanal,Clear
+Jaisalmer,Storm
+Mysuru,Clear
+Alleppey,Rain
+Lucknow,Rain
+Darjeeling,Cloudy
+Mumbai,Heavy Rain
+Visakhapatnam,Clear
+Coorg,Fog
+Madurai,Clear
+Mathura & Vrindavan,Clear
+Agra,Cloudy
+Madurai,Clear
+Lucknow,Clear
+Varanasi,Cloudy
+Madurai,Clear
+Srinagar,Rain
+Pushkar,Clear
+Jaipur,Clear
+Srinagar,Clear
+Rishikesh & Haridwar,Clear
+Nainital,Cloudy
+Delhi,Storm
+Jodhpur,Clear
+Mathura & Vrindavan,Clear
+Kochi,Cloudy
+Ooty,Cloudy
+Kochi,Clear
+Rameswaram,Rain
+Jaipur,Clear
+Udaipur,Clear
+Srinagar,Snow
+Nashik,Clear
+Alleppey,Fog
+Varanasi,Fog
+Pushkar,Clear
+Alleppey,Clear
+Lucknow,Clear
+Nainital,Clear
+Kochi,Cloudy
+Chennai,Heavy Rain
+Kodaikanal,Cloudy
+Jodhpur,Clear
+Mumbai,Clear
+Udaipur,Clear
+Vijayawada,Rain
+Statue of Unity (Kevadia),Rain
+Kolkata,Clear
+Aurangabad,Fog
+Ooty,Clear
+Kanyakumari,Rain
+Pushkar,Storm
+Ahmedabad,Rain
+Pune,Clear
+Aurangabad,Clear
+Somnath,Clear
+Nashik,Cloudy
+Munnar,Rain
+Lucknow,Rain
+Vijayawada,Cloudy
+Vijayawada,Rain
+Jodhpur,Storm
+Pushkar,Clear
+Kanyakumari,Cloudy
+Shimla,Rain
+Kochi,Clear
+Jaisalmer,Clear
+Mysuru,Cloudy
+Munnar,Clear
+Rameswaram,Heavy Rain
+Alleppey,Clear
+Visakhapatnam,Clear
+Rishikesh & Haridwar,Clear
+Rameswaram,Clear
+Ooty,Rain
+Somnath,Clear
+Varanasi,Cloudy
+Mysuru,Cloudy
+Mysuru,Cloudy
+Mathura & Vrindavan,Cloudy
+Visakhapatnam,Cloudy
+Kochi,Cloudy
+Srinagar,Rain
+Darjeeling,Clear
+Statue of Unity (Kevadia),Clear
+Chennai,Cloudy
+Kochi,Cloudy
+Mysuru,Clear
+Thiruvananthapuram,Cloudy
+Statue of Unity (Kevadia),Clear
+Ooty,Rain
+Jaipur,Cloudy
+Ooty,Rain
+Visakhapatnam,Rain
+Mysuru,Clear
+Mumbai,Clear
+Visakhapatnam,Heavy Rain
+Dwarka,Cloudy
+Mumbai,Heavy Rain
+Darjeeling,Cloudy
+Lucknow,Clear
+Rishikesh & Haridwar,Rain
+Kanyakumari,Rain
+Nainital,Cloudy
+Munnar,Rain
+Nainital,Clear
+Thiruvananthapuram,Clear
+Delhi,Clear
+Alleppey,Heavy Rain
+Kodaikanal,Rain
+Nashik,Rain
+Kodaikanal,Clear
+Varanasi,Clear
+Bengaluru,Clear
+Ayodhya,Cloudy
+Visakhapatnam,Clear
+Jaisalmer,Clear
+Delhi,Rain
+Ooty,Clear
+Agra,Clear
+Visakhapatnam,Clear
+Darjeeling,Clear
+Vaishno Devi (Katra),Clear
+Rameswaram,Rain
+Jaisalmer,Clear
+Manali,Cloudy
+Visakhapatnam,Clear
+Lucknow,Cloudy
+Mysuru,Rain
+Jaipur,Clear
+Alleppey,Rain
+Visakhapatnam,Heavy Rain
+Dharamshala,Snow
+Jaipur,Rain
+Udaipur,Fog
+Tirupati,Clear
+Tirupati,Clear
+Prayagraj,Clear
+Manali,Rain
+Delhi,Clear
+Tirupati,Fog
+Shirdi,Clear
+Jaisalmer,Clear
+Prayagraj,Clear
+Mathura & Vrindavan,Heavy Rain
+Ooty,Clear
+Tirupati,Cloudy
+Nainital,Rain
+Ooty,Clear
+Goa,Cloudy
+Thiruvananthapuram,Clear
+Ahmedabad,Clear
+Udaipur,Rain
+Shimla,Fog
+Ooty,Cloudy
+Aurangabad,Fog
+Nainital,Cloudy
+Prayagraj,Heavy Rain
+Kolkata,Cloudy
+Visakhapatnam,Cloudy
+Vaishno Devi (Katra),Clear
+Kanyakumari,Rain
+Ahmedabad,Clear
+Alleppey,Rain
+Ahmedabad,Clear
+Kolkata,Rain
+Chennai,Heavy Rain
+Somnath,Rain
+Hampi,Rain
+Visakhapatnam,Clear
+Thiruvananthapuram,Clear
+Coorg,Clear
+Bengaluru,Cloudy
+Mysuru,Rain
+Nashik,Clear
+Shirdi,Fog
+Pune,Rain
+Vaishno Devi (Katra),Clear
+Mumbai,Cloudy
+Visakhapatnam,Rain
+Pune,Rain
+Rishikesh & Haridwar,Clear
+Ayodhya,Cloudy
+Thiruvananthapuram,Storm
+Dharamshala,Rain
+Rishikesh & Haridwar,Fog
+Hampi,Cloudy
+Kochi,Clear
+Statue of Unity (Kevadia),Rain
+Tirupati,Clear
+Rameswaram,Fog
+Shimla,Clear
+Coorg,Rain
+Mysuru,Rain
+Mumbai,Fog
+Jodhpur,Clear
+Prayagraj,Cloudy
+Chennai,Rain
+Delhi,Clear
+Nashik,Clear
+Ajmer,Rain
+Lucknow,Clear
+Mathura & Vrindavan,Clear
+Vijayawada,Clear
+Vijayawada,Rain
+Pune,Storm
+Manali,Rain
+Kochi,Clear
+Aurangabad,Clear
+Varanasi,Cloudy
+Munnar,Cloudy
+Nainital,Rain
+Rameswaram,Storm
+Munnar,Clear
+Pune,Clear
+Vaishno Devi (Katra),Clear
+Ayodhya,Cloudy
+Dwarka,Rain
+Dharamshala,Heavy Snow
+Lucknow,Clear
+Coorg,Clear
+Bengaluru,Clear
+Nashik,Clear
+Shimla,Rain
+Delhi,Heavy Rain
+Pushkar,Clear
+Nashik,Fog
+Lucknow,Cloudy
+Dwarka,Clear
+Nashik,Clear
+Dharamshala,Fog
+Kanyakumari,Cloudy
+Shimla,Clear
+Shimla,Clear
+Jaisalmer,Clear
+Aurangabad,Rain
+Munnar,Rain
+Nainital,Clear
+Manali,Cloudy
+Pune,Clear
+Ayodhya,Clear
+Goa,Clear
+Chennai,Cloudy
+Tirupati,Clear
+Agra,Clear
+Dharamshala,Cloudy
+Ahmedabad,Rain
+Statue of Unity (Kevadia),Clear
+Hampi,Cloudy
+Ajmer,Storm
+Vijayawada,Clear
+Statue of Unity (Kevadia),Clear
+Srinagar,Clear
+Bengaluru,Cloudy
+Statue of Unity (Kevadia),Rain
+Tirupati,Fog
+Jaipur,Rain
+Chennai,Rain
+Kolkata,Clear
+Hampi,Clear
+Aurangabad,Clear
+Kanyakumari,Clear
+Udaipur,Rain
+Munnar,Rain
+Rishikesh & Haridwar,Cloudy
+Somnath,Rain
+Darjeeling,Clear
+Mathura & Vrindavan,Clear
+Pune,Clear
+Amritsar,Rain
+Mumbai,Fog
+Agra,Fog
+Hampi,Clear
+Ajmer,Rain
+Kolkata,Clear
+Kanyakumari,Clear
+Lucknow,Clear
+Tirupati,Cloudy
+Goa,Fog
+Aurangabad,Fog
+Mathura & Vrindavan,Clear
+Vaishno Devi (Katra),Clear
+Madurai,Rain
+Hampi,Cloudy
+Ajmer,Clear
+Vaishno Devi (Katra),Cloudy
+Ajmer,Clear
+Lucknow,Cloudy
+Ayodhya,Cloudy
+Thiruvananthapuram,Rain
+Amritsar,Cloudy
+Mumbai,Clear
+Lucknow,Rain
+Nashik,Rain
+Chennai,Clear
+Nashik,Cloudy
+Mumbai,Fog
+Chennai,Clear
+Madurai,Clear
+Thiruvananthapuram,Heavy Rain
+Tirupati,Cloudy
+Dwarka,Heavy Rain
+Kolkata,Clear
+Rishikesh & Haridwar,Rain
+Alleppey,Rain
+Delhi,Rain
+Delhi,Rain
+Delhi,Rain
+Kanyakumari,Storm
+Varanasi,Rain
+Rameswaram,Fog
+Rameswaram,Cloudy
+Ahmedabad,Heavy Rain
+Ayodhya,Clear
+Rishikesh & Haridwar,Cloudy
+Mathura & Vrindavan,Clear
+Statue of Unity (Kevadia),Rain
+Dharamshala,Rain
+Prayagraj,Clear
+Darjeeling,Rain
+Mathura & Vrindavan,Cloudy
+Statue of Unity (Kevadia),Clear
+Jaipur,Storm
+Darjeeling,Rain
+Agra,Clear
+Nainital,Rain
+Thiruvananthapuram,Clear
+Coorg,Clear
+Hampi,Clear
+Alleppey,Rain
+Somnath,Cloudy
+Ayodhya,Clear
+Vijayawada,Clear
+Shirdi,Clear
+Ahmedabad,Heavy Rain
+Pushkar,Clear
+Amritsar,Rain
+Mumbai,Fog
+Chennai,Clear
+Srinagar,Clear
+Lucknow,Heavy Rain
+Manali,Clear
+Goa,Clear
+Visakhapatnam,Rain
+Mathura & Vrindavan,Rain
+Dharamshala,Cloudy
+Agra,Clear
+Delhi,Clear
+Agra,Clear
+Aurangabad,Clear
+Statue of Unity (Kevadia),Rain
+Varanasi,Rain
+Ajmer,Clear
+Dwarka,Clear
+Shirdi,Cloudy
+Ahmedabad,Cloudy
+Statue of Unity (Kevadia),Clear
+Aurangabad,Storm
+Jodhpur,Cloudy
+Mumbai,Cloudy
+Hampi,Clear
+Manali,Rain
+Shirdi,Rain
+Varanasi,Rain
+Dwarka,Fog
+Vaishno Devi (Katra),Rain
+Mumbai,Fog
+Kanyakumari,Rain
+Manali,Fog
+Jaisalmer,Cloudy
+Rishikesh & Haridwar,Fog
+Kodaikanal,Clear
+Alleppey,Fog
+Ayodhya,Fog
+Mysuru,Cloudy
+Statue of Unity (Kevadia),Clear
+Ajmer,Rain
+Manali,Clear
+Statue of Unity (Kevadia),Clear
+Bengaluru,Rain
+Alleppey,Cloudy
+Prayagraj,Storm
+Madurai,Cloudy
+Vijayawada,Cloudy
+Kochi,Clear
+Pune,Cloudy
+Pushkar,Clear
+Nainital,Rain
+Kolkata,Cloudy
+Munnar,Clear
+Bengaluru,Fog
+Agra,Clear
+Amritsar,Clear
+Manali,Cloudy
+Vaishno Devi (Katra),Clear
+Visakhapatnam,Rain
+Pune,Clear
+Prayagraj,Rain
+Varanasi,Fog
+Munnar,Storm
+Ooty,Cloudy
+Lucknow,Heavy Rain
+Ayodhya,Clear
+Visakhapatnam,Clear
+Vaishno Devi (Katra),Clear
+Thiruvananthapuram,Storm
+Udaipur,Clear
+Ooty,Rain
+Srinagar,Cloudy
+Delhi,Clear
+Amritsar,Rain
+Rishikesh & Haridwar,Clear
+Kolkata,Clear
+Hampi,Cloudy
+Coorg,Clear
+Tirupati,Clear
+Nainital,Cloudy
+Shirdi,Clear
+Jaisalmer,Storm
+Kolkata,Clear
+Ayodhya,Fog
+Manali,Clear
+Ajmer,Storm
+Lucknow,Clear
+Bengaluru,Rain
+Munnar,Rain
+Mumbai,Rain
+Amritsar,Clear
+Lucknow,Cloudy
+Jaipur,Clear
+Shirdi,Rain
+Shimla,Clear
+Hampi,Clear
+Ooty,Cloudy
+Ayodhya,Rain
+Ayodhya,Clear
+Amritsar,Rain
+Dharamshala,Snow
+Jaipur,Clear
+Ooty,Rain
+Kolkata,Fog
+Amritsar,Clear
+Nainital,Cloudy
+Tirupati,Clear
+Coorg,Clear
+Madurai,Clear
+Madurai,Clear
+Shimla,Fog
+Coorg,Cloudy
+Amritsar,Rain
+Mumbai,Clear
+Dwarka,Clear
+Alleppey,Storm
+Vaishno Devi (Katra),Rain
+Somnath,Heavy Rain
+Bengaluru,Clear
+Vijayawada,Clear
+Manali,Fog
+Goa,Cloudy
+Varanasi,Clear
+Rameswaram,Clear
+Nashik,Clear
+Varanasi,Cloudy
+Statue of Unity (Kevadia),Clear
+Jaisalmer,Clear
+Nainital,Fog
+Bengaluru,Clear
+Delhi,Clear
+Ahmedabad,Rain
+Kanyakumari,Clear
+Hampi,Clear
+Dwarka,Storm
+Dharamshala,Clear
+Srinagar,Fog
+Ooty,Fog
+Shimla,Cloudy
+Pushkar,Clear
+Rameswaram,Heavy Rain
+Vaishno Devi (Katra),Heavy Snow
+Darjeeling,Cloudy
+Nainital,Fog
+Kolkata,Rain
+Rishikesh & Haridwar,Snow
+Ayodhya,Heavy Rain
+Goa,Cloudy
+Madurai,Rain
+Vijayawada,Clear
+Alleppey,Clear
+Amritsar,Fog
+Udaipur,Clear
+Ajmer,Heavy Rain
+Aurangabad,Clear
+Ajmer,Clear
+Amritsar,Rain
+Kanyakumari,Rain
+Darjeeling,Heavy Snow
+Ooty,Rain
+Udaipur,Cloudy
+Jaipur,Fog
+Kanyakumari,Heavy Rain
+Munnar,Clear
+Amritsar,Cloudy
+Madurai,Rain
+Thiruvananthapuram,Rain
+Chennai,Storm
+Madurai,Clear
+Somnath,Clear
+Nashik,Clear
+Shirdi,Clear
+Kolkata,Rain
+Mathura & Vrindavan,Cloudy
+Varanasi,Rain
+Jaisalmer,Clear
+Rameswaram,Cloudy
+Jaipur,Clear
+Kanyakumari,Heavy Rain
+Kochi,Rain
+Kochi,Storm
+Shirdi,Clear
+Munnar,Rain
+Somnath,Clear
+Tirupati,Clear
+Mathura & Vrindavan,Clear
+Dharamshala,Fog
+Ajmer,Cloudy
+Tirupati,Rain
+Prayagraj,Cloudy
+Kanyakumari,Fog
+Pune,Heavy Rain
+Tirupati,Clear
+Nashik,Clear
+Ayodhya,Clear
+Vijayawada,Clear
+Kanyakumari,Clear
+Alleppey,Clear
+Statue of Unity (Kevadia),Cloudy
+Ayodhya,Clear
+Darjeeling,Clear
+Udaipur,Clear
+Visakhapatnam,Rain
+Ooty,Fog
+Chennai,Rain
+Jaipur,Rain
+Ajmer,Cloudy
+Mathura & Vrindavan,Rain
+Munnar,Clear
+Kochi,Rain
+Kochi,Clear
+Lucknow,Rain
+Pune,Clear
+Rishikesh & Haridwar,Clear
+Munnar,Heavy Rain
+Mysuru,Clear
+Dharamshala,Fog
+Bengaluru,Clear
+Tirupati,Rain
+Mumbai,Clear
+Prayagraj,Rain
+Bengaluru,Clear
+Pune,Rain
+Ayodhya,Cloudy
+Somnath,Clear
+Jaipur,Clear
+Aurangabad,Clear
+Dharamshala,Fog
+Jaipur,Clear
+Jaisalmer,Clear
+Mathura & Vrindavan,Clear
+Udaipur,Clear
+Ooty,Cloudy
+Alleppey,Rain
+Nainital,Clear
+Ayodhya,Rain
+Dharamshala,Fog
+Alleppey,Clear
+Amritsar,Clear
+Jaipur,Clear
+Amritsar,Fog
+Lucknow,Cloudy
+Kodaikanal,Rain
+Hampi,Clear
+Statue of Unity (Kevadia),Clear
+Jodhpur,Clear
+Shimla,Fog
+Pushkar,Clear
+Hampi,Clear
+Pushkar,Clear
+Jodhpur,Clear
+Jaipur,Clear
+Aurangabad,Heavy Rain
+Dwarka,Clear
+Nashik,Clear
+Dwarka,Clear
+Alleppey,Fog
+Tirupati,Cloudy
+Kochi,Rain
+Srinagar,Fog
+Rishikesh & Haridwar,Rain
+Pune,Cloudy
+Coorg,Fog
+Goa,Cloudy
+Bengaluru,Clear
+Visakhapatnam,Rain
+Rishikesh & Haridwar,Clear
+Aurangabad,Cloudy
+Nashik,Clear
+Amritsar,Cloudy
+Shirdi,Clear
+Rishikesh & Haridwar,Cloudy
+Ahmedabad,Clear
+Kodaikanal,Clear
+Munnar,Rain
+Kanyakumari,Cloudy
+Madurai,Heavy Rain
+Delhi,Clear
+Hampi,Rain
+Somnath,Rain
+Varanasi,Fog
+Mathura & Vrindavan,Clear
+Kanyakumari,Cloudy
+Thiruvananthapuram,Clear
+Kodaikanal,Rain
+Tirupati,Cloudy
+Nashik,Clear
+Varanasi,Cloudy
+Kanyakumari,Cloudy
+Ahmedabad,Clear
+Kanyakumari,Clear
+Alleppey,Fog
+Thiruvananthapuram,Cloudy
+Vijayawada,Clear
+Somnath,Cloudy
+Bengaluru,Clear
+Varanasi,Cloudy
+Vijayawada,Clear
+Munnar,Clear
+Agra,Clear
+Visakhapatnam,Rain
+Jaisalmer,Clear
+Darjeeling,Rain
+Amritsar,Clear
+Thiruvananthapuram,Clear
+Jodhpur,Clear
+Amritsar,Clear
+Thiruvananthapuram,Heavy Rain
+Mysuru,Heavy Rain
+Tirupati,Clear
+Visakhapatnam,Rain
+Mumbai,Rain
+Ayodhya,Clear
+Manali,Fog
+Ahmedabad,Rain
+Pune,Cloudy
+Rameswaram,Fog
+Alleppey,Clear
+Madurai,Clear
+Agra,Heavy Rain
+Varanasi,Clear
+Shirdi,Cloudy
+Dwarka,Clear
+Aurangabad,Clear
+Rameswaram,Rain
+Jaisalmer,Clear
+Jaipur,Clear
+Darjeeling,Cloudy
+Bengaluru,Heavy Rain
+Hampi,Cloudy
+Mumbai,Clear
+Ooty,Clear
+Amritsar,Cloudy
+Bengaluru,Rain
+Jaisalmer,Storm
+Kochi,Rain
+Goa,Rain
+Varanasi,Clear
+Hampi,Cloudy
+Mumbai,Clear
+Nashik,Storm
+Udaipur,Cloudy
+Pushkar,Clear
+Thiruvananthapuram,Rain
+Shimla,Rain
+Rameswaram,Rain
+Amritsar,Rain
+Ahmedabad,Clear
+Statue of Unity (Kevadia),Clear
+Visakhapatnam,Clear
+Kolkata,Rain
+Srinagar,Clear
+Rameswaram,Cloudy
+Munnar,Cloudy
+Mysuru,Clear
+Bengaluru,Clear
+Madurai,Clear
+Jodhpur,Clear
+Goa,Clear
+Shirdi,Rain
+Coorg,Rain
+Ooty,Clear
+Varanasi,Rain
+Darjeeling,Clear
+Visakhapatnam,Rain
+Somnath,Rain
+Vijayawada,Clear
+Rameswaram,Rain
+Manali,Clear
+Alleppey,Cloudy
+Kochi,Rain
+Aurangabad,Clear
+Manali,Clear
+Vaishno Devi (Katra),Cloudy
+Shirdi,Clear
+Dwarka,Cloudy
+Kanyakumari,Fog
+Statue of Unity (Kevadia),Heavy Rain
+Kochi,Rain
+Lucknow,Rain
+Jodhpur,Clear
+Srinagar,Clear
+Ajmer,Clear
+Madurai,Cloudy
+Mathura & Vrindavan,Clear
+Prayagraj,Fog
+Srinagar,Clear
+Agra,Clear
+Dharamshala,Clear
+Pune,Storm
+Manali,Clear
+Kodaikanal,Fog
+Kolkata,Clear
+Pune,Clear
+Jodhpur,Clear
+Dharamshala,Clear
+Lucknow,Clear
+Munnar,Rain
+Goa,Fog
+Ajmer,Cloudy
+Prayagraj,Clear
+Jaipur,Cloudy
+Tirupati,Clear
+Hampi,Clear
+Kolkata,Clear
+Prayagraj,Cloudy
+Chennai,Clear
+Madurai,Cloudy
+Prayagraj,Clear
+Lucknow,Fog
+Mathura & Vrindavan,Clear
+Pune,Clear
+Kanyakumari,Fog
+Munnar,Clear
+Rameswaram,Clear
+Nainital,Rain
+Mumbai,Heavy Rain
+Goa,Cloudy
+Statue of Unity (Kevadia),Rain
+Tirupati,Clear
+Thiruvananthapuram,Cloudy
+Coorg,Rain
+Madurai,Fog
+Prayagraj,Storm
+Jaipur,Clear
+Ayodhya,Clear
+Dwarka,Clear
+Madurai,Clear
+Lucknow,Rain
+Kochi,Cloudy
+Ajmer,Clear
+Kodaikanal,Clear
+Vijayawada,Clear
+Vaishno Devi (Katra),Fog
+Varanasi,Clear
+Dwarka,Clear
+Jaisalmer,Clear
+Statue of Unity (Kevadia),Rain
+Kanyakumari,Clear
+Delhi,Clear
+Visakhapatnam,Clear
+Kolkata,Rain
+Udaipur,Cloudy
+Kolkata,Rain
+Varanasi,Heavy Rain
+Lucknow,Fog
+Shimla,Clear
+Agra,Clear
+Delhi,Storm
+Ajmer,Clear
+Kodaikanal,Clear
+Pushkar,Clear
+Nainital,Cloudy
+Kodaikanal,Rain
+Shirdi,Clear
+Jodhpur,Clear
+Darjeeling,Clear
+Dwarka,Clear
+Kodaikanal,Rain
+Shimla,Rain
+Manali,Rain
+Chennai,Cloudy
+Vaishno Devi (Katra),Cloudy
+Vijayawada,Clear
+Mathura & Vrindavan,Clear
+Delhi,Fog
+Kanyakumari,Clear
+Jaipur,Clear
+Srinagar,Cloudy
+Vaishno Devi (Katra),Cloudy
+Jodhpur,Clear
+Thiruvananthapuram,Fog
+Madurai,Clear
+Rameswaram,Cloudy
+Bengaluru,Clear
+Srinagar,Fog
+Ajmer,Clear
+Agra,Clear
+Kolkata,Rain
+Chennai,Clear
+Lucknow,Storm
+Lucknow,Clear
+Dharamshala,Clear
+Vaishno Devi (Katra),Rain
+Munnar,Cloudy
+Coorg,Fog
+Mathura & Vrindavan,Clear
+Madurai,Clear
+Ooty,Fog
+Alleppey,Rain
+Somnath,Clear
+Varanasi,Clear
+Bengaluru,Clear
+Amritsar,Cloudy
+Darjeeling,Clear
+Kochi,Clear
+Vaishno Devi (Katra),Clear
+Kodaikanal,Clear
+Udaipur,Fog
+Darjeeling,Cloudy
+Tirupati,Clear
+Thiruvananthapuram,Cloudy
+Delhi,Clear
+Jaipur,Cloudy
+Bengaluru,Rain
+Hampi,Cloudy
+Srinagar,Snow
+Thiruvananthapuram,Rain
+Hampi,Rain
+Lucknow,Clear
+Prayagraj,Heavy Rain
+Darjeeling,Rain
+Visakhapatnam,Heavy Rain
+Varanasi,Clear
+Bengaluru,Clear
+Darjeeling,Clear
+Alleppey,Cloudy
+Rishikesh & Haridwar,Fog
+Delhi,Fog
+Pushkar,Cloudy
+Ahmedabad,Fog
+Srinagar,Rain
+Nashik,Rain
+Udaipur,Fog
+Ajmer,Cloudy
+Agra,Clear
+Kolkata,Clear
+Vijayawada,Rain
+Agra,Rain
+Agra,Rain
+Shimla,Clear
+Kolkata,Clear
+Vaishno Devi (Katra),Clear
+Manali,Clear
+Thiruvananthapuram,Cloudy
+Munnar,Cloudy
+Shimla,Heavy Snow
+Goa,Clear
+Varanasi,Rain
+Tirupati,Fog
+Goa,Rain
+Ooty,Clear
+Shimla,Cloudy
+Jaisalmer,Clear
+Aurangabad,Clear
+Bengaluru,Storm
+Kolkata,Cloudy
+Agra,Clear
+Shirdi,Storm
+Mathura & Vrindavan,Cloudy
+Manali,Snow
+Dharamshala,Clear
+Kolkata,Fog
+Shimla,Fog
+Kolkata,Cloudy
+Somnath,Clear
+Hampi,Cloudy
+Kolkata,Rain
+Srinagar,Clear
+Madurai,Clear
+Darjeeling,Clear
+Hampi,Clear
+Manali,Fog
+Somnath,Rain
+Dharamshala,Cloudy
+Mathura & Vrindavan,Rain
+Madurai,Clear
+Jaisalmer,Clear
+Jodhpur,Clear
+Alleppey,Clear
+Varanasi,Cloudy
+Visakhapatnam,Clear
+Rishikesh & Haridwar,Snow
+Jaisalmer,Cloudy
+Pushkar,Storm
+Agra,Clear
+Thiruvananthapuram,Clear
+Jaisalmer,Clear
+Kolkata,Clear
+Pune,Cloudy
+Visakhapatnam,Clear
+Agra,Cloudy
+Varanasi,Clear
+Shimla,Cloudy
+Thiruvananthapuram,Rain
+Somnath,Cloudy
+Chennai,Clear
+Pushkar,Clear
+Kochi,Rain
+Visakhapatnam,Storm
+Coorg,Clear
+Amritsar,Clear
+Agra,Fog
+Bengaluru,Fog
+Darjeeling,Fog
+Nainital,Cloudy
+Madurai,Rain
+Alleppey,Clear
+Delhi,Clear
+Ajmer,Clear
+Dharamshala,Cloudy
+Hampi,Cloudy
+Ajmer,Cloudy
+Mathura & Vrindavan,Clear
+Pushkar,Clear
+Pune,Cloudy
+Hampi,Cloudy
+Nashik,Rain
+Chennai,Storm
+Agra,Clear
+Madurai,Cloudy
+Manali,Cloudy
+Somnath,Rain
+Pune,Clear
+Thiruvananthapuram,Clear
+Kochi,Cloudy
+Mysuru,Storm
+Ayodhya,Cloudy
+Vijayawada,Storm
+Delhi,Rain
+Dwarka,Clear
+Hampi,Cloudy
+Delhi,Clear
+Dharamshala,Cloudy
+Ajmer,Rain
+Varanasi,Cloudy
+Visakhapatnam,Fog
+Pune,Rain
+Aurangabad,Clear
+Dwarka,Clear
+Pushkar,Clear
+Varanasi,Rain
+Alleppey,Clear
+Vaishno Devi (Katra),Clear
+Jodhpur,Clear
+Ahmedabad,Rain
+Pune,Clear
+Mathura & Vrindavan,Rain
+Thiruvananthapuram,Heavy Rain
+Pune,Cloudy
+Udaipur,Clear
+Somnath,Rain
+Visakhapatnam,Clear
+Hampi,Rain
+Srinagar,Rain
+Statue of Unity (Kevadia),Cloudy
+Visakhapatnam,Fog
+Prayagraj,Clear
+Udaipur,Cloudy
+Ayodhya,Cloudy
+Udaipur,Clear
+Dwarka,Clear
+Ahmedabad,Clear
+Jaisalmer,Clear
+Madurai,Fog
+Amritsar,Cloudy
+Vaishno Devi (Katra),Cloudy
+Aurangabad,Cloudy
+Jodhpur,Clear
+Dwarka,Rain
+Jaisalmer,Clear
+Ayodhya,Clear
+Visakhapatnam,Cloudy
+Visakhapatnam,Heavy Rain
+Goa,Clear
+Nainital,Fog
+Alleppey,Clear
+Coorg,Cloudy
+Ajmer,Cloudy
+Vaishno Devi (Katra),Clear
+Dwarka,Clear
+Kanyakumari,Rain
+Goa,Clear
+Tirupati,Clear
+Kanyakumari,Clear
+Srinagar,Clear
+Nashik,Fog
+Bengaluru,Cloudy
+Nainital,Cloudy
+Ahmedabad,Fog
+Rishikesh & Haridwar,Cloudy
+Madurai,Clear
+Goa,Clear
+Delhi,Rain
+Madurai,Clear
+Kolkata,Rain
+Mumbai,Clear
+Rishikesh & Haridwar,Rain
+Pushkar,Clear
+Alleppey,Cloudy
+Ayodhya,Rain
+Varanasi,Clear
+Vaishno Devi (Katra),Clear
+Visakhapatnam,Heavy Rain
+Goa,Clear
+Kanyakumari,Rain
+Statue of Unity (Kevadia),Clear
+Darjeeling,Clear
+Srinagar,Snow
+Ahmedabad,Clear
+Aurangabad,Clear
+Manali,Rain
+Madurai,Clear
+Lucknow,Rain
+Pune,Rain
+Pune,Cloudy
+Kanyakumari,Cloudy
+Rameswaram,Rain
+Nainital,Cloudy
+Kanyakumari,Fog
+Udaipur,Rain
+Agra,Clear
+Agra,Clear
+Bengaluru,Clear
+Mathura & Vrindavan,Rain
+Udaipur,Clear
+Shimla,Cloudy
+Amritsar,Rain
+Visakhapatnam,Rain
+Ahmedabad,Rain
+Kodaikanal,Rain
+Nainital,Snow
+Thiruvananthapuram,Clear
+Statue of Unity (Kevadia),Cloudy
+Tirupati,Cloudy
+Shimla,Clear
+Goa,Clear
+Darjeeling,Rain
+Nainital,Snow
+Shimla,Clear
+Somnath,Cloudy
+Somnath,Clear
+Nainital,Clear
+Ahmedabad,Rain
+Lucknow,Clear
+Hampi,Clear
+Jaipur,Clear
+Pune,Cloudy
+Pune,Cloudy
+Coorg,Cloudy
+Goa,Heavy Rain
+Lucknow,Fog
+Rameswaram,Clear
+Delhi,Clear
+Amritsar,Cloudy
+Statue of Unity (Kevadia),Rain
+Tirupati,Clear
+Dharamshala,Clear
+Kolkata,Clear
+Vaishno Devi (Katra),Fog
+Aurangabad,Clear
+Statue of Unity (Kevadia),Storm
+Shirdi,Clear
+Mumbai,Heavy Rain
+Vijayawada,Clear
+Madurai,Cloudy
+Madurai,Rain
+Kochi,Cloudy
+Alleppey,Heavy Rain
+Varanasi,Fog
+Ajmer,Cloudy
+Somnath,Clear
+Mumbai,Heavy Rain
+Kochi,Clear
+Goa,Clear
+Kanyakumari,Cloudy
+Hampi,Rain
+Dwarka,Rain
+Aurangabad,Clear
+Kodaikanal,Rain
+Kanyakumari,Storm
+Udaipur,Clear
+Agra,Clear
+Delhi,Clear
+Dwarka,Rain
+Visakhapatnam,Clear
+Jodhpur,Clear
+Madurai,Clear
+Amritsar,Cloudy
+Delhi,Clear
+Statue of Unity (Kevadia),Clear
+Dwarka,Cloudy
+Prayagraj,Rain
+Vaishno Devi (Katra),Clear
+Mathura & Vrindavan,Rain
+Rishikesh & Haridwar,Fog
+Nashik,Rain
+Jaisalmer,Clear
+Pune,Clear
+Somnath,Rain
+Madurai,Clear
+Kanyakumari,Clear
+Dharamshala,Snow
+Dharamshala,Cloudy
+Shirdi,Clear
+Kanyakumari,Rain
+Dwarka,Fog
+Hampi,Cloudy
+Nainital,Cloudy
+Lucknow,Clear
+Jodhpur,Clear
+Visakhapatnam,Fog
+Hampi,Rain
+Ooty,Clear
+Udaipur,Clear
+Lucknow,Clear
+Kochi,Clear
+Agra,Cloudy
+Chennai,Clear
+Statue of Unity (Kevadia),Clear
+Kodaikanal,Rain
+Rameswaram,Clear
+Kanyakumari,Heavy Rain
+Amritsar,Fog
+Vijayawada,Clear
+Alleppey,Clear
+Shirdi,Cloudy
+Jaisalmer,Storm
+Chennai,Clear
+Ooty,Clear
+Varanasi,Clear
+Prayagraj,Cloudy
+Shirdi,Heavy Rain
+Amritsar,Clear
+Coorg,Rain
+Kolkata,Cloudy
+Srinagar,Clear
+Tirupati,Rain
+Mumbai,Cloudy
+Varanasi,Clear
+Srinagar,Snow
+Shimla,Cloudy
+Shimla,Rain
+Madurai,Cloudy
+Rameswaram,Fog
+Amritsar,Clear
+Kanyakumari,Clear
+Jodhpur,Clear
+Darjeeling,Clear
+Nashik,Rain
+Nainital,Snow
+Vaishno Devi (Katra),Rain
+Shimla,Cloudy
+Nainital,Cloudy
+Lucknow,Clear
+Munnar,Fog
+Dharamshala,Clear
+Nainital,Clear
+Ayodhya,Clear
+Shirdi,Clear
+Goa,Rain
+Munnar,Heavy Rain
+Kanyakumari,Clear
+Kochi,Rain
+Amritsar,Cloudy
+Nashik,Fog
+Kolkata,Clear
+Prayagraj,Rain
+Dwarka,Rain
+Visakhapatnam,Clear
+Delhi,Clear
+Kolkata,Rain
+Jaisalmer,Clear
+Thiruvananthapuram,Cloudy
+Coorg,Clear
+Rishikesh & Haridwar,Rain
+Pushkar,Clear
+Delhi,Rain
+Tirupati,Rain
+Mysuru,Cloudy
+Statue of Unity (Kevadia),Fog
+Statue of Unity (Kevadia),Rain
+Pushkar,Clear
+Hampi,Rain
+Kochi,Rain
+Somnath,Clear
+Somnath,Clear
+Kolkata,Rain
+Statue of Unity (Kevadia),Rain
+Chennai,Cloudy
+Delhi,Cloudy
+Nainital,Cloudy
+Agra,Rain
+Munnar,Rain
+Ajmer,Clear
+Kolkata,Cloudy
+Jaisalmer,Clear
+Rameswaram,Clear
+Mysuru,Cloudy
+Kanyakumari,Storm
+Dwarka,Clear
+Vaishno Devi (Katra),Clear
+Aurangabad,Clear
+Goa,Cloudy
+Jaipur,Cloudy
+Lucknow,Rain
+Nashik,Rain
+Lucknow,Clear
+Rameswaram,Cloudy
+Dwarka,Cloudy
+Shimla,Fog
+Amritsar,Clear
+Somnath,Rain
+Shimla,Fog
+Aurangabad,Rain
+Coorg,Cloudy
+Madurai,Rain
+Vaishno Devi (Katra),Rain
+Jodhpur,Clear
+Varanasi,Clear
+Kochi,Rain
+Pushkar,Clear
+Nashik,Heavy Rain
+Shimla,Clear
+Rishikesh & Haridwar,Rain
+Dwarka,Rain
+Pushkar,Cloudy
+Ajmer,Clear
+Coorg,Clear
+Coorg,Rain
+Jodhpur,Storm
+Shirdi,Rain
+Nashik,Heavy Rain
+Kanyakumari,Rain
+Delhi,Storm
+Kodaikanal,Cloudy
+Udaipur,Clear
+Shirdi,Cloudy
+Mathura & Vrindavan,Clear
+Kanyakumari,Storm
+Tirupati,Clear
+Mathura & Vrindavan,Rain
+Pune,Cloudy
+Tirupati,Rain
+Jodhpur,Cloudy
+Srinagar,Clear
+Mumbai,Cloudy
+Ahmedabad,Rain
+Thiruvananthapuram,Cloudy
+Aurangabad,Clear
+Darjeeling,Snow
+Mumbai,Heavy Rain
+Thiruvananthapuram,Clear
+Delhi,Clear
+Tirupati,Clear
+Aurangabad,Clear
+Jaisalmer,Clear
+Kanyakumari,Fog
+Aurangabad,Fog
+Kochi,Heavy Rain
+Kolkata,Clear
+Visakhapatnam,Rain
+Coorg,Cloudy
+Nashik,Heavy Rain
+Jaipur,Clear
+Aurangabad,Rain
+Ooty,Clear
+Vaishno Devi (Katra),Rain
+Jodhpur,Clear
+Varanasi,Cloudy
+Pushkar,Clear
+Visakhapatnam,Rain
+Dharamshala,Cloudy
+Rameswaram,Clear
+Munnar,Clear
+Amritsar,Cloudy
+Ajmer,Clear
+Somnath,Cloudy
+Udaipur,Cloudy
+Srinagar,Clear
+Jodhpur,Clear
+Kolkata,Rain
+Lucknow,Fog
+Mumbai,Cloudy
+Dharamshala,Cloudy
+Dharamshala,Fog
+Thiruvananthapuram,Storm
+Mysuru,Fog
+Kodaikanal,Fog
+Darjeeling,Clear
+Statue of Unity (Kevadia),Clear
+Srinagar,Cloudy
+Ajmer,Clear
+Mumbai,Rain
+Vaishno Devi (Katra),Fog
+Dharamshala,Clear
+Nashik,Clear
+Visakhapatnam,Cloudy
+Lucknow,Cloudy
+Mysuru,Rain
+Kochi,Storm
+Pune,Storm
+Shirdi,Rain
+Mysuru,Clear
+Prayagraj,Clear
+Rishikesh & Haridwar,Clear
+Pune,Clear
+Kanyakumari,Cloudy
+Kochi,Clear
+Pune,Fog
+Mumbai,Clear
+Coorg,Rain
+Bengaluru,Clear
+Dharamshala,Fog
+Manali,Rain
+Prayagraj,Clear
+Madurai,Heavy Rain
+Rishikesh & Haridwar,Cloudy
+Kodaikanal,Clear
+Jaisalmer,Cloudy
+Rameswaram,Cloudy
+Udaipur,Clear
+Ajmer,Clear
+Agra,Fog
+Chennai,Storm
+Varanasi,Clear
+Shimla,Fog
+Mathura & Vrindavan,Clear
+Varanasi,Clear
+Kanyakumari,Rain
+Udaipur,Clear
+Ooty,Clear
+Udaipur,Clear
+Prayagraj,Clear
+Kodaikanal,Rain
+Pushkar,Clear
+Kochi,Clear
+Nashik,Clear
+Kolkata,Clear
+Statue of Unity (Kevadia),Clear
+Udaipur,Rain
+Mysuru,Clear
+Srinagar,Rain
+Nashik,Clear
+Jaisalmer,Clear
+Dharamshala,Fog
+Visakhapatnam,Clear
+Statue of Unity (Kevadia),Rain
+Munnar,Rain
+Goa,Clear
+Nashik,Cloudy
+Mumbai,Cloudy
+Kolkata,Cloudy
+Hampi,Cloudy
+Jaisalmer,Clear
+Srinagar,Fog
+Jaipur,Clear
+Thiruvananthapuram,Clear
+Vijayawada,Clear
+Manali,Rain
+Aurangabad,Rain
+Kodaikanal,Cloudy
+Nainital,Rain
+Prayagraj,Fog
+Varanasi,Rain
+Mysuru,Clear
+Dwarka,Storm
+Kolkata,Cloudy
+Agra,Rain
+Tirupati,Rain
+Mumbai,Clear
+Nainital,Fog
+Rishikesh & Haridwar,Clear
+Pune,Cloudy
+Delhi,Clear
+Dharamshala,Cloudy
+Somnath,Clear
+Rishikesh & Haridwar,Rain
+Jaisalmer,Clear
+Kanyakumari,Clear
+Mysuru,Clear
+Lucknow,Clear
+Dwarka,Rain
+Aurangabad,Clear
+Shimla,Rain
+Ayodhya,Rain
+Varanasi,Clear
+Chennai,Clear
+Lucknow,Rain
+Jaisalmer,Clear
+Tirupati,Clear
+Pune,Clear
+Darjeeling,Rain
+Shimla,Snow
+Pushkar,Cloudy
+Manali,Snow
+Shirdi,Clear
+Shirdi,Rain
+Shirdi,Clear
+Hampi,Clear
+Mumbai,Rain
+Dharamshala,Clear
+Ahmedabad,Clear
+Nashik,Fog
+Ayodhya,Storm
+Alleppey,Clear
+Ahmedabad,Cloudy
+Shimla,Clear
+Mumbai,Clear
+Chennai,Rain
+Shimla,Fog
+Chennai,Clear
+Dharamshala,Clear
+Coorg,Rain
+Dwarka,Clear
+Prayagraj,Rain
+Hampi,Rain
+Ajmer,Rain
+Rameswaram,Cloudy
+Srinagar,Clear
+Madurai,Clear
+Mumbai,Rain
+Thiruvananthapuram,Clear
+Munnar,Rain
+Shimla,Clear
+Munnar,Clear
+Dharamshala,Fog
+Udaipur,Clear
+Shimla,Clear
+Delhi,Rain
+Kolkata,Clear
+Pushkar,Clear
+Statue of Unity (Kevadia),Heavy Rain
+Agra,Rain
+Aurangabad,Clear
+Aurangabad,Clear
+Ahmedabad,Clear
+Dharamshala,Snow
+Manali,Cloudy
+Dharamshala,Rain
+Visakhapatnam,Clear
+Pune,Clear
+Jaipur,Clear
+Visakhapatnam,Cloudy
+Visakhapatnam,Clear
+Aurangabad,Rain
+Aurangabad,Clear
+Alleppey,Fog
+Tirupati,Clear
+Dwarka,Cloudy
+Somnath,Clear
+Pushkar,Clear
+Coorg,Clear
+Delhi,Cloudy
+Lucknow,Clear
+Prayagraj,Rain
+Ooty,Clear
+Mumbai,Rain
+Dharamshala,Clear
+Alleppey,Clear
+Madurai,Rain
+Aurangabad,Clear
+Chennai,Cloudy
+Prayagraj,Clear
+Bengaluru,Clear
+Statue of Unity (Kevadia),Storm
+Pune,Cloudy
+Coorg,Clear
+Madurai,Clear
+Goa,Clear
+Pune,Clear
+Shimla,Fog
+Jaisalmer,Clear
+Nainital,Clear
+Vijayawada,Rain
+Mysuru,Clear
+Jaisalmer,Clear
+Pune,Fog
+Mathura & Vrindavan,Clear
+Lucknow,Clear
+Nainital,Clear
+Aurangabad,Rain
+Mysuru,Clear
+Nainital,Cloudy
+Alleppey,Cloudy
+Shimla,Rain
+Prayagraj,Clear
+Aurangabad,Storm
+Ahmedabad,Clear
+Coorg,Rain
+Goa,Cloudy
+Madurai,Cloudy
+Pushkar,Clear
+Varanasi,Rain
+Mumbai,Rain
+Coorg,Cloudy
+Prayagraj,Clear
+Nainital,Fog
+Bengaluru,Heavy Rain
+Ajmer,Clear
+Kanyakumari,Clear
+Rishikesh & Haridwar,Cloudy
+Udaipur,Clear
+Kochi,Cloudy
+Shimla,Cloudy
+Jaisalmer,Clear
+Ayodhya,Clear
+Jaisalmer,Clear
+Rishikesh & Haridwar,Clear
+Nainital,Cloudy
+Kodaikanal,Rain
+Chennai,Clear
+Delhi,Clear
+Lucknow,Cloudy
+Pushkar,Clear
+Jaisalmer,Storm
+Visakhapatnam,Cloudy
+Mathura & Vrindavan,Clear
+Jaisalmer,Clear
+Somnath,Clear
+Darjeeling,Rain
+Visakhapatnam,Heavy Rain
+Kolkata,Cloudy
+Rishikesh & Haridwar,Snow
+Somnath,Clear
+Tirupati,Cloudy
+Kolkata,Clear
+Tirupati,Fog
+Srinagar,Clear
+Manali,Heavy Snow
+Dwarka,Clear
+Ajmer,Storm
+Shimla,Clear
+Coorg,Cloudy
+Srinagar,Snow
+Aurangabad,Clear
+Agra,Clear
+Kanyakumari,Rain
+Rameswaram,Rain
+Nainital,Snow
+Bengaluru,Cloudy
+Tirupati,Cloudy
+Ayodhya,Fog
+Manali,Clear
+Mumbai,Clear
+Delhi,Fog
+Mumbai,Cloudy
+Visakhapatnam,Heavy Rain
+Rameswaram,Rain
+Mathura & Vrindavan,Fog
+Srinagar,Rain
+Kochi,Clear
+Goa,Fog
+Manali,Clear
+Kolkata,Rain
+Shimla,Cloudy
+Darjeeling,Fog
+Madurai,Clear
+Shimla,Clear
+Shirdi,Clear
+Ajmer,Clear
+Coorg,Clear
+Statue of Unity (Kevadia),Clear
+Ahmedabad,Rain
+Coorg,Cloudy
+Kodaikanal,Fog
+Visakhapatnam,Heavy Rain
+Dharamshala,Clear
+Ayodhya,Fog
+Mysuru,Cloudy
+Mathura & Vrindavan,Clear
+Nainital,Clear
+Coorg,Rain
+Visakhapatnam,Rain
+Kochi,Rain
+Nashik,Cloudy
+Dwarka,Clear
+Bengaluru,Rain
+Tirupati,Storm
+Jodhpur,Clear
+Ajmer,Clear
+Kodaikanal,Fog
+Bengaluru,Cloudy
+Somnath,Clear
+Somnath,Cloudy
+Udaipur,Heavy Rain
+Kanyakumari,Clear
+Dharamshala,Fog
+Madurai,Rain
+Kodaikanal,Clear
+Dwarka,Cloudy
+Ajmer,Clear
+Aurangabad,Rain
+Ooty,Fog
+Jodhpur,Clear
+Kodaikanal,Clear
+Dwarka,Clear
+Darjeeling,Cloudy
+Ajmer,Cloudy
+Rishikesh & Haridwar,Fog
+Ahmedabad,Clear
+Agra,Clear
+Kolkata,Storm
+Jaisalmer,Clear
+Madurai,Clear
+Coorg,Clear
+Udaipur,Clear
+Dharamshala,Clear
+Shimla,Snow
+Lucknow,Fog
+Srinagar,Rain
+Rishikesh & Haridwar,Rain
+Visakhapatnam,Cloudy
+Nainital,Rain
+Ayodhya,Rain
+Alleppey,Clear
+Ajmer,Clear
+Nashik,Rain
+Kochi,Storm
+Statue of Unity (Kevadia),Heavy Rain
+Munnar,Clear
+Shimla,Fog
+Nainital,Rain
+Aurangabad,Fog
+Bengaluru,Cloudy
+Thiruvananthapuram,Storm
+Kodaikanal,Clear
+Jaisalmer,Clear
+Ajmer,Clear
+Udaipur,Heavy Rain
+Statue of Unity (Kevadia),Cloudy
+Chennai,Rain
+Pushkar,Clear
+Somnath,Rain
+Madurai,Heavy Rain
+Mathura & Vrindavan,Clear
+Ahmedabad,Clear
+Bengaluru,Clear
+Rameswaram,Clear
+Dwarka,Cloudy
+Alleppey,Rain
+Chennai,Clear
+Agra,Clear
+Mathura & Vrindavan,Cloudy
+Delhi,Clear
+Mysuru,Clear
+Vaishno Devi (Katra),Rain
+Shimla,Fog
+Pushkar,Clear
+Goa,Clear
+Pune,Clear
+Madurai,Fog
+Udaipur,Cloudy
+Alleppey,Cloudy
+Somnath,Fog
+Shimla,Cloudy
+Jaipur,Cloudy
+Dharamshala,Fog
+Ooty,Fog
+Alleppey,Rain
+Statue of Unity (Kevadia),Clear
+Jaisalmer,Clear
+Thiruvananthapuram,Clear
+Bengaluru,Rain
+Jaipur,Clear
+Kochi,Clear
+Goa,Heavy Rain
+Mysuru,Cloudy
+Rameswaram,Cloudy
+Kolkata,Rain
+Rameswaram,Rain
+Nainital,Rain
+Lucknow,Clear
+Pushkar,Cloudy
+Delhi,Clear
+Visakhapatnam,Rain
+Ooty,Clear
+Pushkar,Clear
+Mysuru,Clear
+Jaipur,Rain
+Kochi,Clear
+Dwarka,Clear
+Goa,Cloudy
+Pune,Clear
+Rishikesh & Haridwar,Cloudy
+Srinagar,Clear
+Mysuru,Clear
+Jaipur,Clear
+Shirdi,Cloudy
+Ajmer,Clear
+Amritsar,Rain
+Delhi,Clear
+Aurangabad,Clear
+Ahmedabad,Clear
+Amritsar,Clear
+Thiruvananthapuram,Fog
+Somnath,Cloudy
+Jaisalmer,Clear
+Kolkata,Clear
+Mysuru,Rain
+Manali,Clear
+Ahmedabad,Clear
+Shirdi,Rain
+Ayodhya,Rain
+Vijayawada,Clear
+Thiruvananthapuram,Cloudy
+Somnath,Clear
+Nainital,Fog
+Darjeeling,Rain
+Ayodhya,Cloudy
+Pushkar,Clear
+Ayodhya,Clear
+Ooty,Fog
+Mysuru,Storm
+Ooty,Clear
+Mumbai,Clear
+Kodaikanal,Clear
+Pushkar,Clear
+Agra,Clear
+Madurai,Clear
+Srinagar,Clear
+Darjeeling,Clear
+Rameswaram,Rain
+Agra,Clear
+Srinagar,Clear
+Amritsar,Cloudy
+Chennai,Clear
+Rishikesh & Haridwar,Heavy Snow
+Dharamshala,Fog
+Shimla,Cloudy
+Kanyakumari,Clear
+Rameswaram,Clear
+Varanasi,Clear
+Delhi,Clear
+Ahmedabad,Clear
+Jodhpur,Cloudy
+Jaipur,Clear
+Munnar,Heavy Rain
+Hampi,Rain
+Kodaikanal,Fog
+Dwarka,Clear
+Ayodhya,Fog
+Kochi,Cloudy
+Kochi,Cloudy
+Shimla,Cloudy
+Rameswaram,Clear
+Mumbai,Fog
+Jaisalmer,Clear
+Kodaikanal,Clear
+Kanyakumari,Clear
+Jaisalmer,Clear
+Rishikesh & Haridwar,Clear
+Munnar,Clear
+Nashik,Rain
+Shimla,Clear
+Shimla,Clear
+Ajmer,Rain
+Ayodhya,Rain
+Jaipur,Clear
+Coorg,Rain
+Ayodhya,Rain
+Pushkar,Clear
+Dharamshala,Fog
+Ahmedabad,Clear
+Madurai,Clear
+Thiruvananthapuram,Clear
+Vijayawada,Clear
+Udaipur,Clear
+Agra,Clear
+Delhi,Clear
+Mysuru,Clear
+Ajmer,Clear
+Vaishno Devi (Katra),Cloudy
+Munnar,Cloudy
+Jaisalmer,Clear
+Coorg,Clear
+Ayodhya,Clear
+Coorg,Cloudy
+Pune,Heavy Rain
+Agra,Clear
+Somnath,Rain
+Somnath,Clear
+Vaishno Devi (Katra),Cloudy
+Ajmer,Cloudy
+Kanyakumari,Cloudy
+Nashik,Clear
+Agra,Clear
+Kodaikanal,Rain
+Chennai,Cloudy
+Amritsar,Clear
+Chennai,Clear
+Manali,Cloudy
+Lucknow,Clear
+Statue of Unity (Kevadia),Fog
+Srinagar,Clear
+Ooty,Rain
+Udaipur,Storm
+Vaishno Devi (Katra),Clear
+Ooty,Fog
+Udaipur,Cloudy
+Shirdi,Clear
+Tirupati,Clear
+Varanasi,Clear
+Ahmedabad,Clear
+Goa,Rain
+Rameswaram,Cloudy
+Delhi,Cloudy
+Amritsar,Rain
+Kanyakumari,Cloudy
+Prayagraj,Rain
+Somnath,Clear
+Jaipur,Clear
+Ayodhya,Clear
+Statue of Unity (Kevadia),Rain
+Mysuru,Rain
+Ooty,Clear
+Statue of Unity (Kevadia),Clear
+Nainital,Cloudy
+Kanyakumari,Clear
+Vaishno Devi (Katra),Fog
+Jaisalmer,Storm
+Vaishno Devi (Katra),Clear
+Amritsar,Heavy Rain
+Srinagar,Cloudy
+Tirupati,Clear
+Bengaluru,Rain
+Alleppey,Rain
+Visakhapatnam,Cloudy
+Srinagar,Cloudy
+Agra,Clear
+Thiruvananthapuram,Storm
+Kanyakumari,Rain
+Kochi,Rain
+Dwarka,Fog
+Pushkar,Clear
+Kochi,Heavy Rain
+Rishikesh & Haridwar,Cloudy
+Ajmer,Fog
+Shirdi,Heavy Rain
+Varanasi,Cloudy
+Udaipur,Cloudy
+Ahmedabad,Clear
+Prayagraj,Rain
+Alleppey,Clear
+Shimla,Clear
+Vijayawada,Cloudy
+Mysuru,Clear
+Goa,Rain
+Amritsar,Clear
+Alleppey,Clear
+Mysuru,Rain
+Ahmedabad,Clear
+Rishikesh & Haridwar,Rain
+Kodaikanal,Rain
+Shirdi,Clear
+Mysuru,Rain
+Ahmedabad,Clear
+Pune,Clear
+Thiruvananthapuram,Heavy Rain
+Ahmedabad,Rain
+Nainital,Cloudy
+Kochi,Heavy Rain
+Pune,Clear
+Darjeeling,Rain
+Vaishno Devi (Katra),Clear
+Chennai,Rain
+Prayagraj,Clear
+Somnath,Rain
+Thiruvananthapuram,Rain
+Coorg,Fog
+Amritsar,Clear
+Vaishno Devi (Katra),Cloudy
+Nashik,Fog
+Mumbai,Clear
+Ajmer,Clear
+Mathura & Vrindavan,Clear
+Coorg,Clear
+Hampi,Cloudy
+Ajmer,Clear
+Dwarka,Rain
+Agra,Rain
+Mumbai,Rain
+Visakhapatnam,Cloudy
+Pushkar,Clear
+Chennai,Clear
+Hampi,Clear
+Udaipur,Clear
+Somnath,Storm
+Manali,Clear
+Kodaikanal,Rain
+Dwarka,Rain
+Chennai,Clear
+Kolkata,Rain
+Mumbai,Clear
+Agra,Clear
+Ajmer,Clear
+Nashik,Rain
+Dharamshala,Cloudy
+Madurai,Clear
+Rishikesh & Haridwar,Cloudy
+Manali,Heavy Snow
+Dwarka,Clear
+Prayagraj,Rain
+Kolkata,Clear
+Hampi,Rain
+Jaisalmer,Clear
+Hampi,Clear
+Statue of Unity (Kevadia),Clear
+Rameswaram,Clear
+Amritsar,Rain
+Thiruvananthapuram,Cloudy
+Aurangabad,Heavy Rain
+Chennai,Rain
+Vaishno Devi (Katra),Clear
+Ajmer,Clear
+Darjeeling,Fog
+Mysuru,Cloudy
+Statue of Unity (Kevadia),Rain
+Kolkata,Clear
+Tirupati,Cloudy
+Goa,Heavy Rain
+Coorg,Rain
+Kochi,Clear
+Somnath,Cloudy
+Vaishno Devi (Katra),Clear
+Kochi,Clear
+Statue of Unity (Kevadia),Rain
+Mumbai,Clear
+Chennai,Clear
+Amritsar,Rain
+Kochi,Rain
+Rishikesh & Haridwar,Cloudy
+Amritsar,Rain
+Madurai,Rain
+Tirupati,Rain
+Jodhpur,Clear
+Thiruvananthapuram,Fog
+Visakhapatnam,Clear
+Shirdi,Cloudy
+Somnath,Clear
+Pune,Storm
+Bengaluru,Clear
+Mysuru,Clear
+Vaishno Devi (Katra),Clear
+Vaishno Devi (Katra),Heavy Snow
+Darjeeling,Cloudy
+Jodhpur,Clear
+Delhi,Clear
+Bengaluru,Cloudy
+Jaisalmer,Cloudy
+Jodhpur,Clear
+Ahmedabad,Clear
+Somnath,Fog
+Hampi,Fog
+Ooty,Clear
+Goa,Cloudy
+Dwarka,Heavy Rain
+Mysuru,Clear
+Hampi,Rain
+Shimla,Snow
+Ayodhya,Fog
+Jaisalmer,Clear
+Rameswaram,Rain
+Vijayawada,Rain
+Prayagraj,Clear
+Rishikesh & Haridwar,Clear
+Rameswaram,Heavy Rain
+Rishikesh & Haridwar,Cloudy
+Ayodhya,Rain
+Ooty,Rain
+Munnar,Rain
+Jodhpur,Clear
+Bengaluru,Clear
+Jaisalmer,Clear
+Jaisalmer,Clear
+Rameswaram,Cloudy
+Darjeeling,Rain
+Jaipur,Clear
+Nainital,Clear
+Ahmedabad,Clear
+Srinagar,Rain
+Prayagraj,Rain
+Delhi,Clear
+Shirdi,Clear
+Kolkata,Clear
+Rishikesh & Haridwar,Clear
+Nainital,Clear
+Lucknow,Clear
+Vijayawada,Clear
+Jodhpur,Clear
+Pune,Clear
+Udaipur,Clear
+Varanasi,Fog
+Munnar,Rain
+Pune,Clear
+Mathura & Vrindavan,Clear
+Lucknow,Cloudy
+Srinagar,Fog
+Alleppey,Fog
+Srinagar,Fog
+Ooty,Clear
+Rameswaram,Fog
+Lucknow,Cloudy
+Ooty,Clear
+Tirupati,Clear
+Kochi,Cloudy
+Nainital,Clear
+Somnath,Clear
+Vaishno Devi (Katra),Clear
+Kanyakumari,Clear
+Mumbai,Heavy Rain
+Manali,Clear
+Agra,Heavy Rain
+Amritsar,Clear
+Bengaluru,Clear
+Munnar,Rain
+Jodhpur,Clear
+Statue of Unity (Kevadia),Clear
+Ooty,Rain
+Delhi,Clear
+Alleppey,Rain
+Bengaluru,Clear
+Mumbai,Clear
+Ahmedabad,Storm
+Varanasi,Cloudy
+Thiruvananthapuram,Clear
+Madurai,Clear
+Udaipur,Rain
+Vijayawada,Clear
+Visakhapatnam,Clear
+Jodhpur,Cloudy
+Pushkar,Clear
+Pune,Clear
+Prayagraj,Fog
+Pune,Clear
+Nashik,Cloudy
+Chennai,Rain
+Jaipur,Clear
+Pushkar,Clear
+Chennai,Clear
+Munnar,Clear
+Kolkata,Rain
+Dwarka,Clear
+Bengaluru,Clear
+Tirupati,Cloudy
+Coorg,Fog
+Goa,Clear
+Delhi,Cloudy
+Jaisalmer,Clear
+Agra,Cloudy
+Coorg,Rain
+Kanyakumari,Clear
+Jaisalmer,Clear
+Pune,Clear
+Udaipur,Clear
+Ooty,Rain
+Mathura & Vrindavan,Cloudy
+Ajmer,Cloudy
+Srinagar,Clear
+Shimla,Cloudy
+Somnath,Clear
+Nainital,Fog
+Kodaikanal,Clear
+Jaipur,Clear
+Nashik,Clear
+Madurai,Clear
+Mysuru,Heavy Rain
+Agra,Cloudy
+Ajmer,Clear
+Ahmedabad,Cloudy
+Statue of Unity (Kevadia),Fog
+Rishikesh & Haridwar,Cloudy
+Mathura & Vrindavan,Clear
+Delhi,Clear
+Kochi,Clear
+Rameswaram,Rain
