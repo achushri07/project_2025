@@ -205,6 +205,11 @@ def chat():
 def index():
     return render_template('index.html')
 
+# NEW ROUTE: Add Manali route for redirection
+@app.route('/manali')
+def manali():
+    return render_template('manali.html')
+
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
