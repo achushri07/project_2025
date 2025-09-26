@@ -75,6 +75,7 @@ body.dark .navbar {
   justify-content: space-between;
 }
 
+/* UPDATED THIS STYLE RULE */
 .nav-links a {
   text-decoration: none;
   color: inherit;
@@ -82,6 +83,10 @@ body.dark .navbar {
   position: relative;
   transition: transform 0.3s, color 0.3s, text-shadow 0.3s;
   font-size: 20px;
+  /* ADD THESE 3 LINES FOR ICON ALIGNMENT */
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
 }
 
 .nav-links a:hover {
@@ -161,6 +166,7 @@ body.dark #theme-toggle:hover {
   text-shadow: 0 0 8px var(--glow-orange);
 }
 
+/* The rest of your CSS file remains the same... */
 /* ===== HERO SECTION ===== */
 .hero {
   height: 100vh;
