@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Xplor Bharat</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
 <body>
     <nav class="navbar">
-        <div class="logo"><img src="remove.png" alt="logo">
+        <div class="logo"><img src="{{ url_for('static', filename='remove.png') }}" alt="logo">
             <h1 data-key="site_title">Xplor Bharat</h1>
         </div>
         <ul class="nav-links">
@@ -21,7 +22,7 @@
                 <a href="#" data-key="nav_features"><i class="fa-solid fa-star"></i>Features</a>
                 <ul class="dropdown-menu">
                     <li><a href="#" data-key="nav_ai_planner">AI Planner</a></li>
-                    <li><a href="#" id="text-to-speech-btn"><i class="fa-solid fa-volume-high"></i><span data-translate="nav_tts">Text to Speech</span></a></li>
+                    <li><a href="#" id="text-to-speech-btn"><i class="fa-solid fa-volume-high"></i>Text to Speech</a></li>
                 </ul>
             </li>
             <li class="dropdown">
@@ -314,4 +315,3 @@
 </body>
 
 </html>
-
