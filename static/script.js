@@ -303,6 +303,27 @@ document.addEventListener("DOMContentLoaded", () => {
   let selectedFestival = null;
   let selectedHoliday = null;
   let selectedRating = 0;
+  let isSpeaking = false; // Variable for TTS state
+
+  // --- NEW TEXT-TO-SPEECH (TTS) FEATURE ---
+  const ttsButton = document.getElementById('text-to-speech-btn');
+    ttsButton.addEventListener('click', (e) => {
+        e.preventDefault();
+        if (isSpeaking) {
+            window.speechSynthesis.cancel();
+            isSpeaking = false;
+        } else {
+            let textToSpeak = '';
+            document.querySelectorAll('[data-key]').forEach(el => {
+                 textToSpeak += el.innerText + '. ';
+            });
+            const utterance = new SpeechSynthesisUtterance(textToSpeak);
+            utterance.lang = localStorage.getItem('language') || 'en';
+            utterance.onend = () => { isSpeaking = false; };
+            window.speechSynthesis.speak(utterance);
+            isSpeaking = true;
+        }
+    });
 
   // Theme Toggle
   const themeToggle = document.getElementById("theme-toggle");
@@ -387,8 +408,9 @@ document.addEventListener("DOMContentLoaded", () => {
   // Use keys to look up quotes from the translations object
   const quoteKeys = ["hero_quote_1", "hero_quote_2", "hero_quote_3", "hero_quote_4"];
   let quoteIndex = 0;
-  
+
   function nextHero() {
+      if (heroBgs.length === 0) return; // Prevent errors if no hero backgrounds
       heroBgs.forEach(bg => bg.classList.remove("active"));
       heroBgs[quoteIndex].classList.add("active");
 
@@ -473,18 +495,18 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   // --- NEW REDIRECTION LOGIC: Separate event listeners for the two buttons ---
-  
+
   // Event listener for the "Plan Your Trip" button (WITH REDIRECTION)
   document.getElementById('plan-trip-btn').addEventListener('click', () => {
     const destination = document.getElementById('destination-input').value.trim();
-    
+
     // Check if the destination is Manali and redirect
     if (destination.toLowerCase() === 'manali') {
       // Create the static folder structure if it doesn't exist and redirect to manali page
       window.location.href = "/manali";
       return; // Exit to prevent calling getPredictions()
     }
-    
+
     // If not Manali, proceed with the prediction logic
     getPredictions();
   });
