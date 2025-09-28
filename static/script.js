@@ -344,7 +344,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const chatInput = chatPop.querySelector('input');
   const chatMessages = document.createElement('div');
 
-    // --- AI Planner Link to open Chatbot ---
+  // --- AI Planner Link to open Chatbot ---
   const aiPlannerLink = document.getElementById('ai-planner-link');
   const chatbotPopup = document.getElementById('chatbot-popup');
 
@@ -805,5 +805,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Initialize page
   console.log('🚀 Xplor Bharat initialized successfully!');
-
 });
