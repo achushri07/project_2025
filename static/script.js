@@ -344,6 +344,15 @@ document.addEventListener("DOMContentLoaded", () => {
   const chatInput = chatPop.querySelector('input');
   const chatMessages = document.createElement('div');
 
+    // --- AI Planner Link to open Chatbot ---
+  const aiPlannerLink = document.getElementById('ai-planner-link');
+  const chatbotPopup = document.getElementById('chatbot-popup');
+
+  aiPlannerLink.addEventListener('click', (e) => {
+    e.preventDefault(); // Prevents the link from trying to navigate
+    chatbotPopup.style.display = 'block'; // Opens the chatbot
+  });
+
   // Add chat messages container to popup
   chatMessages.className = 'chat-messages';
   chatPop.insertBefore(chatMessages, chatInput);
@@ -796,4 +805,5 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Initialize page
   console.log('🚀 Xplor Bharat initialized successfully!');
+
 });
