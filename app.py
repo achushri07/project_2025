@@ -210,6 +210,11 @@ def index():
 def manali():
     return render_template('manali.html')
 
+# NEW ROUTE: Add Itinerary Generator route
+@app.route('/itinerary')
+def itinerary():
+    return render_template('itinerary.html')
+
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
