@@ -34,6 +34,8 @@ document.addEventListener('DOMContentLoaded', () => {
             it_empty_title: 'Your AI Itinerary',
             it_empty_desc: 'Fill out the form to generate your travel plan.',
             it_ready_desc: 'Your personalized itinerary is ready!',
+            it_error_title: 'Generation Error',
+            it_error_desc: 'Could not generate itinerary. Please try again.',
         },
         hi: {
             nav_home: 'होम',
@@ -62,6 +64,8 @@ document.addEventListener('DOMContentLoaded', () => {
             it_empty_title: 'आपका एआई यात्रा कार्यक्रम',
             it_empty_desc: 'अपनी यात्रा योजना बनाने के लिए फॉर्म भरें।',
             it_ready_desc: 'आपका व्यक्तिगत यात्रा कार्यक्रम तैयार है!',
+            it_error_title: 'उत्पन्न त्रुटि',
+            it_error_desc: 'यात्रा कार्यक्रम उत्पन्न नहीं हो सका। कृपया पुनः प्रयास करें।',
         },
         mr: {
             nav_home: 'मुख्यपृष्ठ',
@@ -90,6 +94,8 @@ document.addEventListener('DOMContentLoaded', () => {
             it_empty_title: 'तुमची एआय प्रवास योजना',
             it_empty_desc: 'तुमची प्रवास योजना तयार करण्यासाठी फॉर्म भरा.',
             it_ready_desc: 'तुमची वैयक्तिकृत प्रवास योजना तयार आहे!',
+            it_error_title: 'निर्मिती त्रुटी',
+            it_error_desc: 'प्रवास योजना तयार करू शकलो नाही. कृपया पुन्हा प्रयत्न करा.',
         },
         es: {
             nav_home: 'Inicio',
@@ -118,6 +124,8 @@ document.addEventListener('DOMContentLoaded', () => {
             it_empty_title: 'Tu Itinerario de IA',
             it_empty_desc: 'Completa el formulario para generar tu plan de viaje.',
             it_ready_desc: '¡Tu itinerario personalizado está listo!',
+            it_error_title: 'Error de Generación',
+            it_error_desc: 'No se pudo generar el itinerario. Por favor, inténtalo de nuevo.',
         }
     };
 
@@ -174,98 +182,6 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 'festivals_nightlife', label: 'Festivals & Nightlife', icon: 'party-popper' }
     ];
 
-    const itMockItineraries = {
-        default: { 
-            title: "Spiritual Rishikesh Escape", 
-            days: [
-                { 
-                    day: 1, 
-                    title: "Arrival & Spiritual Evening", 
-                    activities: [
-                        { time: "2:00 PM", title: "Arrive in Rishikesh", description: "Check into a serene ashram or riverside hotel.", location: "Rishikesh", type: "transport" }, 
-                        { time: "5:00 PM", title: "Ganga Aarti Ceremony", description: "Witness the mesmerizing evening prayer ceremony at Parmarth Niketan.", location: "Parmarth Niketan Ghat", type: "cultural" }, 
-                        { time: "7:30 PM", title: "Sattvic Dinner", description: "Enjoy a healthy and pure vegetarian meal at a local cafe.", location: "Ram Jhula", type: "food" }
-                    ] 
-                }, 
-                { 
-                    day: 2, 
-                    title: "Yoga, Beatles & Bridges", 
-                    activities: [
-                        { time: "7:00 AM", title: "Sunrise Yoga", description: "Participate in a morning yoga session overlooking the Ganges.", location: "Your Ashram/Hotel", type: "activity" }, 
-                        { time: "10:00 AM", title: "Beatles Ashram Exploration", description: "Explore the graffiti-covered domes where The Beatles stayed.", location: "Beatles Ashram", type: "attraction" }, 
-                        { time: "1:00 PM", title: "Cross Laxman Jhula", description: "Walk across the iconic suspension bridge with stunning river views.", location: "Laxman Jhula", type: "attraction" }
-                    ] 
-                }
-            ] 
-        },
-        adventure_trekking: { 
-            title: "Himalayan Trekking Adventure", 
-            days: [
-                { 
-                    day: 1, 
-                    title: "Manali to Chika", 
-                    activities: [
-                        { time: "9:00 AM", title: "Drive to Jobra", description: "Start your journey with a scenic drive from Manali to the trek starting point.", location: "Jobra", type: "transport" }, 
-                        { time: "11:00 AM", title: "Trek to Chika", description: "A gentle 2-hour trek through lush forests to the beautiful campsite of Chika.", location: "Chika Campsite", type: "trekking" }, 
-                        { time: "6:00 PM", title: "Campfire & Stargazing", description: "Enjoy dinner by the campfire under a clear Himalayan sky.", location: "Chika", type: "activity" }
-                    ] 
-                }, 
-                { 
-                    day: 2, 
-                    title: "Trek to Balu ka Ghera", 
-                    activities: [
-                        { time: "8:00 AM", title: "Begin Trek", description: "Trek along the river, crossing streams and boulder sections.", location: "Trail to Balu ka Ghera", type: "trekking" }, 
-                        { time: "2:00 PM", title: "Reach Campsite", description: "Arrive at Balu ka Ghera (Heap of Sand), a flat plain at the base of Hampta Pass.", location: "Balu ka Ghera", type: "attraction" }
-                    ] 
-                }
-            ] 
-        },
-        beaches_islands: { 
-            title: "Andaman Islands Paradise", 
-            days: [
-                { 
-                    day: 1, 
-                    title: "Arrival in Port Blair & Cellular Jail", 
-                    activities: [
-                        { time: "11:00 AM", title: "Arrive at Port Blair", description: "Transfer to your hotel and relax.", location: "Port Blair", type: "transport" }, 
-                        { time: "3:00 PM", title: "Cellular Jail Visit", description: "Visit the historic colonial prison and learn about India's freedom struggle.", location: "Cellular Jail", type: "heritage_culture" }, 
-                        { time: "6:00 PM", title: "Light & Sound Show", description: "Experience the moving saga of the freedom fighters at the Cellular Jail.", location: "Cellular Jail", type: "activity" }
-                    ] 
-                }, 
-                { 
-                    day: 2, 
-                    title: "Havelock Island & Radhanagar Beach", 
-                    activities: [
-                        { time: "8:00 AM", title: "Ferry to Havelock", description: "Take a high-speed ferry to the stunning Havelock Island (Swaraj Dweep).", location: "Havelock Island", type: "transport" }, 
-                        { time: "2:00 PM", title: "Radhanagar Beach", description: "Relax and swim at one of Asia's best beaches, known for its white sand and turquoise water.", location: "Radhanagar Beach", type: "attraction" }
-                    ] 
-                }
-            ] 
-        },
-        heritage_culture: { 
-            title: "Royal Rajasthan Discovery", 
-            days: [
-                { 
-                    day: 1, 
-                    title: "Jaipur: The Pink City", 
-                    activities: [
-                        { time: "10:00 AM", title: "Amer Fort", description: "Explore the magnificent hilltop fort with its intricate architecture and stunning views.", location: "Amer Fort", type: "attraction" }, 
-                        { time: "2:00 PM", title: "City Palace", description: "Visit the royal residence, a beautiful blend of Rajput and Mughal architecture.", location: "City Palace, Jaipur", type: "heritage_culture" }, 
-                        { time: "5:00 PM", title: "Hawa Mahal", description: "Admire the iconic 'Palace of Winds' with its unique five-story facade.", location: "Hawa Mahal", type: "attraction" }
-                    ] 
-                }, 
-                { 
-                    day: 2, 
-                    title: "Jodhpur: The Blue City", 
-                    activities: [
-                        { time: "10:00 AM", title: "Mehrangarh Fort", description: "Discover one of India's largest forts, towering over the blue city.", location: "Mehrangarh Fort", type: "attraction" }, 
-                        { time: "3:00 PM", title: "Jaswant Thada", description: "Visit the beautiful marble cenotaph built in memory of Maharaja Jaswant Singh II.", location: "Jaswant Thada", type: "heritage_culture" }
-                    ] 
-                }
-            ] 
-        }
-    };
-
     const itGetActivityIconName = (type) => ({ 
         'transport': 'car', 
         'attraction': 'map-pin', 
@@ -273,7 +189,10 @@ document.addEventListener('DOMContentLoaded', () => {
         'cultural': 'landmark', 
         'activity': 'gamepad-2', 
         'trekking': 'mountain', 
-        'heritage_culture': 'landmark' 
+        'heritage_culture': 'landmark',
+        'nature': 'leaf',
+        'shopping': 'shopping-cart',
+        'nightlife': 'party-popper'
     }[type] || 'map-pin');
 
     const setupItineraryInteractions = () => {
@@ -312,6 +231,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     return `<div class="p-4"><div class="flex items-center mb-4"><div class="bg-neon-cyan text-dark-blue-bg rounded-full w-8 h-8 flex items-center justify-center mr-3 font-bold">${day.day}</div><div><h3 class="font-semibold">${day.title}</h3><p class="text-sm text-text-secondary-it">Day ${day.day}</p></div></div><div class="space-y-3">${activitiesHTML}</div></div>`;
                 }).join('');
                 itItineraryContainer.innerHTML = `<div class="control-block rounded-lg"><div class="p-6 border-b-2 border-neon-cyan"><h2 class="flex items-center text-xl font-semibold"><i data-lucide="check-circle" class="mr-2 h-5 w-5"></i>${itinerary.title}</h2><p class="text-text-secondary-it mt-1">${translations[lang]['it_ready_desc']}</p></div><div class="max-h-[80vh] overflow-y-auto">${daysHTML}</div></div>`;
+            } else if (itState.isGenerating === 'error') {
+                itItineraryContainer.innerHTML = `<div class="control-block border-dashed h-full"><div class="p-12 text-center flex flex-col justify-center items-center h-full"><div class="bg-light-blue-bg border border-red-500 rounded-full w-20 h-20 flex items-center justify-center mx-auto mb-4"><i data-lucide="alert-circle" class="h-10 w-10 text-red-500"></i></div><h3 class="text-lg font-medium text-text-primary-it mb-2">${translations[lang]['it_error_title']}</h3><p class="text-text-secondary-it">${translations[lang]['it_error_desc']}</p></div></div>`;
             } else {
                 itItineraryContainer.innerHTML = `<div class="control-block border-dashed h-full"><div class="p-12 text-center flex flex-col justify-center items-center h-full"><div class="bg-light-blue-bg border border-card-border rounded-full w-20 h-20 flex items-center justify-center mx-auto mb-4"><i data-lucide="sparkles" class="h-10 w-10 text-neon-cyan"></i></div><h3 class="text-lg font-medium text-text-primary-it mb-2">${translations[lang]['it_empty_title']}</h3><p class="text-text-secondary-it">${translations[lang]['it_empty_desc']}</p></div></div>`;
             }
@@ -353,24 +274,53 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        itGenerateBtn.addEventListener('click', () => {
+        // UPDATED: Call the real API instead of using mock data
+        itGenerateBtn.addEventListener('click', async () => {
+            // Validation
+            if (!itState.formData.duration) {
+                alert('Please select trip duration!');
+                return;
+            }
+            
+            if (itState.formData.interests.length === 0) {
+                alert('Please select at least one interest!');
+                return;
+            }
+
             itState.isGenerating = true;
             itRenderGenerateButton();
-            setTimeout(() => {
-                const interests = itState.formData.interests;
-                if (interests.includes('beaches_islands')) {
-                    itState.generatedItinerary = itMockItineraries.beaches_islands;
-                } else if (interests.includes('adventure_trekking')) {
-                    itState.generatedItinerary = itMockItineraries.adventure_trekking;
-                } else if (interests.includes('heritage_culture')) {
-                    itState.generatedItinerary = itMockItineraries.heritage_culture;
+            
+            try {
+                // Call the API
+                const response = await fetch('/generate_itinerary', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        duration: itState.formData.duration,
+                        interests: itState.formData.interests,
+                        travelType: itState.formData.travelType || 'solo',
+                        budget: itState.formData.budget || 'mid-range'
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.status === 'success' && data.itinerary) {
+                    itState.generatedItinerary = data.itinerary;
+                    itState.isGenerating = false;
                 } else {
-                    itState.generatedItinerary = itMockItineraries.default;
+                    throw new Error(data.message || 'Failed to generate itinerary');
                 }
-                itState.isGenerating = false;
-                itRenderGenerateButton();
-                itRenderItinerary();
-            }, 2000);
+            } catch (error) {
+                console.error('Error generating itinerary:', error);
+                itState.isGenerating = 'error';
+                itState.generatedItinerary = null;
+            }
+            
+            itRenderGenerateButton();
+            itRenderItinerary();
         });
 
         itInitializeCustomSelect('duration-select-it', 'duration');
