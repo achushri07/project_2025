@@ -10,6 +10,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 from langchain.chat_models import init_chat_model
 from langchain_core.messages import HumanMessage, SystemMessage
 import os
+import json
 
 app = Flask(__name__)
 
@@ -196,6 +197,115 @@ def chat():
             'response': response.content
         })
     except Exception as e:
+        return jsonify({
+            'status': 'error',
+            'message': str(e)
+        })
+
+# NEW ROUTE: Generate AI Itinerary
+@app.route('/generate_itinerary', methods=['POST'])
+def generate_itinerary():
+    try:
+        data = request.get_json()
+        duration = data.get('duration', '')
+        interests = data.get('interests', [])
+        travel_type = data.get('travelType', '')
+        budget = data.get('budget', '')
+        
+        # Initialize Groq model
+        model = init_chat_model("groq:llama-3.1-8b-instant")
+        
+        # Create a detailed prompt for the AI
+        interests_str = ', '.join(interests).replace('_', ' ').title()
+        
+        system_prompt = """You are an expert travel itinerary planner specializing in Indian destinations. 
+Create detailed, realistic, and practical itineraries based on user preferences. 
+Your itineraries should include specific times, locations, and activities that match the user's interests.
+Always structure your response as a valid JSON object with this exact format:
+
+{
+  "title": "Trip Title",
+  "days": [
+    {
+      "day": 1,
+      "title": "Day Title",
+      "activities": [
+        {
+          "time": "10:00 AM",
+          "title": "Activity Name",
+          "description": "Detailed description",
+          "location": "Specific Location",
+          "type": "activity_type"
+        }
+      ]
+    }
+  ]
+}
+
+Activity types can be: transport, attraction, food, cultural, activity, trekking, heritage_culture, nature, shopping, nightlife.
+Make sure all times are realistic and activities are logically sequenced throughout the day."""
+
+        user_prompt = f"""Create a {duration} itinerary for travelers interested in {interests_str}.
+Travel type: {travel_type}
+Budget: {budget}
+
+Create a realistic day-by-day itinerary with specific timings, locations, and activities in India that match these interests.
+Focus on destinations in India that are best suited for these preferences.
+Include 3-5 activities per day with proper time gaps.
+Return ONLY a valid JSON object, no additional text."""
+
+        messages = [
+            SystemMessage(system_prompt),
+            HumanMessage(user_prompt)
+        ]
+        
+        # Get AI response
+        response = model.invoke(messages)
+        
+        # Parse the JSON response
+        try:
+            # Clean the response if needed
+            response_text = response.content.strip()
+            # Remove markdown code blocks if present
+            if response_text.startswith('```json'):
+                response_text = response_text.split('```json')[1].split('```')[0].strip()
+            elif response_text.startswith('```'):
+                response_text = response_text.split('```')[1].split('```')[0].strip()
+            
+            itinerary_data = json.loads(response_text)
+            
+            return jsonify({
+                'status': 'success',
+                'itinerary': itinerary_data
+            })
+        except json.JSONDecodeError as e:
+            print(f"JSON Parse Error: {e}")
+            print(f"Response: {response.content}")
+            # Fallback to a simple structure if JSON parsing fails
+            return jsonify({
+                'status': 'success',
+                'itinerary': {
+                    'title': f'{duration} Trip - {interests_str}',
+                    'days': [
+                        {
+                            'day': 1,
+                            'title': 'Exploring Your Destination',
+                            'activities': [
+                                {
+                                    'time': '10:00 AM',
+                                    'title': 'Start Your Journey',
+                                    'description': response.content[:200] + '...',
+                                    'location': 'Main Destination',
+                                    'type': 'activity'
+                                }
+                            ]
+                        }
+                    ]
+                }
+            })
+            
+    except Exception as e:
+        print(f"Error in generate_itinerary: {str(e)}")
         return jsonify({
             'status': 'error',
             'message': str(e)
