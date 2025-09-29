@@ -1,0 +1,335 @@
+/* ===== ITINERARY PAGE SPECIFIC STYLES ===== */
+
+:root {
+    --dark-blue-bg: #0a192f;
+    --light-blue-bg: #112240;
+    --neon-cyan: #00f5ff;
+    --text-primary-it: #ccd6f6;
+    --text-secondary-it: #8892b0;
+    --card-border: rgba(0, 245, 255, 0.2);
+    --shadow-color: rgba(0, 245, 255, 0.25);
+    --hover-bg: rgba(0, 245, 255, 0.1);
+}
+
+/* Preloader Styles */
+.splash-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #0b0d0f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+}
+
+.preloader-logo {
+    width: 100px;
+    height: 100px;
+}
+
+.preloader-logo .logo-circle {
+    stroke: var(--neon-cyan);
+    stroke-width: 4;
+    fill: transparent;
+    stroke-dasharray: 283;
+    stroke-dashoffset: 283;
+    animation: draw-circle 2s ease-in-out forwards;
+}
+
+.preloader-logo .logo-mountain {
+    stroke: white;
+    stroke-width: 4;
+    fill: transparent;
+    stroke-dasharray: 150;
+    stroke-dashoffset: 150;
+    animation: draw-mountain 2s 0.5s ease-in-out forwards;
+}
+
+@keyframes draw-circle {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+@keyframes draw-mountain {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+/* Back to Home Button */
+.back-home-btn {
+    position: fixed;
+    top: 90px;
+    left: 25px;
+    z-index: 1001;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.8), rgba(224, 247, 250, 0.9));
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(0, 255, 255, 0.3);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+    transform-style: preserve-3d;
+    cursor: pointer;
+}
+
+body.dark .back-home-btn {
+    background: rgba(20, 20, 20, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.back-home-btn:hover {
+    transform: scale(1.15) translateZ(20px);
+    box-shadow: 0 10px 30px rgba(0, 229, 255, 0.4), 0 0 20px var(--neon-cyan);
+}
+
+.back-home-btn span {
+    display: none;
+}
+
+/* Itinerary Content Wrapper */
+#itinerary-generator-content {
+    background-color: var(--dark-blue-bg);
+    min-height: 100vh;
+    padding-top: 70px;
+}
+
+/* Fade-in Animation */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: perspective(1000px) translateY(-40px) rotateX(-15deg);
+    }
+    to {
+        opacity: 1;
+        transform: perspective(1000px) translateY(0) rotateX(0);
+    }
+}
+
+.animatable {
+    opacity: 0;
+    animation: fade-in 0.5s ease-out forwards;
+}
+
+/* Control Block Styles */
+.control-block {
+    background-color: var(--light-blue-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 0.5rem;
+    box-shadow: 0 0 30px var(--shadow-color);
+}
+
+/* Custom Select Container */
+.custom-select-container {
+    position: relative;
+    cursor: pointer;
+}
+
+.custom-select-trigger {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem;
+    background-color: var(--dark-blue-bg);
+    border-radius: 0.375rem;
+    border: 1px solid var(--card-border);
+    color: var(--text-primary-it);
+    transition: all 0.2s ease-in-out;
+}
+
+.custom-select-container:hover .custom-select-trigger {
+    border-color: var(--neon-cyan);
+    box-shadow: 0 0 10px var(--shadow-color);
+}
+
+.custom-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: var(--light-blue-bg);
+    border: 1px solid var(--card-border);
+    border-radius: 0.5rem;
+    margin-top: 8px;
+    padding: 0.5rem;
+    z-index: 50;
+    opacity: 0;
+    visibility: hidden;
+    transform: perspective(800px) rotateX(-90deg);
+    transform-origin: top center;
+    transition: transform 0.4s ease, opacity 0.4s ease, visibility 0.4s;
+}
+
+.custom-select-container:hover .custom-options {
+    opacity: 1;
+    visibility: visible;
+    transform: perspective(800px) rotateX(0deg);
+}
+
+.custom-option {
+    padding: 0.75rem;
+    border-radius: 0.25rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+    color: var(--text-primary-it);
+}
+
+.custom-option:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 15px var(--shadow-color);
+    background-color: var(--hover-bg);
+    color: var(--neon-cyan);
+    z-index: 30;
+    position: relative;
+}
+
+/* Interest Buttons */
+.interest-btn {
+    background-color: var(--dark-blue-bg);
+    color: var(--text-secondary-it);
+    border: 1px solid var(--card-border);
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease, color 0.3s ease;
+    padding: 0.75rem;
+    border-radius: 0.375rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.interest-btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px var(--shadow-color), 0 0 8px var(--neon-cyan) inset;
+    color: var(--neon-cyan);
+    z-index: 5;
+}
+
+.interest-btn.selected {
+    background-color: var(--hover-bg);
+    box-shadow: 0 0 20px var(--shadow-color), 0 0 8px var(--neon-cyan) inset;
+    color: var(--neon-cyan);
+    border-color: var(--neon-cyan);
+}
+
+/* Generate Button */
+#generate-btn-new {
+    background: linear-gradient(90deg, #00c3ff, #0075ff);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+#generate-btn-new:hover:not(:disabled) {
+    transform: scale(1.05);
+    box-shadow: 0 0 25px rgba(0, 195, 255, 0.5);
+}
+
+#generate-btn-new:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+/* Loading Spinner */
+.spinner {
+    animation: spin 1s linear infinite;
+    border: 2px solid white;
+    border-radius: 50%;
+    border-top-color: transparent;
+    display: inline-block;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Itinerary Container */
+#itinerary-container-it h2,
+#itinerary-container-it h3 {
+    color: var(--neon-cyan);
+}
+
+#itinerary-container-it .control-block {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+/* Text Colors */
+.text-text-primary-it {
+    color: var(--text-primary-it);
+}
+
+.text-text-secondary-it {
+    color: var(--text-secondary-it);
+}
+
+.text-neon-cyan {
+    color: var(--neon-cyan);
+}
+
+/* Background Colors */
+.bg-dark-blue-bg {
+    background-color: var(--dark-blue-bg);
+}
+
+.bg-light-blue-bg {
+    background-color: var(--light-blue-bg);
+}
+
+/* Border Colors */
+.border-card-border {
+    border-color: var(--card-border);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .back-home-btn {
+        width: 40px;
+        height: 40px;
+        top: 80px;
+        left: 15px;
+    }
+
+    .back-home-btn i {
+        font-size: 1rem;
+    }
+
+    #itinerary-generator-content {
+        padding-top: 60px;
+    }
+
+    .text-4xl {
+        font-size: 1.875rem;
+    }
+
+    .text-xl {
+        font-size: 1.125rem;
+    }
+}
+
+/* Scrollbar Styling */
+.control-block::-webkit-scrollbar {
+    width: 8px;
+}
+
+.control-block::-webkit-scrollbar-track {
+    background: var(--dark-blue-bg);
+    border-radius: 4px;
+}
+
+.control-block::-webkit-scrollbar-thumb {
+    background: var(--neon-cyan);
+    border-radius: 4px;
+}
+
+.control-block::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 245, 255, 0.8);
+}
